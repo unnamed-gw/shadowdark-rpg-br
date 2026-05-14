@@ -330,6 +330,10 @@
       "name": "Aprender uma Magia de Mago",
       "description": "<p>Aprenda 1 magia de mago, grau = 1/2 do seu nível. Conjure-a com INT</p>"
     },
+    "Learn Spell (Mage Armor)": {
+      "name": "Aprender Magia (Armadura arcana)",
+      "description": "<p><span class=\"fontstyle0\">Aprenda uma magia adicional de um grau que já possa conjurar.</span>.</p>"
+    },
     "Learn Extra Spell": {
       "name": "Aprenda uma Magia Extra",
       "description": "<p><span class=\"fontstyle0\">Aprenda uma magia adicional de um grau que já possa conjurar.</span>.</p>"
@@ -536,6 +540,14 @@
     },
     "Weapon Mastery": {
       "name": "Maestria em Armas",
+      "description": "<p>Escolha um tipo de arma, como espada longa, por exemplo. Você recebe +1 em jogadas de ataque e dano com o tipo de arma escolhido. Além disso, adicione metade do seu nível a essas rolagens (arredondando para baixo).</p>"
+    },
+    "Weapon Mastery (Bastard Sword)": {
+      "name": "Maestria em Armas (Espada bastarda)",
+      "description": "<p>Escolha um tipo de arma, como espada longa, por exemplo. Você recebe +1 em jogadas de ataque e dano com o tipo de arma escolhido. Além disso, adicione metade do seu nível a essas rolagens (arredondando para baixo).</p>"
+    },
+    "Weapon Mastery (Greataxe)": {
+      "name": "Maestria em Armas (Machado grande)",
       "description": "<p>Escolha um tipo de arma, como espada longa, por exemplo. Você recebe +1 em jogadas de ataque e dano com o tipo de arma escolhido. Além disso, adicione metade do seu nível a essas rolagens (arredondando para baixo).</p>"
     }
   }
