@@ -206,7 +206,7 @@
       "description": ""
     },
     "Spell Effect: Magnetize": {
-      "name": "Efeito; Magnetizar",
+      "name": "Efeito: Magnetizar",
       "description": "<p>Um objeto que você toca, do tamanho de um cavalo, fica fortemente magnetizado.</p><p>Ele atrai todos os objetos magnéticos menores dentro de um raio Perto.</p><p>Se o objeto puder se mover, será atraído por objetos magnéticos maiores dentro do alcance Perto. Uma criatura metálica deve passar em um teste de FOR igual à seu teste de conjuração para resistir.</p>"
     },
     "Spell Effect: Mirror Image": {

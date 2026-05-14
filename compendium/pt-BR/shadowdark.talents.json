@@ -187,21 +187,10 @@
       "description": "<p>3/dia, você pode fazer uma @UUID[Compendium.shadowdark.class-abilities.Item.Ecajh7eY7lBEHuMv] durante o combate ao se mover, no mínimo, pela distância Perto antes de atacar. A cada vez que fizer isso, seus ataques corpo a corpo causam dano dobrado naquela rodada.</p>"
     },
     "D12 Weapon Damage Die": {
-      "name": "D12 Weapon Damage Die",
+      "name": "Dado de Dano de Arma com D12",
       "effects": {
         "Increased Weapon Damage Die": {
-          "name": "Increased Weapon Damage Die",
-          "changes": {
-            "system": {
-              "roll": {
-                "attack": {
-                  "upgrade-damage-die": {
-                    "REPLACEME": "5"
-                  }
-                }
-              }
-            }
-          }
+          "name": "Dado de Dano de Arma Aumentado"
         }
       }
     },

@@ -264,7 +264,7 @@
       },
       "tables": {
         "The Lost Citadel: Ettercap Behaviors": {
-          "name": "A Citadela Perdida: Comportamento dos Ettercaps",
+          "name": "A Cidadela Perdida: Comportamento dos Ettercaps",
           "description": "",
           "results": {
             "1-1": "Vaidoso/altivo",
@@ -280,7 +280,7 @@
           }
         },
         "The Lost Citadel: Random Encounters": {
-          "name": "A Citadela Perdia: Encontro Aleatório",
+          "name": "A Cidadela Perdia: Encontro Aleatório",
           "description": "",
           "results": {
             "1-1": "<b>@UUID[Actor.XPNU79kJyse04pL3]</b> (Área 18) aparece, urrando em desafio e raspando os cascos no chão de pedra.",
@@ -294,7 +294,7 @@
           }
         },
         "The Lost Citadel: Ettercap Appearances": {
-          "name": "A Citadela Perdida: Aparência dos Ettercaps",
+          "name": "A Cidadela Perdida: Aparência dos Ettercaps",
           "description": "",
           "results": {
             "1-1": "Arrumado/gordo",
@@ -310,7 +310,7 @@
           }
         },
         "The Lost Citadel: Beastmen Behaviors": {
-          "name": "A Citadela Perdida: Comportamento dos Homens-fera",
+          "name": "A Cidadela Perdida: Comportamento dos Homens-fera",
           "description": "",
           "results": {
             "1-1": "Encara/furtivo",
@@ -326,7 +326,7 @@
           }
         },
         "The Lost Citadel: Beastmen Names": {
-          "name": "A Citadela Perdida: Nome dos Homens-fera",
+          "name": "A Cidadela Perdida: Nome dos Homens-fera",
           "description": "",
           "results": {
             "1-1": "Ratazana/Gobbo",
@@ -342,7 +342,7 @@
           }
         },
         "The Lost Citadel: Rumors": {
-          "name": "A Citadela Perdida: Rumores",
+          "name": "A Cidadela Perdida: Rumores",
           "description": "",
           "results": {
             "1-1": "Os antigos reis que habitavam a cidadela possuíam armas mágicas, amplamente conhecidas e temidas.",
@@ -354,7 +354,7 @@
           }
         },
         "The Lost Citadel: Beastmen Appearances": {
-          "name": "A Citadela Perdida: Aparência dos Homens-fera",
+          "name": "A Cidadela Perdida: Aparência dos Homens-fera",
           "description": "",
           "results": {
             "1-1": "Irregular/doentio",
@@ -373,12 +373,12 @@
           "name": "A Cidadela Perdida: Teste de Encontro Aleatório",
           "description": "",
           "results": {
-            "1-1": "A Citadela Perdia: Encontro Aleatório",
+            "1-1": "A Cidadela Perdia: Encontro Aleatório",
             "2-6": "Sem encontro"
           }
         },
         "The Lost Citadel: Ettercap Names": {
-          "name": "A Citadela Perdida: Nome dos Ettercaps",
+          "name": "A Cidadela Perdida: Nome dos Ettercaps",
           "description": "",
           "results": {
             "1-1": "Skalt/Trisk",
@@ -395,7 +395,7 @@
         }
       },
       "folders": {
-        "The Lost Citadel": "A Citadela Perdida",
+        "The Lost Citadel": "A Cidadela Perdida",
         "NPCs": "PNJs",
         "Named Ettercaps": "Nomes de Ettercaps",
         "Named Beastmen": "Nomes de Homens-fera",
@@ -432,7 +432,7 @@
       },
       "journals": {
         "The Lost Citadel": {
-          "name": "A Citadela Perdida",
+          "name": "A Cidadela Perdida",
           "pages": {
             "Area 1-27": {
               "name": "Áreas 1-27",
