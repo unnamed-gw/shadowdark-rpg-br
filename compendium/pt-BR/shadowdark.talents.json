@@ -6,525 +6,525 @@
   "folders": {
     "Class": "Classe",
     "Ancestry": "Ancestralidade",
-    "Patron Boon": "Faveurs du protecteur",
+    "Patron Boon": "Dádivas Patronais",
     "Level": "Nível"
   },
   "entries": {
     "+1 AC Dual Wield": {
-        "name": "+1 de CA avec Deux Armes",
-        "description": "<p>Vous gagnez +1 à votre CA lorsque vous maniez une arme de corps à corps dans chaque main.</p><p><em><strong>Note :</strong> N'oubliez pas d'activer/désactiver l'effet actif <strong>+1 CA avec Deux Armes</strong> dans l'onglet Effets de votre fiche de personnage lorsque nécessaire.</em></p>"
+      "name": "+1 CA com Duas Armas",
+      "description": "<p>Você ganha +1 em sua CA quando empunha uma arma corpo a corpo em cada mão.</p><p><em><strong>Nota:</strong> não se esqueça de ativar/desativar o efeito ativo <strong>+1 CA com Duas Armas</strong> na aba Efeitos da sua ficha de personagem quando necessário.</em></p>"
     },
     "+1 on Spellcasting Checks": {
-        "name": "+1 aux Tests d'Incantation des sorts",
-        "description": ""
+      "name": "+1 em Testes de Conjuração de Magia",
+      "description": ""
     },
     "+1 to AC": {
-        "name": "+1 de CA",
-        "description": "<p>Gain de +1 à votre CA grâce à une clairvoyance surnaturelle.</p>"
+      "name": "+1 de CA",
+      "description": "<p>Ganhe +1 na sua CA graças à clarividência sobrenatural.</p>"
     },
     "+1 to Charisma": {
-        "name": "+1 de Carisma",
-        "description": ""
+      "name": "+1 de Carisma",
+      "description": ""
     },
     "+1 to Constitution": {
-        "name": "+1 de Constituição",
-        "description": ""
+      "name": "+1 de Constituição",
+      "description": ""
     },
     "+1 to Damage": {
-        "name": "+1 aux Dégâts",
-        "description": ""
+      "name": "+1 de Dano",
+      "description": ""
     },
     "+1 to Dexterity": {
-        "name": "+1 de Destreza",
-        "description": ""
+      "name": "+1 de Destreza",
+      "description": ""
     },
     "+1 to Intelligence": {
-        "name": "+1 de Inteligência",
-        "description": ""
+      "name": "+1 de Inteligência",
+      "description": ""
     },
     "+1 to Magical Dabbler Rolls": {
-        "name": "+1 aux jets d'Amateur de magie",
-        "description": ""
+      "name": "+1 em Rolagens de Mago Amador",
+      "description": ""
     },
     "+1 to Melee and Ranged Attacks": {
-        "name": "+1 aux attaques à distance et de CàC",
-        "description": ""
+      "name": "+1 para ataque corpo a corpo ou a distância",
+      "description": ""
     },
     "+1 to Melee Attacks": {
-        "name": "+1 aux Attaques de CàC",
-        "description": ""
+      "name": "+1 para ataques corpo a corpo",
+      "description": ""
     },
     "+1 to Melee Attacks and Damage": {
-        "name": "+1 aux Attaques de CàC et aux Dégâts",
-        "description": ""
+      "name": "+1 para ataques corpo a corpo e dano",
+      "description": ""
     },
     "+1 to Melee Damage": {
-        "name": "+1 aux Dégâts de CàC",
-        "description": ""
+      "name": "+1 para ataques corpo a corpo",
+      "description": ""
     },
     "+1 to Ranged Attacks": {
-        "name": "+1 aux Attaques à Distance",
-        "description": ""
+      "name": "+1 para ataques a distância",
+      "description": ""
     },
     "+1 to Ranged Attacks and Damage": {
-        "name": "+1 aux Attaques à Distance et aux Dégâts",
-        "description": ""
+      "name": "+1 para ataques a distância e dano",
+      "description": ""
     },
     "+1 to Strength": {
-        "name": "+1 de Força",
-        "description": ""
+      "name": "+1 de Força",
+      "description": ""
     },
     "+1 to Weapon Attacks and Damage": {
-        "name": "+1 aux attaques et aux dégâts des armes",
-        "description": ""
+      "name": "+1 para ataques armado e dano",
+      "description": ""
     },
     "+1 to Wisdom": {
-        "name": "+1 de Sabedoria",
-        "description": ""
+      "name": "+1 de Sabedoria",
+      "description": ""
     },
     "+1 use per day of Petrifying Gaze": {
-        "name": "+1 utilisation par jour du Regard pétrifiant",
-        "description": ""
+      "name": "+1 uso por dia de Olhar Petrificante",
+      "description": ""
     },
     "+1 XP for Secrets": {
-        "name": "+1 XP pour les Secrets",
-        "description": "<p>+1 XP chaque fois que vous découvrez un secret précieux ou significatif (relancer les doublons)</p>"
+      "name": "+1XP pelo segredo",
+      "description": "<p>+1 XP cada vez que você descobrir um segredo valioso ou significativo (rolar duplicatas novamente)</p>"
     },
     "+2 to Charisma": {
-        "name": "+2 de Carisma",
-        "description": ""
+      "name": "+2 de Carisma",
+      "description": ""
     },
     "+2 to Constitution": {
-        "name": "+2 de Constituição",
-        "description": ""
+      "name": "+2 de Constituição",
+      "description": ""
     },
     "+2 to Dexterity": {
-        "name": "+2 de Destreza",
-        "description": ""
+      "name": "+2 de Destreza",
+      "description": ""
     },
     "+2 to Intelligence": {
-        "name": "+2 de Inteligência",
-        "description": ""
+      "name": "+2 de Inteligência",
+      "description": ""
     },
     "+2 to Strength": {
-        "name": "+2 de Força",
-        "description": ""
+      "name": "+2 de Força",
+      "description": ""
     },
     "+2 to Wisdom": {
-        "name": "+2 de Sabedoria",
-        "description": ""
+      "name": "+2 de Sabedoria",
+      "description": ""
     },
     "Add Wisdom to Roll": {
-        "name": "Ajouter la Sagesse au Jet",
-        "description": "<p>3 fois par jour, ajoutez votre bonus de Sagesse à n'importe quel Jet (relancer les doublons)</p>"
+      "name": "Adicione Sabedoria a Rolagem",
+      "description": "<p>3 vezes por dia, adicione seu modificador de Sabedoria a qualquer rolagem (role duplicatas novamente)</p>"
     },
     "Additional Black Lotus Talent": {
-        "name": "Talent Supplémentaire du Lotus Noir",
-        "description": "<p>Lancez un talent supplémentaire sur la table des @UUID[Compendium.shadowdark.rollable-tables.RollTable.pQAyZAcfrs9JrG0Q].</p>"
+      "name": "Talento da Lótus Negra Adicional",
+      "description": "<p>Role um talento adicional na tabela @UUID[Compendium.shadowdark.rollable-tables.RollTable.pQAyZAcfrs9JrG0Q].</p>"
     },
     "Additional HP": {
-        "name": "Points de Vie Supplémentaires",
-        "description": "<p>Vous gagnez un dé de points de vie supplémentaire.</p>"
+      "name": "PV Adicional",
+      "description": "<p>Você recebe um dado adicional aos pontos de vida.</p>"
     },
     "Additional Omen Use": {
-        "name": "Utilisation Supplémentaire de Présage",
-        "description": "<p>Gagnez une utilisation supplémentaire de votre talent Présage chaque jour.</p>"
+      "name": "Uso Adicional de Presságio",
+      "description": "<p>Recebe um uso adicional de seu talento Presságio a cada dia.</p>"
     },
     "Additional Use of Charge": {
-        "name": "Utilisation Supplémentaire de Charge",
-        "description": "<p>Gagnez une utilisation supplémentaire de votre talent Charge chaque jour.</p>"
+      "name": "Uso Adicional de Investida",
+      "description": "<p>Receba um uso adicional do seu talento Investida a cada dia.</p>"
     },
     "Additional Use of Smoke Step": {
-        "name": "Utilisation Supplémentaire de Pas de Fumée",
-        "description": "<p>Gagnez une utilisation supplémentaire de votre talent Pas de Fumée.</p>"
+      "name": "Uso Adicional de Passo de Fumaça",
+      "description": "<p>Receba um uso adicional do seu talento Passo de Fumaça.</p>"
     },
     "Advantage on Melee Attacks": {
-        "name": "Avantage aux Attaques de CàC",
-        "description": "<p>1 fois par jour, gagnez un avantage aux attaques de corps à corps pendant 3 rounds.</p><p>Doublon = +1 utilisation par jour</p>"
+      "name": "Vantagem em ataques corpo a corpo",
+      "description": "<p>Uma vez por dia, ganhe vantagem em ataques corpo a corpo por 3 rodadas.</p><p>Duplicado = +1 de uso por dia</p>"
     },
     "Ambitious": {
-        "name": "Ambitieux",
-        "description": "<p><span class=\"fontstyle0\">Vous recevez un jet de talent supplémentaire au 1er niveau.</span></p>"
+      "name": "Ambicioso",
+      "description": "<p><span class=\"fontstyle0\">Você ganha uma rolagem de talento adicional no nível 1.</span></p>"
     },
     "Armor Mastery": {
-        "name": "Maîtrise des armures",
-        "description": ""
+      "name": "Maestria em Armaduras",
+      "description": ""
     },
     "Avoid Entrapment/Injury": {
-        "name": "Éviter l'Enfermement/les Blessures",
-        "description": "<p>Vous avez un avantage sur les tests de Dextérité pour éviter l'enfermement ou les blessures.</p>"
+      "name": "Evitar Aprisionamento/Ferimentos",
+      "description": "<p>Você tem vantagem em testes de Destreza para evitar aprisionamento ou ferimentos.</p>"
     },
     "Backstab": {
-        "name": " Attaque sournoise",
-        "description": "<p><span class=\"fontstyle0\">Quand vous touchez une créature qui n'a pas conscience que vous l'attaquez, vous infligez un nombre de dégâts supplémentaires égal à un dé d’arme. Ajoutez-y un nombre de dés d’arme égal à la moitié de votre niveau (arrondi à l’entier inférieur)</span></p>"
+      "name": "Apunhalada Pelas Costas",
+      "description": "<p><span class=\"fontstyle0\">Se acertar uma criatura que não esteja ciente do seu ataque, você causa dano extra com o dado da arma. Adicione dados de arma adicionais equivalentes à metade do seu nível (arredondando para baixo).</span></p>"
     },
     "Backstab +1 Damage Dice": {
-        "name": "Attaque sournoise : +1 dé de dégâts",
-        "description": "<p><span class=\"fontstyle0\">Vos attaques sournoises infligent +1 dé de dégâts.</span></p>"
+      "name": "Apunhalada Pelas Costas: +1 Dado de Dano",
+      "description": "<p><span class=\"fontstyle0\">Suas apunhaladas pelas costas causam +1 dado de dano.</span></p>"
     },
     "Bardic Arts": {
-        "name": "Arts bardiques",
-        "description": "<p>Vous êtes formé à l'art oratoire, aux arts du spectacle, à la connaissance du monde et à la diplomatie. Vous avez l'avantage sur les tests qui s'y rapportent.</p>"
+      "name": "Artes Bárdicas",
+      "description": "<p>Você é treinado em oratória, artes cênicas, história e diplomacia. Você tem vantagem em testes relacionados.</p>"
     },
     "Basilisk Blood": {
-        "name": "Sang de Basilic",
-        "description": "<p>Vous avez un ADV sur les tests de Constitution pour éviter les maladies, poisons ou afflictions nuisibles.</p>"
+      "name": "Sangue de Basilisco",
+      "description": "<p>Você tem VAN em testes de Constituição para evitar doenças, venenos ou calamidades prejudiciais.</p>"
     },
     "Basilisk Egg": {
-        "name": "Œuf de Basilic",
-        "description": "<p><span class=\"fontstyle0\">Vous trouvez un @UUID[Compendium.shadowdark.gear.Item.zU6dopKBk3pKS9F9]; un bébé fidèle éclôt dans [[/r 1d4]] jours</span></p>"
+      "name": "Ovo de Basilisco",
+      "description": "<p><span class=\"fontstyle0\">Você encontra um @UUID[Compendium.shadowdark.gear.Item.zU6dopKBk3pKS9F9]; um bebê fiel a você nasce em [[/r 1d4]] dias</span></p>"
     },
     "Black Lotus": {
-        "name": "Lotus Noir",
-        "description": "<p>Vous avez gagné le droit de manger un pétale de la légendaire fleur de lotus noir, et vous avez survécu à ses effets de sorcellerie.</p><p>Lancez un talent sur la table des @UUID[Compendium.shadowdark.rollable-tables.RollTable.pQAyZAcfrs9JrG0Q]. Vous pouvez relancer les doublons ou les conserver.</p>"
+      "name": "Lótus Negra",
+      "description": "<p>Você conquistou o direito de comer uma pétala da lendária flor de lótus negra e sobreviveu aos seus efeitos místicos.</p><p>Role um talento na tabela @UUID[Compendium.shadowdark.rollable-tables.RollTable.pQAyZAcfrs9JrG0Q].Você pode rolar novamente as duplicatas ou mantê-las.</p>"
     },
     "Charge": {
-        "name": "Charge",
-        "description": "<p>3 fois par jour, vous pouvez @UUID[Compendium.shadowdark.class-abilities.Item.Ecajh7eY7lBEHuMv] en combat en vous déplaçant au plus proche près de l'ennemi avant d'attaquer. Chaque fois que vous faites cela, vos attaques de corps à corps infligent le double de dégâts pendant ce round.</p>"
+      "name": "Investida",
+      "description": "<p>3/dia, você pode fazer uma @UUID[Compendium.shadowdark.class-abilities.Item.Ecajh7eY7lBEHuMv] durante o combate ao se mover, no mínimo, pela distância Perto antes de atacar. A cada vez que fizer isso, seus ataques corpo a corpo causam dano dobrado naquela rodada.</p>"
     },
     "Deity": {
-        "name": "Divinité",
-        "description": "<p>Choisissez un dieu à servir et correspondant à votre alignement (cf. « Divinités », p. 30). Vous possédez un symbole sacré de votre dieu (qui n’occupe aucun emplacement d’inventaire).</p>"
+      "name": "Divindade",
+      "description": "<p>Escolha um deus com o mesmo alinhamento que você para seguir (veja Divindades, pág. 28). Você possui um símbolo sagrado do seu deus (que não ocupa nenhum espaço de equipamento).</p>"
     },
     "Demonic Possession": {
-        "name": "Possession Démoniaque",
-        "description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.dsFmHTTuERiQePky]</p><p>3 fois par jour, gagnez un bonus de +1 à vos jets de dégâts qui dure 3 rounds. De plus, ajoutez la moitié de votre niveau au bonus de dégâts (arrondi à l'inférieur).</p>"
+      "name": "Possessão demoníaca",
+      "description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.dsFmHTTuERiQePky]</p><p> 3/dia, ganhe um bônus de +1 em suas rolagens de dano por 3 rodadas. Além disso, adicione metade do seu nível ao bônus de dano (arredondando para baixo).</p>"
     },
     "Demonic Possession Bonus": {
-        "name": "Bonus de Possession Démoniaque",
-        "description": "<p>Votre bonus de Possession Démoniaque augmente de 1 point.</p>"
+      "name": "Bônus da possessão demoníaca",
+      "description": "<p>Seu bônus de Possessão Demoníaca aumenta em 1 ponto</p>"
     },
     "Destined": {
-        "name": "Destiné",
-        "description": "<p>Chaque fois que vous utilisez un jeton de chance, ajoutez [[/roll 1d6]] au jet.</p>"
+      "name": "Predestinado",
+      "description": "<p>Sempre que você usar uma ficha de sorte, adicione [[/roll 1d6]] à rolagem.</p>"
     },
     "Duality": {
-        "name": "Dualité",
-        "description": "<p>Choisissez deux effets différents des @UUID[Compendium.shadowdark.talents.Item.A8Siwy6S27LwEkx5] chaque jour</p><p>Doublon = relancer</p>"
+      "name": "Dualidade",
+      "description": "<p>Escolha 2 efeitos diferentes dos @UUID[Compendium.shadowdark.talents.Item.A8Siwy6S27LwEkx5] a cada dia.</p><p>Duplicado = role novamente</p>"
     },
     "Familiar": {
-        "name": "Familiers",
-        "description": "<p>Vous avez un petit animal tel qu'un corbeau, un rat ou une grenouille qui vous sert fidèlement. Il peut parler la langue commune.</p><p>Votre familier peut être la source des sorts que vous lancez. Traitez-le comme s'il était vous pour déterminer les portées des sorts.</p><p>Si votre familier meurt, vous pouvez le ramener à la vie en sacrifiant définitivement 1d4 points de vie.</p>"
+      "name": "Familiar",
+      "description": "<p>Você tem um pequeno animal, como um corvo, rato ou sapo, que lhe serve com lealdade. Ele pode falar o idioma Comum.</p><p>Seu familiar pode ser a fonte das magias que você conjura. Trate-o como se ele fosse você ao determinar o alcance das magias.</p><p>Se seu familiar morrer, você pode restaurá-lo à vida ao sacrificar 1d4 pontos de vida permanentemente.</p>"
     },
     "Farsight (Ranged)": {
-        "name": "Yeux perçants (Armes à Distance)",
-        "description": "<p>VVous bénéficiez d’un bonus de +1 aux jets d’attaque avec des armes à distance ou d’un bonus de +1 aux tests d’incantation.</p>"
+      "name": "Visão Aguçada (Armas à Distância)",
+      "description": "<p>Você recebe um bônus de +1 em jogadas de ataque com armas à distância, ou um bônus de +1 em testes de conjuração.</p>"
     },
     "Farsight (Spell)": {
-        "name": "Yeux perçants (Tests d’incantation)",
-        "description": "<p>Vous bénéficiez d’un bonus de +1 aux jets d’attaque avec des armes à distance ou d’un bonus de +1 aux tests d’incantation.</p>"
+      "name": "Visão Aguçada (Conjuração)",
+      "description": "<p>Você recebe um bônus de +1 em jogadas de ataque com armas à distância, ou um bônus de +1 em testes de conjuração.</p>"
     },
     "Find a Random Priest or Wizard Wand": {
-        "name": "vous trouvez une baguette de prêtre ou de sorcier aléatoire (à vous de choisir)",
-        "description": "<p>Choisissez entre une baguette de prêtre ou de magicien aléatoire</p>"
+      "name": "Você encontra um sacerdote ou varinha mágica aleatória (sua escolha)",
+      "description": "<p>Escolha entre um sacerdote aleatório ou uma varinha mágica</p>"
     },
     "Flourish": {
-        "name": "Coup spectaculaire",
-        "description": "<p><span>3 fois par jour, regagnez 1d6 points de vie lorsque vous touchez un ennemi avec une attaque de corps à corps.</span></p><p>@UUID[Compendium.shadowdark.class-abilities.Item.6snDwCm38HjvO1uv]</p>"
+      "name": "Floreio",
+      "description": "<p><span>3/dia, recupere 1d6 pontos de vida quando atingir um inimigo com um ataque corpo a corpo.</span></p><p>@UUID[Compendium.shadowdark.class-abilities.Item.6snDwCm38HjvO1uv]</p>"
     },
     "Force GM Reroll": {
-        "name": "Forcer une Relance du MJ",
-        "description": "<p>1 fois par jour, forcez le MJ à relancer un seul jet</p><p>Doublon = +1 utilisation par jour</p>"
+      "name": "Forçar MJ a Rolar Novamente",
+      "description": "<p>1/dia, force o MJ a refazer uma só rolagem</p><p>Duplicado = +1 utilização por dia</p>"
     },
     "Force Morale Check": {
-        "name": "Forcer un Test de Morale",
-        "description": "<p>1 fois par jour, forcez une créature proche à tester sa morale, même si elle est immunisée</p><p>Doublon = +1 utilisation par jour</p>"
+      "name": "Força um teste de moral",
+      "description": "<p>1vez por dia, force uma criatura próxima a fazer um Teste de Moral, mesmo que ela seja imune.</p><p>Duplicado = +1 de uso por dia</p>"
     },
     "Go Berserk": {
-        "name": "Devenir Berserk",
-        "description": "<p>1 fois par jour, entrez en @UUID[Compendium.shadowdark.spell-effects.Item.sfeg7jRt0oW5qXO4] : immunité aux dégâts pendant 3 rounds</p><p>Doublon = +1 utilisation/jour</p>"
+      "name": "Entrar em Fúria",
+      "description": "<p>1/dia, entre em @UUID[Compendium.shadowdark.spell-effects.Item.sfeg7jRt0oW5qXO4]: imune a dano por 3 rodadas</p><p>Duplicado = +1 uso/dia</p>"
     },
     "Grit (Dexterity)": {
-        "name": "Cran (Dextérité)",
-        "description": "<p><span class=\"fontstyle0\">Choisissez Force ou Dextérité. Vous êtes avantagé lors des jets de ce type destinés à triompher d’une force opposée, comme lorsqu’il s’agit d’ouvrir une porte fermée d’un coup de pied (Force) ou de vous glisser hors de chaînes rouillées (Dextérité).</span></p>"
+      "name": "Bravura (Destreza)",
+      "description": "<p><span class=\"fontstyle0\">Escolha Força ou Destreza. Você tem Vantagem nos testes deste tipo para superar uma força oposta, como chutar para abrir uma porta emperrada (Força) ou escapar de correntes enferrujadas (Destreza).</span></p>"
     },
     "Grit (Strength)": {
-        "name": "Cran (Force)",
-        "description": "<p><span class=\"fontstyle0\">Choisissez Force ou Dextérité. Vous êtes avantagé lors des jets de ce type destinés à triompher d’une force opposée, comme lorsqu’il s’agit d’ouvrir une porte fermée d’un coup de pied (Force) ou de vous glisser hors de chaînes rouillées (Dextérité).</span></p>"
+      "name": "Bravura (Força)",
+      "description": "<p><span class=\"fontstyle0\">Escolha Força ou Destreza. Você tem Vantagem nos testes deste tipo para superar uma força oposta, como chutar para abrir uma porta emperrada (Força) ou escapar de correntes enferrujadas (Destreza).</span></p>"
     },
     "Hauler": {
-        "name": "Bête de somme",
-        "description": "<p>Ajoutez votre modificateur de Constitution (s’il est positif) à votre nombre d’emplacements d’inventaire.</p>"
+      "name": "Carregador",
+      "description": "<p> Adicione seu modificador de Constituição, se for positivo, aos seus espaços de equipamento.</p>"
     },
     "Herbalism": {
-        "name": "Herboristerie",
-        "description": "<p>Faites un test d'INT pour préparer un remède à base de plantes de votre choix. Si vous échouez, vous ne pouvez pas préparer ce remède à nouveau jusqu'à ce que vous vous reposiez avec succès. Les remèdes non utilisés expirent au bout de 3 rounds.</p><p><strong>ND | Effet</strong></p><p>11 | @UUID[Compendium.shadowdark.class-abilities.Item.UzSmg3aLstFcNsUa]. Guérit 1 PV</p><p>12 | @UUID[Compendium.shadowdark.class-abilities.Item.EhaA5tBROfrws1Kx]. Vous ne pouvez pas être surpris pendant 10 rounds</p><p>13 | @UUID[Compendium.shadowdark.class-abilities.Item.i8PZF77jaVDkCE6n]. Vous avez un ADV sur les attaques et les dégâts contre un type de créature que vous choisissez pendant [[/r 1d6]] rounds</p><p>14 | @UUID[Compendium.shadowdark.class-abilities.Item.3fck7HFRfDywsjQk]. Supprime un poison ou une maladie</p><p>15 | @UUID[Compendium.shadowdark.class-abilities.Item.Ussun0GbRMiJZ8vP]. Équivalent à une @UUID[Compendium.shadowdark.magic-items.jucTGEjsqJ1znHdf]</p>"
+      "name": "Herbalismo",
+      "description": "<p>Faça um teste de INT para preparar um remédio à base de plantas de sua escolha. Se falhar, você não poderá preparar este remédio novamente até que descanse com sucesso. Os remédios não utilizados expiram após 3 rodadas.</p><p><strong>CD | Efeito</strong></p><p>11 | @UUID[Compendium.shadowdark.class-abilities.Item.UzSmg3aLstFcNsUa]. Cura 1 HP</p><p>12 | @UUID[Compendium.shadowdark.class-abilities.Item.EhaA5tBROfrws1Kx]. Você não pode ser surpreendido por 10 rodadas</p><p>13 | @UUID[Compendium.shadowdark.class-abilities.Item.i8PZF77jaVDkCE6n]. Você tem VAN em ataques e danos contra um tipo de criatura de sua escolha por [[/r 1d6]] rodadas</p><p>14 | @UUID[Compendium.shadowdark.class-abilities.Item.3fck7HFRfDywsjQk]. Remove um veneno ou doença</p><p>15 | @UUID[Compendium.shadowdark.class-abilities.Item.Ussun0GbRMiJZ8vP]. Equivalente a @UUID[Compendium.shadowdark.magic-items.jucTGEjsqJ1znHdf]</p>"
     },
     "Herbalism Check Advantage": {
-        "name": "Avantage sur les Tests d'Herboristerie",
-        "description": "<p>Vous avez un ADV sur les tests d'Herboristerie pour une herbe que vous choisissez</p>"
+      "name": "Vantagem em Teste de Herbalismo",
+      "description": "<p>Você tem VAN em testes de Herbalismo para uma erva que você escolher</p>"
     },
     "Hide from Creature": {
-        "name": "Se Cacher d'une Créature",
-        "description": "<p>1 fois par jour, choisissez une créature de niveau 9 ou moins que vous pouvez voir ; elle doit réussir un test de [[check 15 wis]] ou elle ne peut pas vous voir ni vous entendre pendant 1d4 rounds</p>"
+      "name": "Se Esconder de Criatura",
+      "description": "<p>Uma vez por dia, escolha uma criatura de nível 9 ou inferior que você possa ver; ela deve passar em um teste de [[check 15 wis]] ou não poderá ver ou ouvir você por 1d4 rodadas</p>"
     },
     "Hypnotize": {
-        "name": "Hypnotiser",
-        "description": "<p>1 fois par jour, hypnotisez une créature de niveau 5 ou moins pendant 3 rounds</p><p>Doublon = +1 utilisation par jour</p>"
+      "name": "Hipnotizar",
+      "description": "<p>1/dia, hipnotize uma criatura de NV 5 ou menor por 3 rodadas</p><p>Duplicado = +1 uso por dia</p>"
     },
     "Ignore all Damage": {
-        "name": "Ignorer Tous les Dégâts",
-        "description": "<p>1 fois par jour, ignorez tous les dégâts et effets d'une attaque.</p><p>Doublon = utilisation supplémentaire par jour</p>"
+      "name": "Ignorar Todo o Dano",
+      "description": "<p>1/dia, ignore todo o dano e efeitos causados por um ataque</p><p>Duplicado = uso adicional por dia</p>"
     },
     "Immunity to Acid": {
-        "name": "Immunité à l'Acide",
-        "description": ""
+      "name": "Imunidade a Ácido",
+      "description": ""
     },
     "Immunity to Cold": {
-        "name": "Immunité au Froid",
-        "description": ""
+      "name": "Imunidade a Frio",
+      "description": ""
     },
     "Immunity to Poison": {
-        "name": "Immunité au Poison",
-        "description": ""
+      "name": "Imunidade a Veneno",
+      "description": ""
     },
     "Implacable": {
-        "name": "Implacable",
-        "description": "<p><span>Vous avez un avantage sur les tests de Constitution pour résister aux blessures, au poison ou pour endurer des environnements extrêmes.</span></p>"
+      "name": "Implacável",
+      "description": "<p><span>Você tem Vantagem em testes de CON para resistir a ferimentos e venenos ou suportar ambientes extremos.</span></p>"
     },
     "Improved Presence DC": {
-        "name": "Présence Améliorée (ND)",
-        "description": "<p>Les effets de votre Présence deviennent ND 9 pour être activés</p><p>Doublon = relancer</p>"
+      "name": "Presença Aprimorada (CD)",
+      "description": "<p>Os efeitos da sua Presença tornam-se CD 9 para serem ativados</p><p>Duplicado = rolar novamente</p>"
     },
     "Increased Flourish Heal": {
-        "name": "Coup spectaculaire Accru",
-        "description": "<p>Augmentez les PV que vous gagnez avec Coup spectaculaire de [[/r 1d6]]</p>"
+      "name": "Cura de Floreio Aprimorada",
+      "description": "<p>Aumente o PV que você recupera com o Floreio em [[/r 1d6]]</p>"
     },
     "Increased Weapon Damage Die": {
-        "name": "Augmentation du Dé de Dégâts d'Arme",
-        "description": ""
+      "name": "Dado de Dano de Arma Aumentado",
+      "description": ""
     },
     "Initiative Advantage": {
-        "name": "Avantage à l'Initiative",
-        "description": "<p>Gagnez un avantage sur les jets d'initiative (relancez en cas de doublon)</p>"
+      "name": "Vantagem na iniciativa",
+      "description": "<p>Você tem Vantagem nas jogadas de iniciativa (role novamente em caso de duplicado)</p>"
     },
     "Keen Senses": {
-        "name": "Sens aiguisés",
-        "description": "<p><span class=\"fontstyle0\">On ne peut pas vous prendre par surprise.</span></p>"
+      "name": "Sentidos Apurados",
+      "description": "<p><span class=\"fontstyle0\">Você não pode ser surpreendido</span></p>"
     },
     "Knack (Luck)": {
-        "name": "Aptitude (Chance)",
-        "description": "<p><span class=\"fontstyle0\">Vous commencez chaque session avec un jeton de chance.</span></p>"
+      "name": "Aptidão (Sorte)",
+      "description": "<p><span class=\"fontstyle0\">Você começa cada sessão com uma ficha de sorte</span></p>"
     },
     "Knack (Spellcasting)": {
-        "name": "Aptitude (Incantation)",
-        "description": "<p><span class=\"fontstyle0\">Vous obtenez +1 aux tests d'Incantation.</span></p>"
+      "name": "Aptidão (Conjuração)",
+      "description": "<p><span class=\"fontstyle0\">Você ganha +1 em testes de conjuração.</span></p>"
     },
     "Last stand": {
-        "name": "Dernier Souffle",
-        "description": "<p><span>Vous vous relevez d'une situation de mort avec 1 point de vie sur un jet naturel de d20 de 18-20.</span></p>"
+      "name": "Última Resistência",
+      "description": "<p><span>Você se ergue da morte com 1 ponto de vida em uma rolagem natural de 18–20 em um d20.</span></p>"
     },
     "Learn a Wizard Spell": {
-        "name": "Apprendre un Sort de Magicien",
-        "description": "<p>Apprenez un sort de magicien, niveau = la moitié de votre niveau. Lancez-le avec l'INT</p>"
+      "name": "Aprender uma Magia de Mago",
+      "description": "<p>Aprenda 1 magia de mago, grau = 1/2 do seu nível. Conjure-a com INT</p>"
     },
     "Learn Extra Spell": {
-        "name": "Apprendre un sort supplémentaire",
-        "description": "<p><span class=\"fontstyle0\">Apprenez un sort supplémentaire d’un rang maîtrisé.</span>.</p>"
+      "name": "Aprenda uma Magia Extra",
+      "description": "<p><span class=\"fontstyle0\">Aprenda uma magia adicional de um grau que já possa conjurar.</span>.</p>"
     },
     "Learn Melee Weapon": {
-        "name": "Apprendre une Arme de CàC",
-        "description": "<p>Apprenez à manier une arme de corps à corps.</p>"
+      "name": "Aprenda a usar arma corpo a corpo",
+      "description": "<p>Aprenda a usar 1 arma corpo a corpo.</p>"
     },
     "Learn Seer Spell": {
-        "name": "Apprendre un Sort d'Augure",
-        "description": "<p><span class=\"fontstyle0\">Apprenez un sort supplémentaire d'Augure d’un rang maîtrisé.</span>.</p>"
+      "name": "Aprenda Magia de Vidente",
+      "description": "<p><span class=\"fontstyle0\">Aprenda +1 magia de vidente de qualquer grau que você possa conjurar.</span></p>"
     },
     "Learn to Wield a Longbow": {
-        "name": "Apprendre à Manié un Arc Long",
-        "description": ""
+      "name": "Aprenda a usar Arco Longo",
+      "description": ""
     },
     "Learn Witch Spell": {
-        "name": "Apprendre un Sort de Sorcière",
-        "description": "<p>Apprenez un sort supplémentaire de sorcière supplémentaire d’un rang maîtrisé.</p>"
+      "name": "Aprenda uma Magia de Bruxa",
+      "description": "<p>Aprenda +1 magia de bruxa de qualquer grau que você possa conjurar</p>"
     },
     "Learn Wizard Spell": {
-        "name": "Apprendre un Sort de Magicien",
-        "description": "<p><span class=\"fontstyle0\">Apprenez un sort supplémentaire de magicien d’un rang maîtrisé.</span>.</p>"
+      "name": "Aprenda uma Magia de Mago",
+      "description": "<p><span class=\"fontstyle0\">Aprenda +1 magia de mago de qualquer grau que você possa conjurar.</span></p>"
     },
     "Learning Spells": {
-        "name": "Apprentissage des sorts",
-        "description": "<p><span class=\"fontstyle0\"><strong>Apprentissage des sorts.</strong> </span><span class=\"fontstyle2\"> Vous pouvez apprendre définitivement un sort de magicien à partir d’un parchemin de sort en l’étudiant toute une journée et en réussissant un test d’Intelligence [[check 15 int]].</span></p><p><span class=\"fontstyle2\">Que vous réussissiez ou non, le parchemin devient inutilisable.</span></p><p><span class=\"fontstyle2\">Les sorts que vous apprenez de cette manière ne comptent pas dans votre nombre de sorts connus.</span></p>"
+      "name": "Aprendendo Magias",
+      "description": "<p><span class=\"fontstyle0\"><strong>Aprendendo Magias.</strong></span><span class=\"fontstyle2\"> Você pode aprender permanentemente uma magia de mago a partir de um pergaminho mágico, ao estudá-lo por um dia e ser bem-sucedido em um [[check 15 int]].</span></p><p><span class=\"fontstyle2\"> Independentemente de sucesso ou falha, você gasta o pergaminho mágico.</span></p><p><span class=\"fontstyle2\"> Magias que você aprende dessa forma não são contabilizadas no seu número de magias conhecidas.</span></p>"
     },
     "Magic Missile Advantage": {
-        "name": "Avantage sur Missile Magique",
-        "description": "<p>Les magiciens ont toujours un avantage lorsqu'ils lancent Missile Magique.</p>"
+      "name": "Vantagem em Míssil mágico",
+      "description": "<p>Os magos sempre têm uma vantagem ao conjurar Míssil Mágico.</p>"
     },
     "Magic Resistance": {
-        "name": "Résistance Magique",
-        "description": "<p>Les sorts hostiles qui vous ciblent sont toujours difficiles à lancer</p><p>duplicate = relancer</p>"
+      "name": "Resistência Mágica",
+      "description": "<p>Magias hostis que têm como alvo você são sempre difíceis de se conjurar</p><p>Duplicado = rolar novamente</p>"
     },
     "Magical Dabbler": {
-        "name": "Amateur de magie",
-        "description": "<p>Vous pouvez activer des parchemins et des baguettes magiques en utilisant le Charisme comme caractéristique d'incantation. En cas d'échec critique, faites un jet de Catastrophes magiques.</p>"
+      "name": "Mago Amador",
+      "description": "<p>Você pode ativar pergaminhos e varinhas mágicas usando Carisma como atributo de conjuração. Em caso de falha crítica, role uma Falha Mágica.</p>"
     },
     "Make a Random Magic Item": {
-        "name": "Créer un Objet Magique Aléatoire",
-        "description": "<p>Créez un objet magique aléatoire. Voir le compendium <em>Objets Magiques</em>.</p>"
+      "name": "Crie um Item mágico Aleatório",
+      "description": "<p>Crie um item mágico aleatório. Veja o compêndio de <em>Itens Mágicos</em>.</p>"
     },
     "Max 2 HP Rolls": {
-        "name": "Maximiser 2 Lancers de PV",
-        "description": "<p>Maximiser 2 jets de points de vie (antérieurs ou futurs)</p>"
+      "name": "Maximiar 2 Rolagens de PV",
+      "description": "<p>Maximize 2 rolagens de pontos de vida (anteriores ou futuras)</p>"
     },
     "Mighty": {
-        "name": "Puissance",
-        "description": "<p>Vous bénéficiez d’un bonus de +1 aux jets d’attaque et aux dégâts avec des armes de corps à corps.</p>"
+      "name": "Poderoso",
+      "description": "<p>Você recebe um bônus de +1 em jogadas de ataque e dano com armas corpo a corpo.</p>"
     },
     "Morale Checks at DC 18": {
-        "name": "Vérifications de Morale à ND 18",
-        "description": "<p>Lorsque des ennemis vous voyant effectuent un test de morale, le ND est de 18 au lieu de 15</p>"
+      "name": "Testes de Moral com CD 18",
+      "description": "<p>Quando os inimigos veem você ao realizar um teste de moral, o CD é 18 em vez de 15</p>"
     },
     "Mount": {
-        "name": "Monture",
-        "description": "Vous avez un chameau ou un cheval commun au comportement sûr ou attachant (voir p. 29). Il vient quand vous l'appelez et ne s'effraie jamais. Vous ne pouvez avoir qu'une seule monture de ce type à la fois. </p><p>Lorsque vous chevauchez votre monture, vous bénéficiez tous deux d'un bonus à la CA égal à la moitié de votre niveau (arrondir à l'inférieur). Votre monture possède des niveaux supplémentaires égaux à la moitié de votre niveau (arrondir à l'inférieur). Vous pouvez librement sauter sur votre monture ou en descendre une fois par round. </p><p>Si vous perdez votre monture, vous pouvez utiliser votre temps d'arrêt pour en acquérir et en dresser une autre. Réussissez un test de [[check 15 cha]] pour que la nouvelle créature devienne votre monture. Baissez le ND d'un cran à chaque tentative.</p>"
+      "name": "Montaria",
+      "description": "Você possui um cavalo ou camelo comum, com um temperamento Confiável ou Amável (veja a pág. 29). Ele vai até você quando é chamado, e nunca se assusta. Você só pode ter uma montaria como essa por vez. </p><p>Enquanto estiver montado, vocês dois têm um bônus de CA igual à metade do seu nível (arredondando para baixo). Sua montaria tem níveis adicionais igual à metade do seu nível (arredondando para baixo). Você pode montar ou desmontar livremente uma vez por rodada. </p><p>Se perder sua montaria, você pode usar seu tempo livre para adquirir e treinar outra. Sucesso em um [[check 15 cha] garante que a nova criatura se torne sua montaria. A cada tentativa, reduza a CD em um passo.</p>"
     },
     "Old Gods": {
-        "name": "Anciens Dieux",
-        "description": "<p>Chaque jour, votre but s'aligne avec l'un des Anciens Dieux. Choisissez l'une des options ci-dessous après avoir complété un repos; vous en bénéficiez jusqu'à votre prochain repos.</p><ul><li><p><strong>Odin.</strong> Vous regagnez 1d4 PV chaque fois que vous tuez un ennemi.</p></li><li><p><strong>Freya.</strong> Vous gagnez un jeton de chance si vous n'en avez pas. Chaque fois que vous utilisez un jeton de chance, ajoutez 1d6 à votre jet.</p></li><li><p><strong>Loki.</strong> Vous avez un avantage sur les tests pour mentir, vous faufiler et vous cacher.</p></li></ul>"
+      "name": "Deuses Antigos",
+      "description": "<p>A cada dia, seu propósito se alinha com um dos Deuses Antigos (pág. 17). Escolha uma das opções abaixo depois de completar um descanso. Você recebe os respectivos benefícios até completar o próximo descanso:</p><ul><li><p><strong>Odin.</strong>Você recupera 1d4 PV toda vez que mata um inimigo.</p></li><li><p><strong>Freya.</strong> Uma vez por dia, você ganha uma ficha de sorte se não possuir uma. Sempre que você usar uma ficha de sorte, adicione 1d6 à sua rolagem.</p></li><li><p><strong>Loki.</strong>Você tem Vantagem em testes para mentir, se esgueirar e se esconder.</p></li></ul>"
     },
     "Omen": {
-        "name": "Présage",
-        "description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.pRO1kFMnFkkcYOgC]</p><p>3/jour, vous pouvez effectuer un test [[check 9 wis]]. En cas de succès, obtenez un jeton de chance (vous ne pouvez pas en avoir plus d'un à la fois).</p>"
+      "name": "Presságio",
+      "description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.pRO1kFMnFkkcYOgC]</p><p>3/dia, você pode fazer um teste de SAB CD 9. Em um sucesso, ganhe uma ficha de sorte (você não pode ter mais de uma ficha de sorte por vez).</p>"
     },
     "Paralyze a Target": {
-        "name": "Paralyser une Cible",
-        "description": "<p>1/jour, paralyser une cible de niveau 9 ou moins que vous avez endommagée avec une arme pendant 1d4 tours.</p>"
+      "name": "Paralisar um Alvo",
+      "description": "<p>1/dia, paralise um alvo de NV 9 ou menor por 1d4 rodadas quando causar dano a ele com uma arma.</p>"
     },
     "Patron": {
-        "name": "Patron",
-        "description": "<p>Choisissez un patron à servir (voir p. 17). Votre patron est la source de vos dons surnaturels. Si votre patron est mécontent de vous, il peut retenir ses dons. Vous perdez tous les talents accordés par vos Faveurs du protecteur durant cette période.</p>"
+      "name": "Patrono",
+      "description": "<p>Escolha um patrono para servir (veja a pág. 17). Seu patrono é a fonte de seus dons sobrenaturais. Seu patrono pode decidir se concede ou retém seus dons a qualquer momento. Como resultado, você pode ganhar (ou perder) novas Dádivas Patronais ou talentos.</p>"
     },
     "Patron Boon": {
-        "name": "Faveurs du protecteur",
-        "description": "<p>Au niveau 1, vous obtenez un talent aléatoire de Faveurs du protecteur (voir p. 18) basé sur le patron que vous avez choisi.</p><p>Chaque fois que vous obtenez un nouveau jet de talent, vous pouvez choisir de faire le jet sur la table des Faveurs du protecteur plutôt que sur la table des Talents d'Ensorceleur.</p>"
+      "name": "Dádiva Patronal",
+      "description": "<p>No nível 1, você ganha um talento de Dádiva Patronal aleatório (veja a pág. 18) de acordo com o patrono escolhido. </p><p>Sempre que você ganhar uma nova rolagem de talento, você pode rolar na sua tabela de Dádiva Patronal em vez da tabela Talentos de Profanador.</p>"
     },
     "Petrifying Gaze": {
-        "name": "Regard Pétrifiant",
-        "description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.Jkl9j4RZ2WYy0Gmd]</p><p>Une créature de votre niveau ou moins qui croise votre regard doit réussir un test de CON ND 15 ou être pétrifiée pendant 1d4 tours. Elle subit toujours des dégâts normalement pendant qu'elle est pétrifiée.</p><p>Vous pouvez utiliser ce talent un nombre de fois par jour égal à votre modificateur de CON (minimum 1).</p>"
+      "name": "Olhar Petrificante",
+      "description": "<p>@UUID[Compendium.shadowdark.class-abilities.Item.Jkl9j4RZ2WYy0Gmd]</p><p>Uma criatura do seu nível ou inferior que encontre o seu olhar deve passar em um teste CON CD 15 ou ficará petrificada por 1d4 rodadas. Ela ainda sofre dano normalmente enquanto estiver petrificada.</p><p>Você pode usar esse talento um número de vezes por dia igual ao seu modificador de CON (mínimo 1).</p>"
     },
     "Poisons Training": {
-        "name": "Formation aux Poisons",
-        "description": "<p>Vous êtes formé à l'utilisation des poisons (voir p. 27)</p><p>duplicate = relancer</p>"
+      "name": "Treinamento em Venenos",
+      "description": "<p>Você é treinado no uso de venenos (veja p. 27)</p><p>Duplicado = rolar novamente</p>"
     },
     "Presence": {
-        "name": "Présence",
-        "description": "<p>Faites un test [[check 12 cha]] pour obtenir l'un des effets suivants. En cas d'échec, vous ne pouvez plus utiliser cet effet tant que vous ne bénéficiez pas d’un repos complet.</p><ul><li><p>@UUID[Compendium.shadowdark.class-abilities.Item.jg2sUC3nIAI8sT18] ND 12. Une cible située jusqu’à portée intermédiaire, gagne un jeton de chance.</p></li><li><p>@UUID[Compendium.shadowdark.class-abilities.Item.oCNpE6bnZjPIdOO1] (Focalisation). Vous envoûtez toutes les cibles choisies de niveau 4 ou moins situées jusqu’à portée intermédiaire.</p></li></ul>"
+      "name": "Presença",
+      "description": "<p>Faça um teste [[check 12 cha]] para obter um dos seguintes efeitos. Em caso de falha, você não pode usar este efeito novamente até que tenha um descanso completo.</p><ul><li><p>@UUID[Compendium.shadowdark.class-abilities.Item.jg2sUC3nIAI8sT18] CD 12. Um alvo até o alcance Perto ganha uma ficha de sorte.</p></li><li><p>@UUID[Compendium.shadowdark.class-abilities.Item.oCNpE6bnZjPIdOO1] (Concentração). Você enfeitiça todos os alvos escolhidos de nível 4 ou inferior dentro do alcance Perto.</p></li></ul>"
     },
     "Prolific": {
-        "name": "Prolifique",
-        "description": "<p>Ajoutez 1d6 à vos jets de connaissances. Les groupes ayant plus d'un barde ajoutent 1d6 supplémentaire.</p>"
+      "name": "Prolífico",
+      "description": "<p>Adicione 1d6 aos seus testes para aprender. Grupos com mais de um bardo adicionam 1d6 aos dados deles.</p>"
     },
     "Read Mind of Creature": {
-        "name": "Lire l'Esprit d'une Créature",
-        "description": "<p>1/jour, lisez l'esprit d'une créature que vous touchez pendant 3 tours</p><p>duplicate = +1 utilisation par jour</p>"
+      "name": "Ler Mente de uma Criatura",
+      "description": "<p>1/dia, leia a mente de uma criatura que você toca por 3 rodadas</p><p>Duplicado = +1 uso por dia</p>"
     },
     "Relentless": {
-        "name": "Inébranlable",
-        "description": "<p><span>3/jour, lorsque vous êtes réduit à 0 PV, effectuez un test [[check 18 con]] (le talent Implacable s'applique à ce jet). En cas de succès, vous restez à 1 PV.</span></p><p>@UUID[Compendium.shadowdark.class-abilities.Item.z5uKTDf4wtkipQ4s]</p>"
+      "name": "Incansável",
+      "description": "<p><span>3/dia, quando seus PV forem reduzidos a 0, faça um teste de CON CD 18 (o talento Implacável se aplica a essa rolagem). Em um sucesso, você fica com 1 PV.</span></p><p>@UUID[Compendium.shadowdark.class-abilities.Item.z5uKTDf4wtkipQ4s]</p>"
     },
     "Ride any Creature": {
-        "name": "Monter n'importe quelle Créature",
-        "description": "<p>Vous pouvez utiliser n'importe quelle créature portant un cavalier comme monture.</p>"
+      "name": "Monte qualquer criatura",
+      "description": "<p>Você pode usar qualquer criatura carregando um cavaleiro como montaria.</p>"
     },
     "Seafarer": {
-        "name": "Marin",
-        "description": "<p>Vous avez un avantage sur les tests liés à la navigation et à l'équipage des bateaux.</p>"
+      "name": "Marinheiro",
+      "description": "<p>Você tem Vantagem em testes relacionados à navegação e à tripulação de embarcações.</p>"
     },
     "Shield Wall": {
-        "name": "Mur de Boucliers",
-        "description": "<p>Si vous maniez un bouclier, vous pouvez utiliser votre action pour prendre une posture défensive. Votre CA devient 20 pendant ce temps.</p>"
+      "name": "Muralha de Escudo",
+      "description": "<p>Se estiver empunhando um escudo, você pode usar sua ação para assumir uma postura defensiva. Sua CA se torna 20 durante esse período.</p>"
     },
     "Sleep a Creature": {
-        "name": "Endormir une Créature",
-        "description": "<p>1/jour, choisissez une créature vivante de niveau 5 ou moins que vous pouvez voir à portée ; elle doit réussir un test de CON ND 15 ou s'endormir</p>"
+      "name": "Adormecer criatura",
+      "description": "<p>1/dia, escolha uma criatura viva de nível 5 ou menos que você possa ver dentro do alcance; ela deve passar no teste CON CD 15 ou adormece</p>"
     },
     "Slime Form": {
-        "name": "Forme de Boue",
-        "description": "<p>1/jour, transformez-vous en une flaque de boue rampante pendant 3 tours</p><p>duplicate = +1 utilisation par jour</p>"
+      "name": "Forma de Gosma",
+      "description": "<p>Se transforma em uma poça de gosma que pode escalar paredes por 1d4 rodadas (não conta como ação).</p><p>Duplicado = +1 uso por dia</p>"
     },
     "Smoke Step": {
-        "name": "Pas de Fumée",
-        "description": "<p>3/jour, téléportez-vous à un endroit visible à portée. Cela ne consomme pas votre action.</p>"
+      "name": "Passo de Fumaça",
+      "description": "<p>3/dia, teleporta-se para um local visível dentro do alcance. Isso não consome sua ação.</p>"
     },
     "Spellcasting (Knight of St. Ydris)": {
-        "name": "Incantation (Chevalier de St. Ydris)",
-        "description": "<p>Vous pouvez lancer les sorts de sorcière que vous connaissez.</p><p>Chaque fois que vous gagnez un niveau, vous choisissez de nouveaux sorts de sorcière à apprendre selon la table des Sorts de Sorcière.</p>"
+      "name": "Conjuração (Cavaleiro de São Ydris)",
+      "description": "<p>Você pode conjurar as magias de bruxa que você conhece. </p><p>A cada nível que você ganhar, escolha novas magias de bruxa para aprender, de acordo com a tabela de Magias de Bruxa Conhecidas. </p>"
     },
     "Spellcasting (Priest)": {
-        "name": "Incantation (Prêtre)",
-        "description": "<p><span class=\"fontstyle0\"><strong>Incantation.</strong> </span><span class=\"fontstyle2\">Vous pouvez lancer les sorts de prêtre que vous connaissez.</span></p><p><span class=\"fontstyle2\">Vous connaissez deux sorts de rang 1 à choisir dans la liste de sorts de prêtre p. 57.</span></p><p><span class=\"fontstyle2\">Chaque fois que vous gagnez un niveau, vous choisissez de nouveaux sorts de prêtre à apprendre conformément à la table de sorts de prêtres connus.</span></p><p><span class=\"fontstyle2\">Pour lancer les sorts de prêtre, consultez « Lancer les sorts » p. 52.</span></p>"
+      "name": "Conjuração (Sacerdote)",
+      "description": "<p><span class=\"fontstyle0\"><strong>Conjuração.</strong></span><span class=\"fontstyle2\"> Você pode conjurar as magias de sacerdote que você conhece.</span></p><p><span class=\"fontstyle2\"> Você conhece duas magias de grau 1, à sua escolha, da lista de magias de sacerdote da pág. 51.</span></p><p><span class=\"fontstyle2\"> A cada nível que você ganhar, escolha novas magias de sacerdote para aprender, de acordo com a tabela de Magias de Sacerdote Conhecidas.</span></p><p><span class=\"fontstyle2\"> Para conjurar magias de sacerdote, veja Conjuração, na pág. 44.</span></p>"
     },
     "Spellcasting (Seer)": {
-        "name": "Incantation (Augure)",
-        "description": "<p>Vous pouvez lancer les sorts d'Augure que vous connaissez. Vous connaissez un sort de niveau 1 au choix dans la liste des sorts d'Augure (voir p. 30).</p><p>Chaque fois que vous gagnez un niveau, vous choisissez un nouveau sort d'Augure à apprendre selon la table des Sorts d'Augure Connus.</p><p>Vous utilisez votre Sagesse pour lancer les sorts d'Augure. Le ND est de 10 + le niveau du sort.</p><p>Si vous échouez un test de lancement de sort, vous ne pouvez plus lancer ce sort jusqu'à avoir effectué un repos. Si vous obtenez un 1 naturel lors d'un test de lancement de sort, vous ne pouvez plus lancer ce sort jusqu'à avoir complété la Pénitence de l'Augure.</p><p><strong>Pénitence de l'Augure</strong></p><p>Sort de niveau 1 : Abandonnez temporairement 1d4 PV (vous restez à 1 PV minimum); ces PV reviendront après une semaine.</p><p>Sort de niveau 2 : Réduisez temporairement votre caractéristique de Sagesse de 2 points; ces points reviendront après deux semaines.</p><p>Sort de niveau 3 : Sacrifiez 1 point de Charisme; il ne reviendra jamais.</p><p>Sort de niveau 4 : Sacrifiez rituellement un bateau long en feu dans la mer.</p><p>Sort de niveau 5 : Sacrifiez rituellement 9 vies humanoïdes.</p>"
+      "name": "Conjuração (Vidente)",
+      "description": "<p>Você pode conjurar as magias de vidente que você conhece. Você conhece uma magia de grau 1, à sua escolha, da lista de magias de vidente (veja a pág. 30).</p><p> A cada nível que você ganhar, escolha uma nova magia de vidente para aprender, de acordo com a tabela de Magias de Vidente Conhecidas.</p><p> Você usa a sua Sabedoria para conjurar magias de vidente. A CD é 10 + o grau da magia.</p><p> Se falhar no teste de conjuração, você não poderá conjurar a mesma magia novamente até que complete um descanso. Se você rolar 1 natural em um teste de conjuração, você não poderá conjurar a mesma magia novamente até que complete uma Penitência de Vidente.</p><p><strong>Penitência de Vidente</strong></p><p>Magia de Grau 1: Sacrifique temporariamente 1d4 PV (você fica com um mínimo de 1 PV); eles retornam em uma semana.</p><p>Magia de Grau 2: Reduza temporariamente sua SAB em 2 pontos; eles retornam em duas semanas.</p><p>Magia de Grau 3: Sacrifique 1 ponto de CAR; ele nunca irá retornar.</p><p>Magia de Grau 4: Afunde ritualisticamente um dracar em chamas no mar.</p><p>Magia de Grau 5: Sacrifique ritualisticamente 9 vidas humanoides.</p>"
     },
     "Spellcasting (Witch)": {
-        "name": "Incantation (Sorcière)",
-        "description": "<p>Vous pouvez lancer les sorts de sorcière que vous connaissez.</p><p>Vous connaissez trois sorts de niveau 1 au choix dans la liste des sorts de sorcière (voir p. 24).</p><p>Chaque fois que vous gagnez un niveau, vous choisissez de nouveaux sorts de sorcière à apprendre selon la table des Sorts de Sorcière Connus.</p><p>Vous utilisez votre Charisme pour lancer les sorts de sorcière. Le ND est de 10 + le niveau du sort.</p><p>Si vous échouez un test de lancement de sort, vous ne pouvez plus lancer ce sort jusqu'à avoir effectué un repos.</p><p>Si vous obtenez un 1 naturel lors d'un test de lancement de sort, vous devez également lancer sur la table des Maléficiences Diaboliques correspondant au niveau du sort (voir p. 22).</p>"
+      "name": "Conjuração (Bruxa)",
+      "description": "<p>Você pode conjurar as magias de bruxa que você conhece.</p><p> Você conhece três magias de grau 1, à sua escolha, da lista de magias de bruxa (veja a pág. 24). A cada nível que você ganhar, escolha novas magias de bruxa para aprender, de acordo com a tabela Magias de Bruxa Conhecidas. Você usa o seu Carisma para conjurar magias de bruxa. A CD é 10 + o grau da magia. </p><p>Se falhar no teste de conjuração, você não poderá conjurar a mesma magia novamente até que complete um descanso.</p><p> Se você rolar 1 natural em um teste de conjuração, você também deve rolar na tabela de Falhas Diabólicas (veja a pág. 22) correspondente ao grau da magia.</p>"
     },
     "Spellcasting (Wizard)": {
-        "name": "Incantation (Magicien)",
-        "description": "<p><span class=\"fontstyle0\"><strong>Incantation.</strong> </span><span class=\"fontstyle2\">Vous pouvez lancer les sorts de magicien que vous connaissez.</span></p><p><span class=\"fontstyle2\">Vous connaissez trois sorts de niveau 1 au choix dans la liste des sorts de magicien (voir p. 57).</span></p><p><span class=\"fontstyle2\">Chaque fois que vous gagnez un niveau, vous choisissez de nouveaux sorts de magicien à apprendre selon la table des Sorts de Magicien Connus.</span></p><p><span class=\"fontstyle2\">Pour lancer les sorts de magicien, consultez « Lancer les sorts » p. 52.</span></p>"
+      "name": "Conjuracão (Mago)",
+      "description": "<p><span class=\"fontstyle0\"><strong>Conjuração.</strong></span><span class=\"fontstyle2\">Você pode conjurar as magias de mago que você conhece.</span></p><p><span class=\"fontstyle2\"> Você conhece três magias de grau 1, à sua escolha, da lista de magias de mago da pág. 52. </span></p><p><span class=\"fontstyle2\">A cada nível que você ganhar, escolha novas magias de mago para aprender, de acordo com a tabela de Magias de Mago Conhecidas.</span></p><p><span class=\"fontstyle2\"> Para conjurar magias de mago, veja Conjuração, na pág. 44.</span></p>"
     },
     "Spellcasting Advantage": {
-        "name": "Avantage au Lancement de sorts",
-        "description": "<p>Obtenez un avantage pour lancer un sort que vous connaissez.</p>"
+      "name": "Vantagem em Conjuração",
+      "description": "<p>Ganhe uma vantagem ao lançar uma magia que você conhece.</p>"
     },
     "Stealthy": {
-        "name": "Discret",
-        "description": "<p><span class=\"fontstyle0\">Une fois par jour, vous pouvez devenir invisible pendant 3 tours.</span></p>"
+      "name": "Furtivo",
+      "description": "<p><span class=\"fontstyle0\">Uma vez por dia, você pode ficar invisível por 3 rodadas.</span></p>"
     },
     "Stone Skin": {
-        "name": "Peau de Pierre",
-        "description": "<p>Ajoutez 2 + la moitié de votre niveau (arrondi à l'inférieur) à votre CA.</p><p>Vous avez un avantage sur les tests pour vous cacher dans des environnements naturels.</p>"
+      "name": "Pele de Pedra",
+      "description": "<p>Adicione 2 + metade do seu nível (arredondado para baixo) à sua CA.</p><p>Você tem vantagem em testes para se esconder em ambientes naturais.</p>"
     },
     "Stout": {
-        "name": "Robuste",
-        "description": "<p>Commencez avec +2 PV. Vous avez l’avantage lorsque vous lancez le dé de points de vie par niveau.</p>"
+      "name": "Robusto",
+      "description": "<p>Inicia com +2 PV. Role os pontos de vida a cada nível com Vantagem.</p>"
     },
     "Teleport": {
-        "name": "Téléportation",
-        "description": "<p>1 fois par jour, téléportez-vous vers un endroit lointain que vous voyez en utilisant votre mouvement.</p><p>duplicate = +1 utilisation par jour</p>"
+      "name": "Teleporte",
+      "description": "<p>Uma vez por dia, teleporte-se para um local distante que você possa ver usando seu movimento.</p><p>Duplicado = +1 uso por dia</p>"
     },
     "Teleport to Familiar": {
-        "name": "Téléportation vers le Familier",
-        "description": "<p>1 fois par jour, téléportez-vous vers l'emplacement de votre familier en utilisant votre mouvement.</p><p>duplicate = +1 utilisation par jour</p>"
+      "name": "Teleporte para Familiar",
+      "description": "<p>Uma vez por dia, teleporte-se para a localização do seu familiar usando seu movimento.</p><p>Duplicado = +1 uso por dia</p>"
     },
     "Thievery": {
-        "name": "Larcin",
-        "description": "<p><span class=\"fontstyle0\">Vous êtes doué pour les compétences de vol et possédez les outils nécessaires dissimulés sur vous (ils ne prennent aucune place d'équipement).</span></p><p><span class=\"fontstyle0\">Vous êtes formé aux tâches suivantes et avez un avantage sur les tests associés :</span></p><ul><li><p><span class=\"fontstyle0\">Escalade</span></p></li><li><p><span class=\"fontstyle0\">Se faufiler et se cacher</span></p></li><li><p><span class=\"fontstyle0\">Appliquer des déguisements</span></p></li><li><p><span class=\"fontstyle0\">Trouver et désactiver des pièges</span></p></li><li><p><span class=\"fontstyle0\">Tâches délicates comme voler des poches ou ouvrir des serrures</span></p></li></ul>"
+      "name": "Ladroagem",
+      "description": "<p><span class=\"fontstyle0\">Você tem proficiência em habilidades de roubo e possui as ferramentas necessárias para isso escondidas com você (elas não ocupam espaços de equipamento).</span></p><p><span class=\"fontstyle0\"> Você é treinado nas habilidades a seguir e tem Vantagem em qualquer teste associado a elas:</span></p><ul><li><p><span class=\"fontstyle0\">Escalar</span></p></li><li><p><span class=\"fontstyle0\">Esgueirar-se e esconder-se.</span></p></li><li><p><span class=\"fontstyle0\">Usar disfarces.</span></p></li><li><p><span class=\"fontstyle0\">Encontrar e desarmar armadilhas.</span></p></li><li><p><span class=\"fontstyle0\">Tarefas delicadas como roubar bolsos e abrir fechaduras.</span></p></li></ul>"
     },
     "Trained Assassin": {
-        "name": "Assassin Entraîné",
-        "description": "<p>Vous avez un avantage sur les tests pour vous faufiler et vous cacher. Vos attaques infligent des dégâts doubles contre des cibles qui ne sont pas conscientes de votre présence.</p>"
+      "name": "Assassino",
+      "description": "<p>Você tem Vantagem em testes para se esgueirar e se esconder. Seus ataques causam dano dobrado em alvos que não estão cientes de sua presença.</p>"
     },
     "Triple Damage Assassin": {
-        "name": "Assassin Triple Dégâts",
-        "description": "<p>Vous infligez des dégâts triples avec votre talent d'Assassin Entraîné.</p>"
+      "name": "Dano Triplo de Assassino",
+      "description": "<p>Você causa o triplo de dano com seu talento Assassino.</p>"
     },
     "Turn Undead": {
-        "name": "Renvoi des Morts-vivants",
-        "description": "<p><span class=\"fontstyle0\">Vous connaissez le sort </span><span class=\"fontstyle2\">Renvoi des Morts-vivants</span><span class=\"fontstyle0\">. Il ne compte pas dans le nombre de sorts que vous connaissez.</span></p>"
+      "name": "Expulsar Mortos-vivos",
+      "description": "<p><span class=\"fontstyle0\">Você conhece a magia </span><span class=\"fontstyle2\">expulsar mortos-vivos</span><span class=\"fontstyle0\">. Essa magia não é contabilizada no seu número de magias conhecidas.</span></p>"
     },
     "Upgrade Destined Die": {
-        "name": "Améliorer le Dé du Destiné",
-        "description": "<p>Augmentez la catégorie du dé de votre talent Destiné d'une étape.</p>"
+      "name": "Dado de Predestinado Aprimorado",
+      "description": "<p>Aumente a categoria do dado do seu talento de Predestinado em um passo.</p>"
     },
     "Walk on Sheer Surfaces": {
-        "name": "Marcher sur des Surfaces Verticales",
-        "description": "<p>1 fois par jour, vous pouvez marcher sur des surfaces verticales comme les murs pendant 1d4 tours.</p>"
+      "name": "Andar em Superfícies Íngremes",
+      "description": "<p>1/dia, você pode andar em superfícies íngremes, como paredes, por 1d4 rodadas.</p>"
     },
     "Walk on Water": {
-        "name": "Marcher sur l'Eau",
-        "description": "<p>1 fois par jour, vous pouvez marcher sur l'eau comme si elle était solide pendant 1d4 tours.</p>"
+      "name": "Andar sobre a Água",
+      "description": "<p>1/dia, você pode andar sobre a água por 1d4 rodadas como se fosse uma superfície sólida.</p>"
     },
     "Wayfinder": {
-        "name": "Explorateur",
-        "description": "<p>Vous avez un avantage sur les tests associés à :</p><ul><li><p>Navigation</p></li><li><p>Suivi</p></li><li><p>Survie</p></li><li><p>Discrétion</p></li><li><p>Animaux sauvages</p></li></ul>"
+      "name": "Explorador",
+      "description": "<p>Você tem VAN em testes associados a:</p><ul><li><p>Navegação</p></li><li><p>Rastreamento</p></li><li><p>Sobrevivência</p></li><li><p>Furtividade</p></li><li><p>Animais selvagens</p></li></ul>"
     },
     "Weapon Mastery": {
-        "name": "Maîtrise des armes",
-        "description": "<p>Choisissez un type d’arme, comme les épées longues. Vous bénéficiez d’un bonus de +1 aux jets d’attaque et de dégâts avec ce type d’arme. En outre, vous ajoutez la moitié de votre niveau (arrondi à l’entier inférieur) à ces jets.</p>"
+      "name": "Maestria em Armas",
+      "description": "<p>Escolha um tipo de arma, como espada longa, por exemplo. Você recebe +1 em jogadas de ataque e dano com o tipo de arma escolhido. Além disso, adicione metade do seu nível a essas rolagens (arredondando para baixo).</p>"
     }
   }
 }

@@ -9,60 +9,60 @@
   },
   "entries": {
     "Blowgun": {
-      "name": "Sarbacane",
-      "description": "<p>Tirer avec cette arme depuis un endroit caché ne révèle pas votre position.</p>"
+      "name": "Zarabatana",
+      "description": "<p>Atirar com essa arma \r\nenquanto está escondido não revela \r\nsua posição.</p>"
     },
     "Bolas": {
-      "name": "Bolas",
-      "description": "<p>Lorsque vous touchez une créature à pattes de la taille d'un cheval ou plus petit, la vitesse de la cible est réduite à la marche jusqu'à ce qu'elle se libère ([[vérification 15 de force]] ou vérification DEX).</p>"
+      "name": "Boleadeira",
+      "description": "<p> Quando você atinge uma criatura com pernas, e que seja do tamanho de um cavalo ou menor, a velocidade do alvo é reduzida para Adjacente até que ele se liberte ([[teste de FOR CD15]] ou [[teste de DES CD 15]]).</p>"
     },
     "Breakable": {
-      "name": "Fragile",
-      "description": "<p>Cette arme se casse lors d'un jet d'attaque naturel de 1.</p>"
+      "name": "Quebrável",
+      "description": "<p>Essa arma quebra em um ataque de resultado natural 1.</p>"
     },
     "Disadvantage/Stealth": {
-      "name": "Désavantage/Discrétion",
-      "description": "<p>Vous avez un désavantage sur les jets de discrétion lorsque vous portez cette armure.</p>"
+      "name": "Desvantagem em furtividade",
+      "description": "<p>Você tem desvantagem em furtividade enquanto vestir essa armadura.</p>"
     },
     "Disadvantage/Swim": {
-      "name": "Désavantage/nage",
-      "description": "<p>Vous avez un désavantage sur les jets liés à la nage lorsque vous portez cette armure.</p>"
+      "name": "Desvantagem em nado",
+      "description": "<p>Você tem desvantagem em nado enquanto vestir essa armadura.</p>"
     },
     "Finesse": {
       "name": "Acuidade",
       "description": "<p>Você pode usar FOR ou DES quando atacar com essa arma.</p>"
     },
     "Lash": {
-      "name": "Lanière",
-      "description": "<p>Lorsque vous faites une attaque à distance avec cette arme, elle ne quitte pas votre prise.</p>"
+      "name": "Alça",
+      "description": "<p>Quando você faz um ataque à distância com esta arma, ela não sai da sua mão.</p>"
     },
     "Loading": {
       "name": "Recarregável",
       "description": "<p>Você deve abrir mão\ndo seu movimento para recarregar\nessa arma.</p>"
     },
     "No Swim": {
-      "name": "Pas de nage",
-      "description": "<p>Vous ne pouvez pas nager lorsque vous portez cette armure.</p>"
+      "name": "Não nada",
+      "description": "<p>Você não pode nadar enquanto vestir essa armadura.</p>"
     },
     "Occupies One Hand": {
-      "name": "Arme à une Main",
-      "description": "<p>Vous ne pouvez utiliser qu'une seule main lorsque vous utilisez cet objet.</p>"
+      "name": "Ocupa uma mão",
+      "description": "<p>Você não pode usar uma de suas mãos enquanto usa esse objeto.</p>"
     },
     "Returning": {
-      "name": "Boomerang",
-      "description": "<p>Lors d'une attaque à distance ratée, cette arme revient à son lanceur.</p>"
+      "name": "Retorna",
+      "description": "<p>Depois de um ataque a distância essa arma retorna a sua mão. </p>"
     },
     "Shield": {
-      "name": "Bouclier",
-      "description": "<p>Offre une protection supplémentaire.</p>"
+      "name": "Escudo",
+      "description": "<p>Oferece uma proteção suplementar.</p>"
     },
     "Shuriken": {
       "name": "Shuriken",
-      "description": "<p>Peut être jeté au sol. Les créatures vivantes qui marchent dessus subissent 1 dégât et ne peuvent se déplacer qu'à moitié de leur vitesse pendant 10 tours.</p>"
+      "description": "<p>Pode ser lançada contra \no solo. Criaturas vivas que pisarem \nnela sofrem 1 de dano e só podem \nse mover com metade de sua \nvelocidade por 10 rodadas.</p>"
     },
     "Sundering": {
-      "name": "Démolition",
-      "description": "<p><span style=\"font-family: Signika, sans-serif\">Lorsque vous êtes touché par une attaque de corps à corps, vous pouvez choisir de détruire cette arme ou cette armure pour annuler tous les dégâts de l'attaque.</span></p>"
+      "name": "Ruptura",
+      "description": "<p><span style=\"font-family: Signika, sans-serif\">Quando for atingido \npor um ataque corpo a corpo, você \npode optar por destruir essa arma \nou armadura para negar todo o dano \ndo ataque.</span></p>"
     },
     "Thrown": {
       "name": "Arremesso",

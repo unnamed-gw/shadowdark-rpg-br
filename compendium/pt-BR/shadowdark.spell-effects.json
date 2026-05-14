@@ -1,342 +1,341 @@
 {
-  "label": "Effets des sorts",
+  "label": "Efeitos das magias",
   "mapping": {
     "description": "system.description"
   },
   "folders": {},
   "entries": {
     "Spell Effect: Acid Arrow": {
-      "name": "Effet: Flèche acide",
-      "description": "<p>Inflige [[/r 1d6]] dégâts par tour. Le bolt reste dans la cible tant que vous vous concentrez.</p>"
+      "name": "Efeito: Flecha ácida",
+      "description": "<p>Causa [[/r 1d6]] dano por turno. A flecha permanece no alvo enquanto durar sua concentração.</p>"
     },
     "Spell Effect: Alter Self": {
-      "name": "Effet: Altération physique",
+      "name": "Efeito: Alterar-se",
       "description": ""
     },
     "Spell Effect: Anathema": {
-      "name": "Effet: Anathème",
-      "description": "<p>Enchanté avec une autre créature.</p><p>Chaque fois qu'une des créatures affectées prend des dégâts, elle peut effectuer un [[check 15 cha]] test. En cas de succès, le sort se termine.</p>"
+      "name": "Efeito: Anátema",
+      "description": "<p>Enfeitiça uma criatura.</p><p>Cada vez que você ou seus aliados ferirem o alvo, os antigos aliados dele podem fazer um teste de [[check 15 wis]] para encerrar os efeitos dessa magia.</p>"
     },
     "Spell Effect: Anima": {
-      "name": "Effet: Anima",
+      "name": "Efeito: Anima",
       "description": ""
     },
     "Spell Effect: Barkskin": {
-      "name": "Effet: Peau d'Écorce",
-      "description": "<p>Votre peau se durcit en écorce d'arbre solide. Votre CA devient 14 (18 en cas de jet de sort critique) pendant la durée du sort.</p><p>Vous subissez des dégâts doublés par le feu tant que vous êtes sous l'effet du sort.</p>"
+      "name": "Efeito: Pele de Casca",
+      "description": "<p>Sua pele endurece e vira casca de árvore sólida. Sua CA se torna 14 (18 no caso de um teste de conjuração crítico) enquanto a magia durar.</p><p>Você sofre o dobro do dano de fogo enquanto estiver sob o efeito da magia.</p>"
     },
     "Spell Effect: Barkskin (Critical)": {
-      "name": "Effet: Peau d'Écorce (Critique)",
-      "description": "<p>Votre peau se durcit en écorce d'arbre solide. Votre CA devient 14 (18 en cas de jet de sort critique) pendant la durée du sort.</p><p>Vous subissez des dégâts doublés par le feu tant que vous êtes sous l'effet du sort.</p>"
+      "name": "Efeito: Pele de Casta (Crítico)",
+      "description": "<p>Sua pele endurece e vira casca de árvore sólida. Sua CA se torna 14 (18 no caso de um teste de conjuração crítico) enquanto a magia durar.</p><p>Você sofre o dobro do dano de fogo enquanto estiver sob o efeito da magia.</p>"
     },
     "Spell Effect: Befriend": {
-      "name": "Effet: Ami",
+      "name": "Efeito: Cativar",
       "description": ""
     },
     "Spell Effect: Berserk": {
-      "name": "Effet: Enragé",
-      "description": "<p>Immunité aux dégâts pendant 3 tours</p>"
+      "name": "Efeito: Enfurecido",
+      "description": "<p>Imunidade a danos por 3 rodadas</p>"
     },
     "Spell Effect: Blind": {
-      "name": "Effet: Cécité",
-      "description": "<p><span style=\"font-family: Signika, sans-serif\">La créature est aveugle et a un désavantage pour les tâches nécessitant la vue.</span></p>"
+      "name": "Efeito: Cegueira",
+      "description": "<p><span style=\"font-family: Signika, sans-serif\">A criatura tem Desv em tarefas que dependam do sentido perdido.</span></p>"
     },
     "Spell Effect: Bogboil": {
-      "name": "Effet: Boue bouillonnante",
-      "description": "<p><span style=\"font-family: Signika, sans-serif\">Une créature coincée dans la toile ne peut pas bouger et doit réussir un test de Force opposé au test de sort du lanceur pour se libérer.</span></p>"
+      "name": "Efeito: Pântano Borbulhante",
+      "description": "<p>Uma criatura presa na lama não pode se mover, e deve ter sucesso em um teste de DES contra o seu teste de conjuração para se libertar.</p>"
     },
     "Spell Effect: Breath": {
-      "name": "Effet: Souffle",
-      "description": "<p>Vous pouvez retenir votre souffle pendant la durée du sort.</p>"
+      "name": "Efeito: Fôlego",
+      "description": "<p>Você pode prender a respiração durante a magia.</p>"
     },
     "Spell Effect: Broomstick": {
-      "name": "Effet: Balai volant",
-      "description": "<p>Le cavalier du balai peut voler sur une courte distance à chaque tour et peut rester en place.</p>"
+      "name": "Efeito: Vassoura Voadora",
+      "description": "<p>O usuário da vassoura pode voar por uma distância Perto a cada rodada e pode levitar no mesmo lugar.</p>"
     },
     "Spell Effect: Cacklerot": {
-      "name": "Effet: Ricanement Maladif",
-      "description": "<p>S'effondre, impuissant, dans un rire dérangeant et douloureux pendant toute la durée du sort.</p>"
+      "name": "Efeito: Risada Dolorosa",
+      "description": "<p>Desaba indefeso, rindo de maneira perturbadora e dolorosa enquanto a magia durar.</p>"
     },
     "Spell Effect: Cast Out": {
-      "name": "Effet: Expulsion",
-      "description": "<p>Pendant la durée du sort, cette créature ne peut pas s'approcher de vous à portée proche. Elle peut néanmoins vous attaquer depuis l'extérieur de cette portée.</p>"
+      "name": "Expulsar",
+      "description": "<p>Enquanto a magia durar, essa criatura não pode se aproximar de você mais do que o alcance Perto. Ela ainda pode atacá-lo de fora do alcance Perto.</p>"
     },
     "Spell Effect: Cat's Eye": {
-      "name": "Effet: Œil de chat",
-      "description": "<p>Vous pouvez voir les créatures invisibles et les portes secrètes pendant la durée du sort.</p>"
+      "name": "Efeito: Olho de Gato",
+      "description": "<p>Você pode ver criaturas invisíveis e portas secretas enquanto a magia durar.</p>"
     },
     "Spell Effect: Chant": {
-      "name": "Effet: Chant",
-      "description": "<p>Pendant la durée du sort, vous pouvez voir toutes les choses invisibles et cachées comme si elles étaient clairement visibles. Ce sort ne vous permet pas de voir de manière impossible, comme dans l'obscurité ou à travers les murs.</p>"
+      "name": "Efeito: Cântico",
+      "description": "<p>Enquanto a magia durar, você pode ver todas as coisas invisíveis e ocultas como se estivessem claramente visíveis. Esta magia não lhe permite ver em condições em que você normalmente não poderia, como na escuridão ou através de paredes.</p>"
     },
     "Spell Effect: Charm Person": {
-      "name": "Effet: Charme-personne",
-      "description": "<p><span style=\"font-family: Signika, sans-serif\">L'humanoïde vous considère comme un ami pendant la durée du sort.</span><br class=\"Apple-interchange-newline\"><span style=\"font-family: Signika, sans-serif\">L'effet se termine si vous ou vos alliés faites quelque chose de nuisible à la cible.</span></p>"
+      "name": "Efeito: Encantar Pessoa",
+      "description": "<p>O humanóide passa a considerá-lo um amigo enquanto a magia durar. A magia se encerra caso ele perceba que você ou seus aliados fizeram qualquer coisa para machucá-lo.</p>"
     },
     "Spell Effect: Cleansing Weapon": {
-      "name": "Effet: Arme purificatrice",
-      "description": "<p><span style=\"font-family: Signika, sans-serif\">Une arme que vous touchez est entourée de flammes purifiantes. Elle inflige [[/r 1d4]] dégâts supplémentaires ([[/r 1d6]] contre les morts-vivants) pendant la durée du sort.</span></p>"
+      "name": "Efeito: Arma Purificadora",
+      "description": "<p>Uma arma que você toca é envolvida por chamas purificadoras. Ela causa [[/r 1d4]] de dano adicional ([[/r 1d6]] contra mortos-vivos) ao longo da duração.</p>"
     },
-
     "Spell Effect: Cloak of Night": {
-      "name": "Effet: Manteau de la nuit",
-      "description": "<p>Pendant la durée du sort, votre classe d'armure devient 17 (20 lors d'un jet de sort critique).</p><p>Vous avez un avantage sur les tests de Dextérité pour vous faufiler et vous cacher pendant la durée du sort.</p>"
+      "name": "Efeito: Manto da Noite",
+      "description": "<p>Enquanto a magia durar, sua CA se torna 17 (20 em um sucesso crítico no teste de conjuração).</p><p> Você tem Vantagem em testes de Destreza para se esgueirar e se esconder enquanto a magia durar.</p>"
     },
     "Spell Effect: Cloak of Night (Critical)": {
-      "name": "Effet: Manteau de la nuit (Critique)",
-      "description": "<p>Pendant la durée du sort, votre classe d'armure devient 17 (20 lors d'un jet de sort critique).</p><p>Vous avez un avantage sur les tests de Dextérité pour vous faufiler et vous cacher pendant la durée du sort.</p>"
+      "name": "Efeito: Manto da Noite (crítico)",
+      "description": "<p>Enquanto a magia durar, sua CA se torna 17 (20 em um sucesso crítico no teste de conjuração).</p><p> Você tem Vantagem em testes de Destreza para se esgueirar e se esconder enquanto a magia durar.</p>"
     },
     "Spell Effect: Command": {
-      "name": "Effet: Commandement",
-      "description": "<p>La cible obéit à votre Commandement tant que vous vous concentrez.</p><p>Si votre Commandement est directement nuisible à la créature, elle peut effectuer un test de Charisme contre votre dernier jet de sort. En cas de succès, le sort prend fin.</p>"
+      "name": "Efeito: Comando",
+      "description": "<p>O alvo obedece ao comando enquanto você mantiver a concentração.</p><p> Se o seu comando for diretamente prejudicial à criatura, ela poderá fazer um teste de Carisma contra o seu último teste de conjuração. Com um sucesso, a magia se encerra.</p>"
     },
     "Spell Effect: Confusion": {
-      "name": "Effet: Confusion",
-      "description": "<p>La cible ne peut pas agir et se déplace dans une direction aléatoire pendant son tour. Si la cible est de niveau 9 ou plus, elle peut effectuer un test de Sagesse contre votre dernier jet de sort au début de son tour pour mettre fin au sort.</p>"
+      "name": "Efeito: Confusão",
+      "description": "<p> Você hipnotiza uma criatura que você possa ver e que esteja dentro do alcance. O alvo não pode realizar ações, e se move em uma direção aleatória no turno dele. Se o alvo for de nível 9+, ele pode fazer um teste de Sab contra o seu último teste de conjuração no início do turno dele para tentar encerrar a magia. </p>"
     },
     "Spell Effect: Deaf": {
-      "name": "Effet: Surdité",
+      "name": "Efeito: Surdez",
       "description": ""
     },
     "Spell Effect: Detect Magic": {
-      "name": "Effet: Détection de la magie",
-      "description": "<p>Vous pouvez percevoir la présence de magie à portée proche pendant toute la durée du sort. Si vous vous concentrez pendant deux tours, vous discernez ses propriétés générales. Les barrières complètes bloquent ce sort.</p>"
+      "name": "Efeito: Detectar magia",
+      "description": "<p>Você pode sentir a presença de magia dentro do alcance Perto, enquanto a magia durar. Se você se concentrar por duas rodadas, poderá identificar suas propriedades gerais. Barreiras completas bloqueiam esta magia.</p>"
     },
     "Spell Effect: Divine Vengeance": {
-      "name": "Effet: Vengeance Divine",
-      "description": "<p>Pendant toute la durée du sort, vous pouvez voler à portée proche, vos armes deviennent magiques et vous bénéficiez d’un bonus de +4 à vos attaques et dégâts d'arme.</p>"
+      "name": "Efeito: Vingança divina",
+      "description": "<p>Você se torna o avatar divino da ira de seu deus, envolto em chamas sagradas ou em uma aura obscura de corrupção ardente.\nEnquanto a magia durar, você pode voar por até Perto, suas armas se tornam mágicas, e você tem um bônus de +4 em ataques e dano de sua arma.</p>"
     },
     "Spell Effect: Enfeeble (CHA)": {
-      "name": "Effet: Affaiblissement (CHA)",
+      "name": "Efeito: Enfraquecer (CAR)",
       "description": ""
     },
     "Spell Effect: Enfeeble (CON)": {
-      "name": "Effet: Affaiblissement (CON)",
+      "name": "Efeito: Enfraquecer (CON)",
       "description": ""
     },
     "Spell Effect: Enfeeble (DEX)": {
-      "name": "Effet: Affaiblissement (DEX)",
+      "name": "Efeito: Enfraquecer (DES)",
       "description": ""
     },
     "Spell Effect: Enfeeble (INT)": {
-      "name": "Effet: Affaiblissement (INT)",
+      "name": "Efeito: Enfraquecer (INT)",
       "description": ""
     },
     "Spell Effect: Enfeeble (STR)": {
-      "name": "Effet: Affaiblissement (FOR)",
+      "name": "Efeito: Enfraquecer (FOR)",
       "description": ""
     },
     "Spell Effect: Enfeeble (WIS)": {
-      "name": "Effet: Affaiblissement (SAG)",
+      "name": "Efeito: Enfraquecer (SAB)",
       "description": ""
     },
     "Spell Effect: Evoke Rage": {
-      "name": "Effet: Rage Éveillée",
-      "description": "<p>La cible est immunisée contre les tests de moral, a l’avantage sur les tests de FORCE et les attaques de corps à corps, et inflige +1d4 dégâts pendant toute la durée du sort.</p><p>Si la cible n’attaque pas une autre créature à son tour, le sort prend fin.</p>"
+      "name": "Efeito: Evocar Fúria",
+      "description": "<p>O alvo fica imune a testes de moral, tem VANT em testes de FOR e ataques corpo a corpo, e causa +1d4 de dano enquanto a magia durar.</p><p> Se o alvo não atacar outra criatura no turno dele, a magia se encerra.</p>"
     },
     "Spell Effect: Eyebite": {
-      "name": "Effet: Mauvais Œil",
-      "description": "<p>La cible ne peut pas vous voir jusqu’à la fin de son prochain tour.</p>"
+      "name": "Efeito: Mau Olhado",
+      "description": "<p>O alvo não pode ver você até o fim do próximo turno dela.</p>"
     },
     "Spell Effect: Floating Disk": {
-      "name": "Effet: Disque flottant",
+      "name": "Efeito: Disco Flutuante",
       "description": ""
     },
     "Spell Effect: Fly": {
-      "name": "Effet: Vol",
-      "description": "<p>Vous pouvez voler à portée proche pendant toute la durée du sort et êtes capable de stationner sur place.</p>"
+      "name": "Efeito: Voo",
+      "description": "<p>Seus pés se erguem do solo, e você se eleva no ar como um pássaro. Você pode voar por até Perto enquanto a magia durar, e também é capaz de pairar sobre o mesmo lugar.</p>"
     },
     "Spell Effect: Freya's Omen": {
-      "name": "Effet: Présage de Freya",
-      "description": "<p>Pendant toute la durée du sort, vous ne perdez pas la capacité de lancer un sort si vous ratez votre test d’incantation.</p><p>En cas d’échec critique, vous pouvez relancer une fois votre test. Vous devez garder le nouveau résultat.</p>"
+      "name": "Efeito: Presságio de Freya",
+      "description": "<p>Enquanto a magia durar, você não perde a capacidade de conjurar uma magia caso falhe no teste para conjurá-la.</p><p> Se obtiver uma falha crítica em um teste de conjuração, você pode rolar o teste novamente. Você deve usar o novo resultado.</p>"
     },
     "Spell Effect: Gaseous Form": {
-      "name": "Effet: Forme Gazeuse",
-      "description": "<p>Vous et votre équipement vous transformez en nuage de fumée pendant toute la durée du sort.</p><p>Vous pouvez voler et traverser les ouvertures que la fumée pourrait franchir. Vous percevez le terrain et les mouvements à portée proche.</p><p>Vous ne pouvez pas lancer des sorts sous cette forme.</p>"
+      "name": "Efeito: Forma Gasosa",
+      "description": "<p>Você e os seus equipamentos se transformam em uma nuvem de fumaça enquanto a magia durar.</p><p>Você pode voar e atravessar qualquer abertura que fumaça normalmente poderia. Você pode sentir o terreno e qualquer movimento Perto ao seu redor.</p><p>Você não pode conjurar magias enquanto estiver nessa forma.</p>"
     },
     "Spell Effect: Glassbones": {
-      "name": "Effet: Os de Verre",
-      "description": "<p>Subit des dégâts doublés pendant toute la durée du sort.</p>"
+      "name": "Efeito: Ossos De Vidro",
+      "description": "<p>Uma criatura que você toca se torna frágil. Ela sofre o dobro de dano enquanto a magia durar.</p>"
     },
     "Spell Effect: Hallucinate": {
-      "name": "Effet: Hallucination",
-      "description": "<p>Pendant toute la durée du sort, la cible ne peut pas agir à son tour sauf si elle réussit un test de Sagesse égal à votre dernier test d’incantation.</p>"
+      "name": "Efeito: Alucinação",
+      "description": "<p> Uma criatura-alvo que esteja Perto, e cujo nível seja igual ou menor que o seu, é dominada por visões daquilo que ainda pode acontecer.\nEnquanto a magia durar, o alvo não pode agir no próprio turno, a menos que tenha sucesso em um teste de Sabedoria igual ao seu último teste de conjuração.</p>"
     },
     "Spell Effect: Hold Monster": {
-      "name": "Effet: Paralysie de Monstre",
-      "description": "<p>Si la cible est de niveau 9 ou plus, elle peut faire un test de FORCE contre votre dernier test d’incantation au début de son tour pour mettre fin au sort.</p>"
+      "name": "Efeito: Imobilizar Monstro",
+      "description": "<p> Você paralisa uma criatura que você possa ver e que esteja dentro do alcance. Se o alvo for de nível 9+, ele pode fazer um teste de Força contra o seu último teste de conjuração, no início do turno dele, para encerrar a magia. </p>"
     },
     "Spell Effect: Hold Person": {
-      "name": "Effet: Paralysie",
+      "name": "Efeito: Imobilizar Pessoa",
       "description": ""
     },
     "Spell Effect: Hold Portal": {
-      "name": "Effet: Fermeture",
+      "name": "Efeito: Obstruir Porta",
       "description": ""
     },
     "Spell Effect: Holy Weapon": {
-      "name": "Effet: Arme sacrée",
+      "name": "Efeito: Arma Sagrada",
       "description": ""
     },
     "Spell Effect: Hypnotize": {
-      "name": "Effet: Hypnotiser",
-      "description": "<p>La cible ne peut pas agir et se déplace dans une direction aléatoire à son tour. Si la cible est niveau 9 ou plus, elle peut faire un test de SAG contre votre dernier jet d'incantation au début de son tour pour mettre fin au sort.</p>"
+      "name": "Efeito: Confusão",
+      "description": "<p>Você hipnotiza uma criatura que \r\nvocê possa ver e que esteja dentro \r\ndo alcance. O alvo não pode realizar \r\nações, e se move em uma direção \r\naleatória no turno dele. Se o alvo for \r\nde nível 9+, ele pode fazer um teste \r\nde SAB contra o seu último teste de \r\nconjuração no início do turno dele \r\npara tentar encerrar a magia.</p>"
     },
     "Spell Effect: Instill": {
-      "name": "Effet: Imprégnation",
-      "description": "<p>Une arme que vous maniez est imprégnée de force vitale. Elle devient une arme +1 pendant la durée du sort.</p><p>Si l'arme est un bâton, elle inflige 1d6 dégâts au lieu de 1d4.</p>"
+      "name": "Efeito: Impregnar",
+      "description": "<p>Uma arma que você empunha fica imbuída de força vital. Ela se torna uma arma +1 enquanto durar a magia.</p><p>Se a arma for um cajado, ela causa 1d6 de dano em vez de 1d4.</p>"
     },
     "Spell Effect: Invisibility": {
-      "name": "Effet: Invisibilité",
+      "name": "Efeito: invisibilidade",
       "description": ""
     },
     "Spell Effect: Levitate": {
-      "name": "Effet: Lévitation",
+      "name": "Efeito: Levitar",
       "description": ""
     },
     "Spell Effect: Locusts": {
-      "name": "Effet: Nuée de Sauterelles",
-      "description": "<p>Un nuage désorientant de sauterelles mordantes et en colère remplit une zone autour de vous jusqu’à portée proche.</p><p>Le nuage se déplace avec vous. Vous n’êtes pas affecté.</p><p>Les créatures dans la zone subissent [[/r 1d10]] dégâts par round au début de leur tour. Elles doivent réussir un test de CON égal à votre dernier jet d'incantation ou être incapables de se déplacer pendant leur tour.</p>"
+      "name": "Efeito: Enxame",
+      "description": "<p>Uma nuvem desorientadora de gafanhotos furiosos e mordedores preenche uma área ao seu redor até alcance Próximo.</p><p> A nuvem se move com você conforme você se desloca. Você não é afetado por ela. </p><p>Criaturas na área de efeito sofrem [[/r 1d10]] de dano por rodada no início do turno delas. Elas devem passar em um teste de CON igual ao seu último teste de conjuração ou ficam incapazes de se mover durante o turno delas.</p>"
     },
     "Spell Effect: Mage Armor": {
-      "name": "Effet: Armure de mage",
+      "name": "Efeito: Armadura Arcana",
       "description": ""
     },
     "Spell Effect: Mage Armor (Critical)": {
-      "name": "Effet: Armure de mage (Critique)",
+      "name": "Efeito: Armadura Arcana (critica)",
       "description": ""
     },
     "Spell Effect: Magnetize": {
-      "name": "Effet: Magnétiser",
-      "description": "<p>Un objet que vous touchez, jusqu’à la taille d’un cheval, devient fortement magnétisé.</p><p>Il attire tous les objets magnétiques plus petits dans un rayon proche.</p><p>S’il peut se déplacer, il est attiré vers des objets magnétiques plus grands à portée proche. Une créature métallique doit réussir un test de FOR égal à votre jet d’incantation pour résister.</p>"
+      "name": "Efeito; Magnetizar",
+      "description": "<p>Um objeto que você toca, do tamanho de um cavalo, fica fortemente magnetizado.</p><p>Ele atrai todos os objetos magnéticos menores dentro de um raio Perto.</p><p>Se o objeto puder se mover, será atraído por objetos magnéticos maiores dentro do alcance Perto. Uma criatura metálica deve passar em um teste de FOR igual à seu teste de conjuração para resistir.</p>"
     },
     "Spell Effect: Mirror Image": {
-      "name": "Effet: Image Mirroir",
+      "name": "Efeito: Reflexos",
       "description": ""
     },
     "Spell Effect: Mistletoe": {
-      "name": "Effet: Gui Enchanté",
-      "description": "<p>Enchanté avec une autre créature.</p><p>Chaque fois que l'une des créatures affectées subit des dégâts, elle peut faire un [[check 15 cha]]. En cas de succès, le sort prend fin.</p>"
+      "name": "Efeito: Visco",
+      "description": "<p>Duas criaturas que você possa ver, e que estejam Perto de você, ficam encantadas uma pela outra por 1d8 dias.</p><p>Cada vez que uma das criaturas afetadas sofrer dano, ela pode fazer um teste de [[check 15 cha]]. Em um sucesso, a magia se encerra.</p>"
     },
     "Spell Effect: Oak, Ash, Thorn": {
-      "name": "Effet: Chêne, Frêne et Aubépine",
-      "description": "<p>Pendant toute la durée du sort, les fées, démons et diables ne peuvent pas vous attaquer. Ces êtres ne peuvent pas non plus vous posséder, vous contraindre ou vous charmer.</p>"
+      "name": "Efeito: Carvalho, Freixo E Espinheiro",
+      "description": "<p>Enquanto a magia durar, fadas, diabos e demônios não podem atacar você.\nEssas criaturas também não podem possuir, induzir ou encantar você.</p>"
     },
     "Spell Effect: Odin's Wisdom": {
-      "name": "Effet: Sagesse d’Odin",
-      "description": "<p>Pendant la durée du sort, ajoutez votre niveau en bonus supplémentaire à vos tests de Sagesse et jets d’incantation.</p>"
+      "name": "Efeito: Sabedoria de Odin",
+      "description": "<p>Enquanto a magia durar, adicione seu nível como bônus adicional em todos os testes de Sabedoria e testes de conjuração.</p>"
     },
     "Spell Effect: Pillar of Salt": {
-      "name": "Effet: Pilier de Sel",
-      "description": "<p>Si vous réussissez à vous concentrer sur ce sort pendant 3 rounds consécutifs, la transformation devient permanente.</p>"
+      "name": "Efeito: Pilar de sal",
+      "description": "<p>Uma criatura-alvo se torna uma estátua feita de sal endurecido.\nSeu alvo pode ser uma criatura de nível 5 ou menor e que você possa ver.\nUma criatura-alvo se torna uma estátua feita de sal endurecido.\nSeu alvo pode ser uma criatura de nível 5 ou menor e que você possa ver.\nSe você mantiver a concentração nessa magia por 3 rodadas seguidas, a transformação se torna permanente. </p>"
     },
     "Spell Effect: Pin Doll": {
-      "name": "Effet: Poupée Voodoo",
-      "description": "<p>À votre tour, tant que vous vous concentrez sur ce sort, vous pouvez enfoncer une aiguille dans la poupée. Chaque fois que vous le faites, la créature à laquelle appartenaient les cheveux ou la chair subit [[/r 2d6]] dégâts.</p>"
+      "name": "Efeito: Boneco De Vodu",
+      "description": "<p>Você prende um pouco de cabelo ou pedaço de carne retirado de uma criatura a um pequeno boneco de estopa conjurada pela magia.\nEm seu turno, enquanto se concentra nessa magia, você pode alfinetar o boneco. A cada vez que você faz isso, a criatura à qual o cabelo ou carne pertence sofre [[/r 2d6]] de dano. \nQuando a magia se encerra, o cabelo ou pedaço de carne utilizado queima até virar cinzas.</p>"
     },
     "Spell Effect: Polymorph": {
-      "name": "Effet: Polymorphie",
-      "description": "<p>La cible est transformée en une autre créature naturelle de votre choix de taille égale ou inférieure. L’équipement de la cible fusionne avec sa nouvelle forme.</p><p>La cible gagne les caractéristiques physiques de la créature, mais conserve ses caractéristiques mentales.</p><p>Si la cible tombe à 0 points de vie, elle reprend sa forme d’origine avec la moitié de ses points de vie initiaux.</p>"
+      "name": "Efeito: Polimorfia",
+      "description": "<p>Você transforma uma criatura que você toca em outra criatura natural de mesmo tamanho ou menor, à sua escolha. Qualquer equipamento que o alvo carregue se mescla à sua nova forma.</p><p>O alvo ganha as características e atributos físicos da criatura, porém retém suas próprias características e atributos não físicos.</p><p>Se o alvo chegar a 0 ponto de vida, ele retorna à sua verdadeira forma com metade de seus Pv anteriores.\n\nSeu alvo pode ser qualquer criatura voluntária, ou uma criatura involuntária cujo nível seja menor ou igual à metade do seu nível, arredondando para baixo (mínimo de 1).</p>"
     },
     "Spell Effect: Protection from Energy (Cold)": {
-      "name": "Effet: Protection contre l’Énergie (Froid)",
-      "description": "<p>Pendant la durée du sort, la cible est immunisée aux dégâts de froid.</p>"
+      "name": "Efeito: Proteção Contra Energia (frio)",
+      "description": "<p>Enquanto a magia durar, o alvo se torna imune a danos causados pela energia do tipo frio.</p>"
     },
     "Spell Effect: Protection from Energy (Electricity)": {
-      "name": "Effet: Protection contre l’Énergie (Électricité)",
-      "description": "<p>Pendant la durée du sort, la cible est immunisée aux dégâts d’électricité.</p>"
+      "name": "Efeito: Proteção Contra Energia (eletricidade)",
+      "description": "<p>Enquanto a magia durar, o alvo se torna imune a danos causados pela energia do tipo elétrica.</p>"
     },
     "Spell Effect: Protection from Energy (Fire)": {
-      "name": "Effet: Protection contre l’Énergie (Feu)",
-      "description": "<p>Pendant la durée du sort, la cible est immunisée aux dégâts de feu.</p>"
+      "name": "Efeito: Proteção Contra Energia (fogo)",
+      "description": "<p>Enquanto a magia durar, o alvo se torna imune a danos causados pela energia do tipo fogo. </p>"
     },
     "Spell Effect: Protection From Evil": {
-      "name": "Effet: Protection contre le Mal",
-      "description": "<p>Les êtres chaotiques ont un désavantage aux jets d’attaque et d’incantation hostiles contre la cible. Ces êtres ne peuvent pas non plus la posséder, la contraindre ou la charmer.</p>"
+      "name": "Efeito: Proteção Contra o Mal",
+      "description": "<p>Enquanto a magia durar, seres caóticos têm Desvantagem em jogadas de ataque e conjurações hostis contra o alvo. Esses seres também não podem possuir, induzir ou encantar o alvo.\nQuando a magia é conjurada em um alvo já possuído, a entidade que o possui faz um teste de Carisma contra o último teste de conjuração. Se falhar, a entidade será expulsa.</p>"
     },
     "Spell Effect: Puppet": {
-      "name": "Effet: Marionnette",
-      "description": "<p>À votre tour, la créature imite tous vos mouvements.</p><p>Si vous l’obligez à se blesser ou blesser un allié, elle peut faire un [[check 15 cha]]. En cas de succès, elle résiste à l’imitation.</p>"
+      "name": "Efeito: Fantoche",
+      "description": "<p>Uma criatura humanoide de nível 2 ou menor que você toca fica enredada em seus movimentos. Em seu turno, a criatura imita todos os seus movimentos.</p><p>Se imitar seus movimentos for causar dano direto a si mesma ou a um aliado, ela pode fazer um teste de [[check 15 cha]]. Em um sucesso, ela resiste a imitar você.</p>"
     },
     "Spell Effect: Rebuke Unholy": {
-      "name": "Effet: Réprimander l’Impie",
-      "description": "<p>La créature s’enfuit devant vous pendant 5 rounds.</p>"
+      "name": "Efeito: Expulsar Profano",
+      "description": "<p>A criatura foge de você por 5 rodadas.</p>"
     },
     "Spell Effect: Shapechanger": {
-      "name": "Effet: Métamorphose",
-      "description": "<p>Vous vous transformez, ainsi que votre équipement, en une autre créature naturelle de niveau 10 ou moins que vous avez vue. Vous adoptez ses caractéristiques physiques mais gardez vos caractéristiques mentales (INT, SAG, CHA).</p><p>Si vous tombez à 0 PV, vous reprenez votre forme d’origine à 1 PV.</p>"
+      "name": "Efeito: Metamorfose",
+      "description": "<p>Você se transforma, assim como qualquer equipamento que estiver carregando, em outra criatura natural que você já tenha visto e que seja de nível 10 ou menor. Você assume as características e os atributos físicos da criatura, mas mantém suas próprias características e atributos não físicos (incluindo INT, SAB e CAR)</p><p>Se você chegar a 0 pontos de vida enquanto estiver sob efeito dessa magia, você retorna à sua verdadeira forma com 1 PV.</p>"
     },
     "Spell Effect: Shield of Faith": {
-      "name": "Effet: Bouclier de la foi",
+      "name": "Efeito: Escudo da fé",
       "description": ""
     },
     "Spell Effect: Sleep": {
-      "name": "Effet: Sommeil",
-      "description": "<p>Une blessure ou être secoué énergiquement réveille la créature.</p>"
+      "name": "Efeito: Sono",
+      "description": "<p>Um ferimento ou uma sacudida vigorosa acorda a criatura.</p>"
     },
     "Spell Effect: Soulbind": {
-      "name": "Effet: Lien d’Âme",
-      "description": "<p>Pendant la durée du sort, tous les autres sorts ciblant la créature (néfastes ou bénéfiques) nécessitent un jet de ND 18 pour réussir.</p><p>Ce sort prend fin dès que la cible est affectée par un autre sort.</p>"
+      "name": "Efeito: Vincular Alma",
+      "description": "<p>Você sela a alma de uma criatura viva, impedindo que magia a afete.\n\nUma criatura que você toca se torna praticamente imune a todas as magias. Enquanto a magia durar, qualquer outra magia (benéfica ou prejudicial) que tenha a criatura como alvo será conjurada com CD 18.</p><p>Esta magia se encerra assim que o alvo for afetado por outra magia.</p>"
     },
     "Spell Effect: Spidersilk": {
-      "name": "Effet: Toile d’Araignée",
-      "description": "<p>Pendant la durée du sort, vous pouvez marcher sur les surfaces verticales comme s’il s’agissait du sol.</p>"
+      "name": "Efeito: Seda de Aranha",
+      "description": "<p>Fios pegajosos de seda de aranha cobrem suas mãos e pés. \nEnquanto a magia durar, você pode caminhar em superfícies verticais tão facilmente quanto se estivesse no chão.</p>"
     },
     "Spell Effect: Stoneskin": {
-      "name": "Effet: Peau de pierre",
+      "name": "Efeito: Pele-Rocha",
       "description": ""
     },
     "Spell Effect: Stoneskin (Critical)": {
-      "name": "Effet: Peau de pierre (Critique)",
+      "name": "Efeito: Pele-Rocha (crítico)",
       "description": ""
     },
     "Spell Effect: Summon Storm": {
-      "name": "Effet: Invoquer la Tempête",
-      "description": "<p>Vous invoquez une tempête violente qui affecte une zone dans un rayon d’un mile autour de vous pendant toute la durée.</p><p>La tempête amène un ciel assombri, des vents violents et une pluie battante.</p><p>Vous pouvez lancer *contrôle de l’eau* et *éclair* pendant la durée, même si vous ne connaissez pas ces sorts.</p>"
+      "name": "Efeito: Invocar Tempestade",
+      "description": "<p>Você invoca uma tempestade violenta que afeta uma área dentro de um raio de 1,6 km de você durante toda a duração.</p><p>A tempestade é composta céus escuros, ventos fortes e chuva torrencial.</p><p>Você pode lançar *controlar água* e *relâmpago* durante toda a duração, mesmo que não conheça essas magias.</p>"
     },
     "Spell Effect: Treeshape": {
-      "name": "Effet: Forme d’arbre",
-      "description": "<p>Vous et votre équipement vous transformez en tréant avec les caractéristiques ci-dessous pendant la durée du sort.</p><p>Vous ne possédez pas le talent d’animation d’arbres du tréant.</p><p>Vous ne pouvez pas lancer des sorts sous l’effet de ce sort.</p><p>Vous conservez vos scores d’INT, SAG et CHA.</p><p><strong>CA</strong> 14, <strong>PV</strong> 38, <strong>ATQ</strong> 2 frappes +8 (1d12) ou 1 rocher (lointain) +8 (2d6), <strong>VD</strong> proche, <strong>F</strong> +4, <strong>D</strong> -1, <strong>C</strong> +2, <strong>I</strong> *, <strong>S</strong> *, <strong>Ch</strong> *, <strong>AL</strong> N, <strong>NIV</strong> 8</p>"
+      "name": "Efeito: Forma de Árvore",
+      "description": "<p>Você e seu equipamento se transformam em um Ent com as características abaixo durante a Magia.</p><p>Você não possui o talento de Aniamr Árvoredo Ent.</p><p>Você não pode conjurar magias enquanto estiver sob o efeito desta magia.</p><p>Você mantém seus valores de de INT, SAB e CAR.</p><p><strong>CA</strong> 14, <strong>PV</strong> 38, <strong>ATQ</strong> 2 golpes +8 (1d12) ou 1 pedra (longe) +8 (2d6), <strong>MV</strong> perto, <strong>F</strong> +4, <strong>D</strong> -1, <strong>C</strong> +2, <strong>I</strong> *, <strong>S</strong> *, <strong>Car</strong> *, <strong>AL</strong> N, <strong>NV</strong> 8</p>"
     },
     "Spell Effect: Turn Undead": {
-      "name": "Effet: Exorcisme",
-      "description": "<p>La créature s’enfuit devant vous pendant 5 rounds.</p>"
+      "name": "Efeito: Expulsar Morto-vivos",
+      "description": "<p>A criatura foge de você por 5 rodadas.</p>"
     },
     "Spell Effect: Void Stare": {
-      "name": "Effet: Regard du Vide",
-      "description": "<p>La cible est sous votre contrôle. Vous décidez de ses actions à son tour.</p>"
+      "name": "Efeito: Encarar o vazio",
+      "description": "<p>Seus olhos ficam negros enquanto você olha para a escuridão entre as estrelas.\n\nUma criatura de nível 6 ou menor, e que você possa ver, fica sob seu controle. Você decide as ações da criatura durante o turno dela.</p>"
     },
     "Spell Effect: Web": {
-      "name": "Effet: Toile d’araignée",
-      "description": "<p>Une créature piégée dans la toile ne peut pas se déplacer et doit réussir un test de Force opposé à votre jet d’incantation pour se libérer.</p>"
+      "name": "Efeito: Teia",
+      "description": "<p>Você cria um cubo de tamanho Perto formado por uma teia de aranha densa e pegajosa, dentro do alcance. Uma criatura que ficar presa na teia não pode se mover, e deve ter sucesso em um teste de Força contra seu teste de conjuração para se libertar.</p>"
     },
     "Spell Effect: Wolfshape (Dire Wolf)": {
-      "name": "Effet: Forme de loup (Loup Sanguinaire)",
-      "description": "<p><strong>Loup Sanguinaire</strong></p><p><strong>CA</strong> 12, <strong>PV</strong> 19, <strong>ATQ</strong> 2 morsures [[/r 1d20+4]] ([[/r 1d8]]), <strong>VD</strong> double proche, <strong>F</strong> +3, <strong>D</strong> +2, <strong>C</strong> +1</p><p><strong>Chasseur en meute.</strong> Inflige +1 dégât lorsqu’un allié est à proximité.</p><p>Vous adoptez la FOR, DEX, CON, PV, CA, vitesse, attaques et caractéristiques physiques du loup, mais conservez votre INT, SAG et CHA.</p><p>Vous pouvez lancer des sorts sous cette forme. Si vous tombez à 0 PV, vous reprenez votre vraie forme à 0 PV.</p>"
+      "name": "Efeito: Forma de Lobo (Lobo-Terrível)",
+      "description": "<p><strong>Lobo-Terrível</strong></p><p><strong>CA</strong> 12, <strong>PV</strong> 19, <strong>ATQ</strong> 2 mordida [[/r 1d20+4]] ([[/r 1d8]]), <strong>MV</strong> Perto x2, <strong>F</strong> +3, <strong>D</strong> +2, <strong>C</strong> +1</p><p><strong>Caçada em Bando.</strong> Causa +1 de dano enquanto um aliado estiver Adjacente.</p><p>Você e seu equipamento se transformam em um lobo enquanto a magia durar. Você assume os atributos de FOR, DES e CON, PV, CA, velocidade, ataques e características físicas do lobo. Você mantém sua INT, SAB e CAR.</p><p>Você pode conjurar magias enquanto estiver nesta forma. Se chegar a 0 PV, você retorna à sua forma original com 0 PV.</p>"
     },
     "Spell Effect: Wolfshape (Winter Wolf)": {
-      "name": "Effet: Forme de loup (Loup d'Hiver)",
-      "description": "<p><strong>Loup d'Hiver</strong></p><p><strong>CA</strong> 12, <strong>PV</strong> 23, <strong>ATQ</strong> 2 morsures [[/r 1d20+4]] ([[/r 1d6]]) ou 1 souffle glacé, <strong>VD</strong> double proche, <strong>F</strong> +3, <strong>D</strong> +2, <strong>C</strong> +1</p><p><strong>Impénétrable.</strong> Immunisé au froid.</p><p><strong>Souffle glacé.</strong> Remplit un cube de taille proche partant du loup de l’hiver. [[check 15 dex]] ou [[/r 3d8]] dégâts. Ne peut être utilisé à nouveau avant [[/r 1d4]] rounds.</p><p>Vous adoptez la FOR, DEX, CON, PV, CA, vitesse, attaques et caractéristiques physiques du loup, mais conservez votre INT, SAG et CHA.</p><p>Vous pouvez lancer des sorts sous cette forme. Si vous tombez à 0 PV, vous reprenez votre vraie forme à 0 PV.</p>"
+      "name": "Efeito: Forma de Lobo (Lobo do Inverno)",
+      "description": "<p><strong>Lobo do inverno</strong></p><p><strong>CA</strong> 12, <strong>PV</strong> 23, <strong>ATQ</strong> 2 mordidas [[/r 1d20+4]] ([[/r 1d6]]) ou 1 sopro de gelo, <strong>MV</strong> Perto 2x, <strong>F</strong> +3, <strong>D</strong> +2, <strong>C</strong> +1</p><p><strong>Invulnerável.</strong>Imune ao frio.</p><p><strong>Sopro de Gelo.</strong> Preenche um cubo de tamanho Perto que se estende a partir do lobo do inverno. [[check 15 dex]] ou [[/r 3d8]] de dano. Não pode usar a habilidade novamente por [[/r 1d4]] rodadas.</p><p>Você e seu equipamento se transformam em um lobo enquanto a magia durar. Você assume os atributos de FOR, DES e CON, PV, CA, velocidade, ataques e características físicas do lobo. Você mantém sua INT, SAB e CAR.</p><p>Você pode conjurar magias enquanto estiver nesta forma. Se chegar a 0 PV, você retorna à sua forma original com 0 PV</p>"
     },
     "Spell Effect: Wolfshape (Wolf)": {
-      "name": "Effet: Forme de loup (Loup)",
-      "description": "<p><strong>Loup</strong></p><p><strong>CA</strong> 12, <strong>PV</strong> 10, <strong>ATQ</strong> 1 morsure [[/r 1d20+2]] ([[/r 1d6]]), <strong>VD</strong> double proche, <strong>F</strong> +2, <strong>D</strong> +2, <strong>C</strong> +1</p><p><strong>Chasseur en meute.</strong> Inflige +1 dégât lorsqu’un allié est à proximité.</p><p>Vous adoptez la FOR, DEX, CON, PV, CA, vitesse, attaques et caractéristiques physiques du loup, mais conservez votre INT, SAG et CHA.</p><p>Vous pouvez lancer des sorts sous cette forme. Si vous tombez à 0 PV, vous reprenez votre vraie forme à 0 PV.</p>"
+      "name": "Efeito: Forma de Lobo (Lobo)",
+      "description": "<p><strong>Lobo</strong></p><p><strong>CA</strong> 12, <strong>PV</strong> 10, <strong>ATQ</strong> 1 mordida [[/r 1d20+2]] ([[/r 1d6]]), <strong>MV</strong> Perto 2x, <strong>F</strong> +2, <strong>D</strong> +2, <strong>C</strong> +1</p><p><strong>Caçada em Bando.</strong>Causa +1 de dano enquanto um aliado estiver Adjacente.</p><p>Você e seu equipamento se transformam em um lobo enquanto a magia durar. Você assume os atributos de FOR, DES e CON, PV, CA, velocidade, ataques e características físicas do lobo. Você mantém sua INT, SAB e CAR.</p><p>Você pode conjurar magias enquanto estiver nesta forma. Se chegar a 0 PV, você retorna à sua forma original com 0 PV</p>"
     },
     "Spell Effect: World Serpent": {
-      "name": "Effet: Serpent-Monde",
-      "description": "<p>La cible inflige x2 dégâts à chaque attaque (x4 en cas de coup critique) pendant la durée du sort.</p>"
+      "name": "Efeito: Serpente Do Mundo",
+      "description": "<p>O veneno torturante da Serpente do Mundo goteja das armas de uma\ncriatura que você tocar.\n\nO alvo causa dano dobrado em cada ataque (x4 em um acerto crítico) enquanto a magia durar.</p>"
     },
     "Spell Effect: World Tree": {
-      "name": "Effet: Arbre-Monde",
-      "description": "<p>Pendant la durée du sort, la cible ne peut pas être réduite en dessous de 1 PV.</p>"
+      "name": "Efeito: Árvore Do Mundo",
+      "description": "<p>As raízes da Árvore do Mundo, a fonte da vida, envolvem a alma de uma criatura que você tocar. \n\nEnquanto a magia durar, o alvo não pode ter seus PV reduzidos a menos do que 1.</p>"
     },
     "Spell Effect: Wrath": {
-      "name": "Effet: Courroux",
-      "description": "<p>Vos armes deviennent magiques +2 et infligent 1d8 dégâts supplémentaires pendant toute la durée du sort.</p>"
+      "name": "Efeito: Ira",
+      "description": "<p>Suas armas se tornam mágicas +2 e causam 1d8 de dano adicional durante a magia.</p>"
     },
     "Spell Effect: Zone of Truth": {
-      "name": "Effet: Zone de vérité",
-      "description": "<p>Impossible de proférer un mensonge délibéré dans la zone d’effet.</p>"
+      "name": "Efeito: Zona da verdade",
+      "description": "<p>Você induz uma criatura que você possa ver a falar a verdade. Ela não pode proferir uma mentira de forma proposital enquanto estiver dentro do alcance.</p>"
     }
   }
 }

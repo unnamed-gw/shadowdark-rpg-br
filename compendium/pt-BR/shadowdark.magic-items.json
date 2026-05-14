@@ -14,119 +14,119 @@
       "description": "<p><em>Um saco de couro desgastado com cordões apertados.</em></p><p><strong>Ativo</strong>. Esta bolsa contém um espaço interdimensional capaz de armazenar até 10 espaços de equipamento.</p><p><strong>Maldição</strong>. Colocar este item dentro de outra <em>Bolsa do Espaço Infinito</em> ou de um <em>Buraco Portátil</em> destrói ambos os itens e tudo o que há dentro deles.</p>"
     },
     "Bloodlust": {
-      "name": "Soif de sang",
+      "name": "Sede de Sangue",
       "description": ""
     },
     "Boots of the Cat": {
-      "name": "Bottes du chat",
-      "description": "<p><em>Bottes grises en daim, aussi minces et confortables que des pantoufles.</em></p><p><strong>Atout</strong>. Vous pouvez bondir à portée intermédiaire sans élan. Les tests que vous effectuez pour vous déplacer en silence sont toujours faciles (ND 9).</p>"
+      "name": "Botas do Gato",
+      "description": "<p><em>Botas cinzas e feitas de camurça, tão finas e macias quanto pantufas.</em></p><p><strong>Benefício</strong>. Você pode saltar até a distância Perto sem precisar de impulso. Seus testes para se mover silenciosamente são sempre Fáceis (CD 9).</p>"
     },
     "Bracers of Defense": {
-      "name": "Bracelets de défense",
-      "description": "<p><em>Bracelets d’acier gravés de runes de protection des nains.</em></p><p><strong>Atout</strong>. Vous bénéficiez d’un bonus de +1 à votre classe d’armure.</p>"
+      "name": "Braçadeiras da Defesa",
+      "description": "<p><em>Braçadeiras de aço adornadas com\nrunas anãs de proteção.</em></p><p><strong>Benefício</strong>. Você recebe um bônus de +1 na sua classe de armadura.</p>"
     },
     "Brak's Cube of Perfection": {
-      "name": "Cube de Perfection de Brak",
-      "description": "<p><em>Un minuscule cube aux faces ornées de représentations de gobelins, chacun incarnant la perfection transcendante dans un trait physique ou mental.</em></p><p><strong>Atout</strong>. Simulez le lancement du cube au moyen d’un [[/r d6]]. Votre caractéristique correspondante passe définitivement à 18 (+4).</p><ol><li><p>@UUID[Compendium.world.magic-items.ZhykyK0shgnyC4Fh]{Force}</p></li><li><p>@UUID[Compendium.world.magic-items.lUuyDaiDHJbDg82j]{Dextérité}</p></li><li><p>@UUID[Compendium.world.magic-items.7pECwim9a2CVzFLy]{Constitution}</p></li><li><p>@UUID[Compendium.world.magic-items.K7PJLC0GUhtQ7aX2]{Intelligence}</p></li><li><p>@UUID[Compendium.world.magic-items.wrtcUfAY6yXwSqLY]{Sagesse}</p></li><li>@UUID[Compendium.world.magic-items.0Ws5acsixawAITFi]{Charisme}</li></ol><p>Une fois qu’on l’a lancé, le <em>Cube de Perfection de Brak</em> se téléporte dans un lieu aléatoire du multivers.</p>"
+      "name": "Cubo da Perfeição de Brak",
+      "description": "<p><em>Um pequeno cubo decorado com pinturas de goblins em cada face, cada uma representando transcendência em uma característica física ou mental.</em></p><p><strong>Benefício</strong>. Role o cubo ao jogar um [[/r d6]]. O atributo correspondente aumenta permanentemente\npara 18 (+4).</p><ol><li><p>@UUID[Compendium.world.magic-items.ZhykyK0shgnyC4Fh]{Força}</p></li><li><p>@UUID[Compendium.world.magic-items.lUuyDaiDHJbDg82j]{Destreza}</p></li><li><p>@UUID[Compendium.world.magic-items.7pECwim9a2CVzFLy]{Constituição}</p></li><li><p>@UUID[Compendium.world.magic-items.K7PJLC0GUhtQ7aX2]{Inteligência}</p></li><li><p>@UUID[Compendium.world.magic-items.wrtcUfAY6yXwSqLY]{Sabedoria}</p></li><li>@UUID[Compendium.world.magic-items.0Ws5acsixawAITFi]{Carisma}</li></ol><p>Após ser rolado, o <em>Cubo da Perfeição de Brak</em> se teleporta para um local aleatório no multiverso.</p>"
     },
     "Brak's Cube of Perfection (Cha)": {
-      "name": "Cube de Perfection de Brak (Cha)",
-      "description": "<p><em>Un minuscule cube aux faces ornées de représentations de gobelins, chacun incarnant la perfection transcendante dans un trait physique ou mental.</em></p><p><strong>Atout</strong>. Simulez le lancement du cube au moyen d’un [[/r d6]]. Votre caractéristique correspondante passe définitivement à 18 (+4). 1. Force. 2. Dextérité. 3. Constitution. 4. Intelligence. 5. Sagesse. 6. Charisme.</p><p>Une fois qu’on l’a lancé, le <em>Cube de Perfection de Brak</em> se téléporte dans un lieu aléatoire du multivers.</p>"
+      "name": "Cubo da Perfeição de Brak (CAR)",
+      "description": "<p><em>Um pequeno cubo decorado com pinturas de goblins em cada face, cada uma representando transcendência em uma característica física ou mental.</em></p><p><strong>Benefício</strong>. Role o cubo ao jogar um [[/r d6]]. O atributo correspondente aumenta permanentemente\npara 18 (+4).</p><ol><li><p>@UUID[Compendium.world.magic-items.ZhykyK0shgnyC4Fh]{Força}</p></li><li><p>@UUID[Compendium.world.magic-items.lUuyDaiDHJbDg82j]{Destreza}</p></li><li><p>@UUID[Compendium.world.magic-items.7pECwim9a2CVzFLy]{Constituição}</p></li><li><p>@UUID[Compendium.world.magic-items.K7PJLC0GUhtQ7aX2]{Inteligência}</p></li><li><p>@UUID[Compendium.world.magic-items.wrtcUfAY6yXwSqLY]{Sabedoria}</p></li><li>@UUID[Compendium.world.magic-items.0Ws5acsixawAITFi]{Carisma}</li></ol><p>Após ser rolado, o <em>Cubo da Perfeição de Brak</em> se teleporta para um local aleatório no multiverso.</p>"
     },
     "Brak's Cube of Perfection (Con)": {
-      "name": "Cube de Perfection de Brak (Con)",
-      "description": "<p><em>Un minuscule cube aux faces ornées de représentations de gobelins, chacun incarnant la perfection transcendante dans un trait physique ou mental.</em></p><p><strong>Atout</strong>. Simulez le lancement du cube au moyen d’un [[/r d6]]. Votre caractéristique correspondante passe définitivement à 18 (+4). 1. Force. 2. Dextérité. 3. Constitution. 4. Intelligence. 5. Sagesse. 6. Charisme.</p><p>Une fois qu’on l’a lancé, le <em>Cube de Perfection de Brak</em> se téléporte dans un lieu aléatoire du multivers.</p>"
+      "name": "Cubo da Perfeição de Brak (CON)",
+      "description": "<p><em>Um pequeno cubo decorado com pinturas de goblins em cada face, cada uma representando transcendência em uma característica física ou mental.</em></p><p><strong>Benefício</strong>. Role o cubo ao jogar um [[/r d6]]. O atributo correspondente aumenta permanentemente\npara 18 (+4).</p><ol><li><p>@UUID[Compendium.world.magic-items.ZhykyK0shgnyC4Fh]{Força}</p></li><li><p>@UUID[Compendium.world.magic-items.lUuyDaiDHJbDg82j]{Destreza}</p></li><li><p>@UUID[Compendium.world.magic-items.7pECwim9a2CVzFLy]{Constituição}</p></li><li><p>@UUID[Compendium.world.magic-items.K7PJLC0GUhtQ7aX2]{Inteligência}</p></li><li><p>@UUID[Compendium.world.magic-items.wrtcUfAY6yXwSqLY]{Sabedoria}</p></li><li>@UUID[Compendium.world.magic-items.0Ws5acsixawAITFi]{Carisma}</li></ol><p>Após ser rolado, o <em>Cubo da Perfeição de Brak</em> se teleporta para um local aleatório no multiverso.</p>"
     },
     "Brak's Cube of Perfection (Dex)": {
-      "name": "Cube de Perfection de Brak (Dex)",
-      "description": "<p><em>Un minuscule cube aux faces ornées de représentations de gobelins, chacun incarnant la perfection transcendante dans un trait physique ou mental.</em></p><p><strong>Atout</strong>. Simulez le lancement du cube au moyen d’un [[/r d6]]. Votre caractéristique correspondante passe définitivement à 18 (+4). 1. Force. 2. Dextérité. 3. Constitution. 4. Intelligence. 5. Sagesse. 6. Charisme.</p><p>Une fois qu’on l’a lancé, le <em>Cube de Perfection de Brak</em> se téléporte dans un lieu aléatoire du multivers.</p>"
+      "name": "Cubo da Perfeição de Brak (DES)",
+      "description": "<p><em>Um pequeno cubo decorado com pinturas de goblins em cada face, cada uma representando transcendência em uma característica física ou mental.</em></p><p><strong>Benefício</strong>. Role o cubo ao jogar um [[/r d6]]. O atributo correspondente aumenta permanentemente\npara 18 (+4).</p><ol><li><p>@UUID[Compendium.world.magic-items.ZhykyK0shgnyC4Fh]{Força}</p></li><li><p>@UUID[Compendium.world.magic-items.lUuyDaiDHJbDg82j]{Destreza}</p></li><li><p>@UUID[Compendium.world.magic-items.7pECwim9a2CVzFLy]{Constituição}</p></li><li><p>@UUID[Compendium.world.magic-items.K7PJLC0GUhtQ7aX2]{Inteligência}</p></li><li><p>@UUID[Compendium.world.magic-items.wrtcUfAY6yXwSqLY]{Sabedoria}</p></li><li>@UUID[Compendium.world.magic-items.0Ws5acsixawAITFi]{Carisma}</li></ol><p>Após ser rolado, o <em>Cubo da Perfeição de Brak</em> se teleporta para um local aleatório no multiverso.</p>"
     },
     "Brak's Cube of Perfection (Int)": {
-      "name": "Cube de Perfection de Brak (Int)",
-      "description": "<p><em>Un minuscule cube aux faces ornées de représentations de gobelins, chacun incarnant la perfection transcendante dans un trait physique ou mental.</em></p><p><strong>Atout</strong>. Simulez le lancement du cube au moyen d’un [[/r d6]]. Votre caractéristique correspondante passe définitivement à 18 (+4). 1. Force. 2. Dextérité. 3. Constitution. 4. Intelligence. 5. Sagesse. 6. Charisme.</p><p>Une fois qu’on l’a lancé, le <em>Cube de Perfection de Brak</em> se téléporte dans un lieu aléatoire du multivers.</p>"
+      "name": "Cubo da Perfeição de Brak (INT)",
+      "description": "<p><em>Um pequeno cubo decorado com pinturas de goblins em cada face, cada uma representando transcendência em uma característica física ou mental.</em></p><p><strong>Benefício</strong>. Role o cubo ao jogar um [[/r d6]]. O atributo correspondente aumenta permanentemente\npara 18 (+4).</p><ol><li><p>@UUID[Compendium.world.magic-items.ZhykyK0shgnyC4Fh]{Força}</p></li><li><p>@UUID[Compendium.world.magic-items.lUuyDaiDHJbDg82j]{Destreza}</p></li><li><p>@UUID[Compendium.world.magic-items.7pECwim9a2CVzFLy]{Constituição}</p></li><li><p>@UUID[Compendium.world.magic-items.K7PJLC0GUhtQ7aX2]{Inteligência}</p></li><li><p>@UUID[Compendium.world.magic-items.wrtcUfAY6yXwSqLY]{Sabedoria}</p></li><li>@UUID[Compendium.world.magic-items.0Ws5acsixawAITFi]{Carisma}</li></ol><p>Após ser rolado, o <em>Cubo da Perfeição de Brak</em> se teleporta para um local aleatório no multiverso.</p>"
     },
     "Brak's Cube of Perfection (Str)": {
-      "name": "Cube de Perfection de Brak (For)",
-      "description": "<p><em>Un minuscule cube aux faces ornées de représentations de gobelins, chacun incarnant la perfection transcendante dans un trait physique ou mental.</em></p><p><strong>Atout</strong>. Simulez le lancement du cube au moyen d’un [[/r d6]]. Votre caractéristique correspondante passe définitivement à 18 (+4). 1. Force. 2. Dextérité. 3. Constitution. 4. Intelligence. 5. Sagesse. 6. Charisme.</p><p>Une fois qu’on l’a lancé, le <em>Cube de Perfection de Brak</em> se téléporte dans un lieu aléatoire du multivers.</p>"
+      "name": "Cubo da Perfeição de Brak (FOR)",
+      "description": "<p><em>Um pequeno cubo decorado com pinturas de goblins em cada face, cada uma representando transcendência em uma característica física ou mental.</em></p><p><strong>Benefício</strong>. Role o cubo ao jogar um [[/r d6]]. O atributo correspondente aumenta permanentemente\npara 18 (+4).</p><ol><li><p>@UUID[Compendium.world.magic-items.ZhykyK0shgnyC4Fh]{Força}</p></li><li><p>@UUID[Compendium.world.magic-items.lUuyDaiDHJbDg82j]{Destreza}</p></li><li><p>@UUID[Compendium.world.magic-items.7pECwim9a2CVzFLy]{Constituição}</p></li><li><p>@UUID[Compendium.world.magic-items.K7PJLC0GUhtQ7aX2]{Inteligência}</p></li><li><p>@UUID[Compendium.world.magic-items.wrtcUfAY6yXwSqLY]{Sabedoria}</p></li><li>@UUID[Compendium.world.magic-items.0Ws5acsixawAITFi]{Carisma}</li></ol><p>Após ser rolado, o <em>Cubo da Perfeição de Brak</em> se teleporta para um local aleatório no multiverso.</p>"
     },
     "Brak's Cube of Perfection (Wis)": {
-      "name": "Cube de Perfection de Brak (Sag)",
-      "description": "<p><em>Un minuscule cube aux faces ornées de représentations de gobelins, chacun incarnant la perfection transcendante dans un trait physique ou mental.</em></p><p><strong>Atout</strong>. Simulez le lancement du cube au moyen d’un [[/r d6]]. Votre caractéristique correspondante passe définitivement à 18 (+4). 1. Force. 2. Dextérité. 3. Constitution. 4. Intelligence. 5. Sagesse. 6. Charisme.</p><p>Une fois qu’on l’a lancé, le <em>Cube de Perfection de Brak</em> se téléporte dans un lieu aléatoire du multivers.</p>"
+      "name": "Cubo da Perfeição de Brak (SAB)",
+      "description": "<p><em>Um pequeno cubo decorado com pinturas de goblins em cada face, cada uma representando transcendência em uma característica física ou mental.</em></p><p><strong>Benefício</strong>. Role o cubo ao jogar um [[/r d6]]. O atributo correspondente aumenta permanentemente\npara 18 (+4).</p><ol><li><p>@UUID[Compendium.world.magic-items.ZhykyK0shgnyC4Fh]{Força}</p></li><li><p>@UUID[Compendium.world.magic-items.lUuyDaiDHJbDg82j]{Destreza}</p></li><li><p>@UUID[Compendium.world.magic-items.7pECwim9a2CVzFLy]{Constituição}</p></li><li><p>@UUID[Compendium.world.magic-items.K7PJLC0GUhtQ7aX2]{Inteligência}</p></li><li><p>@UUID[Compendium.world.magic-items.wrtcUfAY6yXwSqLY]{Sabedoria}</p></li><li>@UUID[Compendium.world.magic-items.0Ws5acsixawAITFi]{Carisma}</li></ol><p>Após ser rolado, o <em>Cubo da Perfeição de Brak</em> se teleporta para um local aleatório no multiverso.</p>"
     },
     "Cloak of Elvenkind": {
-      "name": "Cape des elfes",
-      "description": "<p><em>Une cape à capuchon qui change de couleur pour s’adapter à l’environnement.</em></p><p><strong>Atout</strong>. Les tests que vous effectuez pour vous cacher sont toujours faciles (ND 9). Une fois par jour, vous pouvez devenir invisible pendant 5 rounds. L’invisibilité cesse si vous attaquez ou lancez un sort.</p>"
+      "name": "Manto da linhagem Élfica",
+      "description": "<p><em>Um manto esvoaçante com capuz que muda de cor para combinar com o ambiente.</em></p><p><strong>Benefício</strong>. Seus testes para se esconder são sempre Fáceis (CD 9). Uma vez por dia, você pode se tornar invisível por 5 rodadas, e isso se encerra caso você ataque ou conjure uma magia.</p>"
     },
     "Gauntlets of Might": {
-      "name": "Gantelets de puissance",
-      "description": "<p><em>Lourds gantelets de bronze gravés d’images de géants herculéens.</em></p><p><strong>Atout</strong>. Votre valeur de Force passe à 18 (+4) tant que vous portez ces gantelets.</p>"
+      "name": "Manoplas do Poder",
+      "description": "<p><em>Manoplas pesadas e feitas de bronze, adornadas com gravações de gigantes Hercúleos.</em></p><p><strong>Benefício</strong>. Seu atributo de Força se torna 18 (+4), enquanto estiver usando estas manoplas.</p>"
     },
     "Immovable Rod": {
-      "name": "Sceptre inamovible",
-      "description": "<p><em>Un court manche de fer pourvu d’un bouton à une extrémité.</em></p><p><strong>Atout</strong>. Lorsque vous pressez le bouton, le sceptre se fixe dans l’espace (supporte 2300 kilos). Une seconde pression met un terme à cet effet.</p>"
+      "name": "Bastão Imóvel",
+      "description": "<p><em>Um bastão curto e feito de ferro, com um botão em uma extremidade.</em></p><p><strong>Benefício</strong>. Quando você aperta o botão, o bastão se torna fixo no espaço (sustenta até 2 ton). Apertar o botão novamente encerra esse efeito.</p>"
     },
     "Jewel of Barbalt": {
-      "name": "Joyau de Barbalt",
-      "description": "<p><em>Un rubis à mille facettes de la taille d’une noix de coco.</em></p><p><strong>Atout</strong>. Vous obtenez une réussite critique sur un résultat de 18-20.</p><p><strong>Malédiction</strong>. Vous obtenez un échec critique sur un résultat de 1-3.</p>"
+      "name": "Joia de Barbalt",
+      "description": "<p><em>Um rubi do tamanho de um coco, lapidado com mil facetas.</em></p><p><strong>Benefício</strong>. Você obtém um sucesso crítico ao rolar 18–20.</p><p><strong>Maldição</strong>. Você sofre uma falha crítica ao rolar 1–3.</p>"
     },
     "Kytherian Cog": {
-      "name": "Engrenage Kythérien",
-      "description": "<p>Une roue dentée de la taille d’une pièce, resplendissante comme de l’argent.</p><p><strong>Atout</strong>. Vous commencez chaque séance de jeu avec un jeton de chance.</p>"
+      "name": "Engrenagem Kytheriana",
+      "description": "<p>Uma pequena engrenagem do tamanho de uma moeda, polida até brilhar como prata.</p><p><strong>Benefício</strong>. Você começa cada sessão com uma ficha de sorte.</p>"
     },
     "Ophidian Armor": {
-      "name": "Armure ophidienne",
-      "description": "<p><em>Armure de cuir luisante et lisse couverte d’écailles d’émeraude mouchetées.</em></p><p><strong>Bonus</strong>. Armure de cuir +1.</p><p><strong>Atout</strong>. Vous êtes avantagé aux tests destinés à éviter l’effet du poison.</p>"
+      "name": "Armadura Ofídica",
+      "description": "<p><em>Couro liso e reluzente, coberto com escamas de esmeraldas iridescentes.</em></p><p><strong>Bônus</strong>. Armadura de couro +1</p><p><strong>Benefício</strong>. Você tem Vantagem em testes para evitar os efeitos de venenos.</p>"
     },
     "Pearl of Power": {
-      "name": "Perle d'énergie",
-      "description": "<p><em>Une grosse perle opalescente habitée d’une lueur.</em></p><p><strong>Atout</strong>. Une fois par jour, vous rend la capacité de lancer un sort que vous avez perdu. Cet effet ne peut pas vous rendre un sort perdu à cause d’un échec critique au test d’incantation.</p>"
+      "name": "PÉROLA\r DO PODER",
+      "description": "<p><em> Uma pérola opalescente e grande,\n brilhando com uma radiância interna. </em></p><p><strong> Benefício.</strong> Uma vez por dia, você pode recuperar a capacidade de conjurar uma magia que tenha perdido. \nEsse efeito não pode restaurar uma magia perdida devido a uma falha crítica de conjuração. </p>"
     },
     "Potion of Extirpation": {
-      "name": "Potion d'extirpation",
-      "description": "<p><em>Une substance goudronneuse à l’odeur âcre dans une flasque en fer au bouchon de plomb.</em></p><p><strong>Atout</strong>. Vous pouvez verser la potion sur un objet ou une créature occupant une zone qui s’étend au maximum à courte portée. La cible disparaît entièrement de la réalité et ne peut pas y revenir autrement que par un sort de <em>souhait</em>.</p><p><strong>Personnalité</strong>.Chaotique. Proteste bruyamment quand on l’utilise et ne convient jamais du fait que la cible constituait un bon choix pour une extirpation.</p>"
+      "name": "POÇÃO DE EXTIRPAÇÃO",
+      "description": "<p><em> Uma substância acre e de alcatrão \n em um frasco de ferro com uma \ntampa de chumbo. </em></p><p><strong> Benefício.</strong> Você pode despejar a \n poção sobre um objeto ou criatura, \n preenchendo uma área de tamanho \n Adjacente. O alvo é completamente removido da realidade, e só pode \nretornar com a ajuda de algo tão \npoderoso quanto uma magia <em> Desejo </em>.</p><p><strong> Personalidade.</strong> Caótica. Reclama muito enquanto está sendo usada, e nunca concorda que o alvo escolhido é uma boa opção para extirpar. </p>"
     },
     "Potion of Healing": {
-      "name": "Potion de guérison",
-      "description": "<p><em>Une bouteille de verre contenant un liquide gazeux au goût de citron et de vanille.</em></p><p><strong>Atout</strong>. La personne récupère un certain nombre de points de vie dépendant de son niveau.</p><p><strong>Niveau 1-3</strong>: [[/r 1d6]] points de vie.</p><p><strong>Niveau 4-6</strong>: [[/r 2d8]] points de vie.</p><p><strong>Niveau 7-9</strong>: [[/r 3d10]] points de vie.</p><p><strong>Niveau 10+</strong>: [[/r 4d12]] points de vie.</p>"
+      "name": "POÇÃO DE CURA",
+      "description": "<p><em> Uma garrafa de vidro com um líquido efervescente de limão e baunilha. </em></p><p><strong>Benefício.</strong>. O consumidor desta poção recupera pontos de vida com base no seu nível:</p><p><strong>Nível 0-3</strong>: [[/r 1d6]] pontos de vida.</p><p><strong>Nível 4-6</strong>: [[/r 2d8]] pontos de vida.</p><p><strong>Nível 7-9</strong>: [[/r 3d10]] pontos de vida.</p><p><strong>Nível 10+</strong>: [[/r 4d12]] pontos de vida.</p>"
     },
     "Potion of Invisibility": {
-      "name": "Potion d'invisibilité",
-      "description": "<p><em>Cette fiole de verre paraît vide, mais on entend un liquide y clapoter.</em></p><p><strong>Atout</strong>. Quand vous buvez cette potion, vous devenez invisible pendant 10 rounds ou jusqu’à ce que vous attaquiez ou lanciez un sort.</p><p>@UUID[Compendium.shadowdark.spell-effects.SMXbMbXcj5hLvTjY]</p>"
+      "name": "POÇÃO DE INVISIBILIDADE",
+      "description": "<p><em> Esse frasco de vidro parece estar \rvazio, mas um líquido se agita de \r\nforma audível dentro dele. </em></p><p><strong>Benefício. </strong>. Ao beber esta poção, você \rfica invisível por 10 rodadas, ou até que ataque ou conjure uma magia.</p><p>@UUID[Compendium.shadowdark.spell-effects.SMXbMbXcj5hLvTjY]</p>"
     },
     "Scarab of Protection": {
-      "name": "Scarabée de protection",
-      "description": "<p><em>Une broche constituée d’un scarabée cornu trempé dans l’or.</em></p><p><strong>Atout</strong>. Si vous mourrez, faites un jet de [[check 18 con]]. En cas de réussite, vous n’êtes pas mort, mais simplement inconscient.</p>"
+      "name": "ESCARAVELHO DE PROTEÇÃO",
+      "description": "<p><em>Um broche feito de um escaravelho com chifres e banhado a ouro.</em></p><p><strong>Benefício. </strong>. Se você morrer, faça um teste de constituição [[check 18 con]]. Se for \rbem-sucedido, você fica inconsciente \rem vez de morrer.</p></em>"
     },
     "Scroll of Burning Hands": {
-      "name": "Parchemin de Mains brûlantes",
+      "name": "Pergaminho de mãos flamejantes",
       "description": "<p>@UUID[Compendium.shadowdark.spells.ItN82uLU3PhJFLNm]</p>"
     },
     "Scroll of Hold Portal": {
-      "name": "Parchemin de Fermeture",
+      "name": "Pergaminho de obstruir porta",
       "description": "<p>@UUID[Compendium.shadowdark.spells.q600IZtPTAgkz6vB]</p>"
     },
     "Shoftsword of the Thief": {
-      "name": "Épée courte du voleur",
-      "description": "<p><em>Une courte lame grise ébréchée et couverte d’encoches.</em></p><p><strong>Bonus</strong>. Épée courte +1. +2 si c’est un halfelin ou un voleur qui la manie.</p><p><strong>Atout</strong>. Une fois par jour, récupérez un jeton de chance que vous venez de dépenser.</p>"
+      "name": "Espada Curta Do Ladrão",
+      "description": "<p><em> Uma lâmina curta e acinzentada, \rmarcada por entalhes e cicatrizes. </em></p><p><strong>Bônus</strong>Espada curta +1. +2 se empunhada por um halfling ou ladrão.</p><p><strong>Benefício. </strong> Uma vez por dia, recupere uma ficha de sorte que você acabou de gastar. </p>"
     },
     "Staff of Healing": {
-      "name": "Bâton de guérison",
-      "description": "<p><em>Un bâton de chêne noueux doté d’un nœud particulièrement lourd à une extrémité.</em></p><p><strong>Bonus</strong>. Bâton +1.</p><p><strong>Atout</strong>. Une fois par jour, vous pouvez toucher une créature avec le bâton pour lui rendre [[/r 1d6]] points de vie.</p>"
+      "name": "Cajado De Cura",
+      "description": "<p><em>Um bastão de carvalho nodoso com \ruma saliência robusta em uma das extremidades.</em></p><p><strong>Bônus</strong>. Cajado +1.</p><p><strong>Benefício. </strong>. Uma vez por dia, você \rpode tocar uma criatura com o cajado \rpara curá-la em [[/r 1d6]] Pontos de vida.</p>"
     },
     "Sword of the Ancients": {
-      "name": "Épée des anciens",
-      "description": "<p><em>Une lame rouillée et ébréchée, à la poignée couverte de cuir huilé.</em></p><p><strong>Bonus</strong>. Épée longue +2.</p><p><strong>Atout</strong>. L’épée est incassable et peut trancher n’importe quel matériau.</p><p>Son propriétaire peut l’invoquer pour qu’elle revienne dans sa main s’ils se trouvent sur le même plan.</p>"
+      "name": "Espada Dos Ancestrais",
+      "description": "<p><em>Uma lâmina serrilhada e enferrujada, \rcom um oleoso cabo de couro.</em></p><p><strong>Bônus</strong>. Espada longa +2.</p><p><strong> Benefício. </strong>A espada é inquebrável, e pode cortar qualquer material.</p><p>O dono pode invocar a espada direto \rpara sua mão se ambos estiverem no mesmo plano.</p>"
     },
     "True Name": {
-      "name": "Nom véritable",
-      "description": "<p><em>Le nom secret et unique que porte chaque créature et figurant dans l’Alliance. Peu d’êtres connaissent leur propre Nom véritable.</em></p><p><strong>Atout</strong>. Vous êtes avantagé aux jets d’attaque et aux tests d’incantation visant une créature dont vous prononcez le <em>Nom véritable</em>.</p>"
+      "name": "Nome Verdadeiro",
+      "description": "<p><em>É o nome secreto e único que pertence a uma criatura, documentado na Aliança. Poucas criaturas conhecem seus próprios Nomes Verdadeiros.</em></p><p><strong>Benefício. </strong>. Você tem Vantagem em jogadas de ataque e testes de conjuração feitos contra uma criatura cujo <em>Nome Verdadeiro</em>você pronunciar.</p>"
     },
     "Vigilant": {
-      "name": "Vigilant",
-      "description": "<p><strong>Atout</strong>. Le porteur ne peut pas être surpris.</p>"
+      "name": "Alerta",
+      "description": "<p><strong>Benefício. </strong>Você não pode ser surpreendido.</p>"
     },
     "Wand of Blind/Deafen": {
-      "name": "Baguette d’Aveugler/Assourdir",
+      "name": "Varinha de Cegueira/Surdez",
       "description": "<p>@UUID[Compendium.shadowdark.spells.ItoZZ0nli29N5d7G]</p><p>ND 12</p>"
     }
   }
