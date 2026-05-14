@@ -17,151 +17,342 @@
       "name": "Nome do local da aventura: nome 1",
       "description": "",
       "results": {
-        "1-1": "Minas do",
-        "2-2": "Abadia do",
-        "3-3": "Torre do",
-        "4-4": "Cavernas do",
-        "5-5": "Túmulo do",
-        "6-6": "Labirintos do",
-        "7-7": "Cripta do",
-        "8-8": "Mosteiro do",
-        "9-9": "Ruínas do",
-        "10-10": "Túneis do",
-        "11-11": "Cidadela do",
-        "12-12": "Tumba do",
-        "13-13": "Castelo do",
-        "14-14": "Templo do",
-        "15-15": "Forte do",
-        "16-16": "Ilha do",
-        "17-17": "Fortaleza do",
-        "18-18": "Masmorra do",
-        "19-19": "Necrópole do",
-        "20-20": "Santuário do"
+        "1-1": {
+          "description": "Minas do"
+        },
+        "2-2": {
+          "description": "Abadia do"
+        },
+        "3-3": {
+          "description": "Torre do"
+        },
+        "4-4": {
+          "description": "Cavernas do"
+        },
+        "5-5": {
+          "description": "Túmulo do"
+        },
+        "6-6": {
+          "description": "Labirintos do"
+        },
+        "7-7": {
+          "description": "Cripta do"
+        },
+        "8-8": {
+          "description": "Mosteiro do"
+        },
+        "9-9": {
+          "description": "Ruínas do"
+        },
+        "10-10": {
+          "description": "Túneis do"
+        },
+        "11-11": {
+          "description": "Cidadela do"
+        },
+        "12-12": {
+          "description": "Tumba do"
+        },
+        "13-13": {
+          "description": "Castelo do"
+        },
+        "14-14": {
+          "description": "Templo do"
+        },
+        "15-15": {
+          "description": "Forte do"
+        },
+        "16-16": {
+          "description": "Ilha do"
+        },
+        "17-17": {
+          "description": "Fortaleza do"
+        },
+        "18-18": {
+          "description": "Masmorra do"
+        },
+        "19-19": {
+          "description": "Necrópole do"
+        },
+        "20-20": {
+          "description": "Santuário do"
+        }
       }
     },
     "Adventuring Site Name: Name 2": {
       "name": "Nome do local da aventura : Nome 2",
       "description": "",
       "results": {
-        "1-1": "Chama",
-        "2-2": "Fantasma",
-        "3-3": "Escuridão",
-        "4-4": "Pico",
-        "5-5": "Fronteiras",
-        "6-6": "Rei",
-        "7-7": "Crepúsculo",
-        "8-8": "Profundezas",
-        "9-9": "Joia",
-        "10-10": "Deus",
-        "11-11": "Terras",
-        "12-12": "Tempestade",
-        "13-13": "Pântano",
-        "14-14": "Ravina",
-        "15-15": "Vale",
-        "16-16": "Horda",
-        "17-17": "Caveira",
-        "18-18": "Rainha",
-        "19-19": "Ermos",
-        "20-20": "Herói"
+        "1-1": {
+          "description": "Chama"
+        },
+        "2-2": {
+          "description": "Fantasma"
+        },
+        "3-3": {
+          "description": "Escuridão"
+        },
+        "4-4": {
+          "description": "Pico"
+        },
+        "5-5": {
+          "description": "Fronteiras"
+        },
+        "6-6": {
+          "description": "Rei"
+        },
+        "7-7": {
+          "description": "Crepúsculo"
+        },
+        "8-8": {
+          "description": "Profundezas"
+        },
+        "9-9": {
+          "description": "Joia"
+        },
+        "10-10": {
+          "description": "Deus"
+        },
+        "11-11": {
+          "description": "Terras"
+        },
+        "12-12": {
+          "description": "Tempestade"
+        },
+        "13-13": {
+          "description": "Pântano"
+        },
+        "14-14": {
+          "description": "Ravina"
+        },
+        "15-15": {
+          "description": "Vale"
+        },
+        "16-16": {
+          "description": "Horda"
+        },
+        "17-17": {
+          "description": "Caveira"
+        },
+        "18-18": {
+          "description": "Rainha"
+        },
+        "19-19": {
+          "description": "Ermos"
+        },
+        "20-20": {
+          "description": "Herói"
+        }
       }
     },
     "Adventuring Site Name: Name 3": {
       "name": "Nome do local da aventura : Nome 3",
       "description": "",
       "results": {
-        "1-1": "Amaldiçoado",
-        "2-2": "Sussurrante",
-        "3-3": "Ensanguentado",
-        "4-4": "Encoberto",
-        "5-5": "Perdido",
-        "6-6": "Morto",
-        "7-7": "Bosque Profundo",
-        "8-8": "Caído",
-        "9-9": "Retornado",
-        "10-10": "Congelado",
-        "11-11": "Cintilante",
-        "12-12": "Caos",
-        "13-13": "Abandonado",
-        "14-14": "Arruinado",
-        "15-15": "Esquecido",
-        "16-16": "Adormecido",
-        "17-17": "Selvagem",
-        "18-18": "Profano",
-        "19-19": "Encantado",
-        "20-20": "Imortal"
+        "1-1": {
+          "description": "Amaldiçoado"
+        },
+        "2-2": {
+          "description": "Sussurrante"
+        },
+        "3-3": {
+          "description": "Ensanguentado"
+        },
+        "4-4": {
+          "description": "Encoberto"
+        },
+        "5-5": {
+          "description": "Perdido"
+        },
+        "6-6": {
+          "description": "Morto"
+        },
+        "7-7": {
+          "description": "Bosque Profundo"
+        },
+        "8-8": {
+          "description": "Caído"
+        },
+        "9-9": {
+          "description": "Retornado"
+        },
+        "10-10": {
+          "description": "Congelado"
+        },
+        "11-11": {
+          "description": "Cintilante"
+        },
+        "12-12": {
+          "description": "Caos"
+        },
+        "13-13": {
+          "description": "Abandonado"
+        },
+        "14-14": {
+          "description": "Arruinado"
+        },
+        "15-15": {
+          "description": "Esquecido"
+        },
+        "16-16": {
+          "description": "Adormecido"
+        },
+        "17-17": {
+          "description": "Selvagem"
+        },
+        "18-18": {
+          "description": "Profano"
+        },
+        "19-19": {
+          "description": "Encantado"
+        },
+        "20-20": {
+          "description": "Imortal"
+        }
       }
     },
     "Background": {
       "name": "Antecedente",
       "description": "<p>O conhecimento e as habilidades \nadquiridas no seu passado podem \nser úteis durante suas aventuras.</p><p>Converse com o MJ para determinar se \ro seu antecedente lhe garante alguma Vantagem em determinadas situações.</p>",
       "results": {
-        "1-1": "Garoto de rua",
-        "2-2": "Procurado",
-        "3-3": "Iniciado do culto",
-        "4-4": "Guilda dos ladrões",
-        "5-5": "Banido",
-        "6-6": "Órfão",
-        "7-7": "Aprendiz de mago",
-        "8-8": "Joalheiro",
-        "9-9": "Herbalista",
-        "10-10": "Bárbaro",
-        "11-11": "Mercenário",
-        "12-12": "Marinheiro",
-        "13-13": "Acólito",
-        "14-14": "Soldado",
-        "15-15": "Guardião",
-        "16-16": "Batedor",
-        "17-17": "Menestrel",
-        "18-18": "Estudioso",
-        "19-19": "Nobre",
-        "20-20": "Cirurgião"
+        "1-1": {
+          "description": "Garoto de rua"
+        },
+        "2-2": {
+          "description": "Procurado"
+        },
+        "3-3": {
+          "description": "Iniciado do culto"
+        },
+        "4-4": {
+          "description": "Guilda dos ladrões"
+        },
+        "5-5": {
+          "description": "Banido"
+        },
+        "6-6": {
+          "description": "Órfão"
+        },
+        "7-7": {
+          "description": "Aprendiz de mago"
+        },
+        "8-8": {
+          "description": "Joalheiro"
+        },
+        "9-9": {
+          "description": "Herbalista"
+        },
+        "10-10": {
+          "description": "Bárbaro"
+        },
+        "11-11": {
+          "description": "Mercenário"
+        },
+        "12-12": {
+          "description": "Marinheiro"
+        },
+        "13-13": {
+          "description": "Acólito"
+        },
+        "14-14": {
+          "description": "Soldado"
+        },
+        "15-15": {
+          "description": "Guardião"
+        },
+        "16-16": {
+          "description": "Batedor"
+        },
+        "17-17": {
+          "description": "Menestrel"
+        },
+        "18-18": {
+          "description": "Estudioso"
+        },
+        "19-19": {
+          "description": "Nobre"
+        },
+        "20-20": {
+          "description": "Cirurgião"
+        }
       }
     },
     "Black Lotus Talents": {
       "name": "Talentos da Lótus negra",
       "description": "<p>Você pode manter ou rolar novamente os duplicados</p>",
       "results": {
-        "1-1": "Talentos da Lótus negra",
-        "2-2": "Paralizar um alvo",
-        "3-3": "Evitar Aprisionamentos/Ferimentos",
-        "4-4": "+1 na CA ao com duas armas",
-        "5-5": "PV Adicional",
-        "6-6": "Dano Triplo do Assassino",
-        "7-7": "Teste de Moral com CD 18",
-        "8-8": "Andar sobre a água",
-        "9-9": "Adormecer uma criatura",
-        "10-10": "Andar em superfícies íngremes",
-        "11-11": "+1 de dano corpo a corpo",
-        "12-12": "Se esconder de criatura"
+        "1-1": {
+          "description": "Talentos da Lótus negra"
+        },
+        "2-2": {
+          "description": "Paralizar um alvo"
+        },
+        "3-3": {
+          "description": "Evitar Aprisionamentos/Ferimentos"
+        },
+        "4-4": {
+          "description": "+1 na CA ao com duas armas"
+        },
+        "5-5": {
+          "description": "PV Adicional"
+        },
+        "6-6": {
+          "description": "Dano Triplo do Assassino"
+        },
+        "7-7": {
+          "description": "Teste de Moral com CD 18"
+        },
+        "8-8": {
+          "description": "Andar sobre a água"
+        },
+        "9-9": {
+          "description": "Adormecer uma criatura"
+        },
+        "10-10": {
+          "description": "Andar em superfícies íngremes"
+        },
+        "11-11": {
+          "description": "+1 de dano corpo a corpo"
+        },
+        "12-12": {
+          "description": "Se esconder de criatura"
+        }
       }
     },
     "Character Names: Dwarf": {
       "name": "Nomes e Personagem: Anão",
-      "description": ""
+      "description": "",
+      "results": {}
     },
     "Character Names: Elf": {
       "name": "Nomes e Personagem: Elfo",
-      "description": ""
+      "description": "",
+      "results": {}
     },
     "Character Names: Goblin": {
       "name": "Nomes e Personagem: Goblin",
-      "description": ""
+      "description": "",
+      "results": {}
     },
     "Character Names: Half-Orc": {
       "name": "Nomes e Personagem: Meio-orc",
-      "description": ""
+      "description": "",
+      "results": {}
     },
     "Character Names: Halfling": {
       "name": "Nomes e Personagem: Halfling",
-      "description": ""
+      "description": "",
+      "results": {}
     },
     "Character Names: Human": {
       "name": "Nomes e Personagem: Humano",
-      "description": ""
+      "description": "",
+      "results": {}
     },
     "Character Names: Kobold": {
       "name": "Nomes e Personagem: Kobold",
-      "description": ""
+      "description": "",
+      "results": {}
     },
     "Class Talents: Bard": {
       "name": "Talentos de Classe: Bardo",
@@ -232,1007 +423,2637 @@
       "name": "Nomes de masmorras: Nome 1",
       "description": "",
       "results": {
-        "1-1": "Cidadela",
-        "4-5": "Ruínas",
-        "2-3": "Naufrágio",
-        "6-7": "Capela",
-        "8-9": "Biblioteca",
-        "10-11": "Sepultura",
-        "12-13": "Baluarte",
-        "14-15": "Laboratório",
-        "16-17": "Abadia",
-        "18-19": "Prisão",
-        "20-21": "Tumba",
-        "22-23": "Forja",
-        "24-25": "Ravina",
-        "26-27": "Mosteiro",
-        "28-29": "Pináculo",
-        "30-31": "Esconderijo",
-        "32-33": "Castelo",
-        "34-35": "Túneis",
-        "36-37": "Salões",
-        "38-39": "Torre",
-        "42-43": "Subcidade",
-        "40-41": "Quinta",
-        "44-45": "Ninho",
-        "46-47": "Cofres",
-        "48-49": "Observatório",
-        "50-53": "Asilo",
-        "54-55": "Sepulcro",
-        "56-57": "Túmulo",
-        "58-59": "Palácio",
-        "60-61": "Bastião",
-        "64-65": "Altar",
-        "66-67": "Jardim",
-        "62-63": "Cavernas",
-        "70-71": "Labirinto",
-        "68-69": "Templo",
-        "72-73": "Reduto",
-        "74-75": "Pirâmide",
-        "76-77": "Santuário",
-        "78-79": "Minas",
-        "80-81": "Covil",
-        "82-83": "Antro",
-        "84-85": "Fossos",
-        "86-87": "Gruta",
-        "90-91": "Fortaleza",
-        "88-89": "Profundezas",
-        "92-93": "Mansão",
-        "94-95": "Tocas",
-        "96-97": "Monólito",
-        "98-99": "Criptas",
-        "100-100": "Masmorra"
+        "1-1": {
+          "description": "Cidadela"
+        },
+        "4-5": {
+          "description": "Ruínas"
+        },
+        "2-3": {
+          "description": "Naufrágio"
+        },
+        "6-7": {
+          "description": "Capela"
+        },
+        "8-9": {
+          "description": "Biblioteca"
+        },
+        "10-11": {
+          "description": "Sepultura"
+        },
+        "12-13": {
+          "description": "Baluarte"
+        },
+        "14-15": {
+          "description": "Laboratório"
+        },
+        "16-17": {
+          "description": "Abadia"
+        },
+        "18-19": {
+          "description": "Prisão"
+        },
+        "20-21": {
+          "description": "Tumba"
+        },
+        "22-23": {
+          "description": "Forja"
+        },
+        "24-25": {
+          "description": "Ravina"
+        },
+        "26-27": {
+          "description": "Mosteiro"
+        },
+        "28-29": {
+          "description": "Pináculo"
+        },
+        "30-31": {
+          "description": "Esconderijo"
+        },
+        "32-33": {
+          "description": "Castelo"
+        },
+        "34-35": {
+          "description": "Túneis"
+        },
+        "36-37": {
+          "description": "Salões"
+        },
+        "38-39": {
+          "description": "Torre"
+        },
+        "42-43": {
+          "description": "Subcidade"
+        },
+        "40-41": {
+          "description": "Quinta"
+        },
+        "44-45": {
+          "description": "Ninho"
+        },
+        "46-47": {
+          "description": "Cofres"
+        },
+        "48-49": {
+          "description": "Observatório"
+        },
+        "50-53": {
+          "description": "Asilo"
+        },
+        "54-55": {
+          "description": "Sepulcro"
+        },
+        "56-57": {
+          "description": "Túmulo"
+        },
+        "58-59": {
+          "description": "Palácio"
+        },
+        "60-61": {
+          "description": "Bastião"
+        },
+        "64-65": {
+          "description": "Altar"
+        },
+        "66-67": {
+          "description": "Jardim"
+        },
+        "62-63": {
+          "description": "Cavernas"
+        },
+        "70-71": {
+          "description": "Labirinto"
+        },
+        "68-69": {
+          "description": "Templo"
+        },
+        "72-73": {
+          "description": "Reduto"
+        },
+        "74-75": {
+          "description": "Pirâmide"
+        },
+        "76-77": {
+          "description": "Santuário"
+        },
+        "78-79": {
+          "description": "Minas"
+        },
+        "80-81": {
+          "description": "Covil"
+        },
+        "82-83": {
+          "description": "Antro"
+        },
+        "84-85": {
+          "description": "Fossos"
+        },
+        "86-87": {
+          "description": "Gruta"
+        },
+        "90-91": {
+          "description": "Fortaleza"
+        },
+        "88-89": {
+          "description": "Profundezas"
+        },
+        "92-93": {
+          "description": "Mansão"
+        },
+        "94-95": {
+          "description": "Tocas"
+        },
+        "96-97": {
+          "description": "Monólito"
+        },
+        "98-99": {
+          "description": "Criptas"
+        },
+        "100-100": {
+          "description": "Masmorra"
+        }
       }
     },
     "Dungeon Names: Name 2": {
       "name": "Nomes de masmorras: Nome 2",
       "description": "",
       "results": {
-        "1-1": "do Ídolo",
-        "2-3": "do Traidor",
-        "4-5": "do Rei",
-        "6-7": "do Elefante",
-        "8-9": "do Deus",
-        "10-11": "do Culto",
-        "12-13": "do Cavaleiro",
-        "14-15": "do Herói",
-        "18-19": "do Espírito",
-        "16-17": "dos Piratas",
-        "20-21": "das Irmãs",
-        "22-23": "da Espada",
-        "24-25": "da Fera",
-        "26-27": "dos Antigos",
-        "30-31": "dos Párias",
-        "28-29": "dos Perdidos",
-        "32-33": "do Marinheiro",
-        "34-35": "dos Mortos-vivos",
-        "36-37": "do Mago",
-        "38-39": "do Tesouro",
-        "40-41": "da Múmia",
-        "42-43": "do Usurpador",
-        "44-45": "do Santo",
-        "46-47": "do Mecanismo",
-        "48-49": "dos Irmãos",
-        "50-53": "do Lorde",
-        "54-55": "do Descendente",
-        "56-57": "da Abominação",
-        "58-59": "do Eremita",
-        "60-61": "do Senhor da Guerra",
-        "62-63": "do Caçador",
-        "64-65": "da Guilda",
-        "66-67": "do Vampiro",
-        "68-69": "do Filósofo",
-        "70-71": "dos Guerreiros",
-        "72-73": "da Rainha",
-        "74-75": "da Joia",
-        "76-77": "do Segredo",
-        "78-79": "do Imperador",
-        "80-81": "da Arma",
-        "84-85": "da Coroa",
-        "82-83": "do Feiticeiro",
-        "86-87": "do Ancestral",
-        "88-89": "das Runas",
-        "90-91": "da Árvore",
-        "92-93": "do Assassino",
-        "94-95": "da Relíquia",
-        "96-97": "da Bênção",
-        "98-99": "do Ritual",
-        "100-100": "do Senhor Supremo"
+        "1-1": {
+          "description": "do Ídolo"
+        },
+        "2-3": {
+          "description": "do Traidor"
+        },
+        "4-5": {
+          "description": "do Rei"
+        },
+        "6-7": {
+          "description": "do Elefante"
+        },
+        "8-9": {
+          "description": "do Deus"
+        },
+        "10-11": {
+          "description": "do Culto"
+        },
+        "12-13": {
+          "description": "do Cavaleiro"
+        },
+        "14-15": {
+          "description": "do Herói"
+        },
+        "18-19": {
+          "description": "do Espírito"
+        },
+        "16-17": {
+          "description": "dos Piratas"
+        },
+        "20-21": {
+          "description": "das Irmãs"
+        },
+        "22-23": {
+          "description": "da Espada"
+        },
+        "24-25": {
+          "description": "da Fera"
+        },
+        "26-27": {
+          "description": "dos Antigos"
+        },
+        "30-31": {
+          "description": "dos Párias"
+        },
+        "28-29": {
+          "description": "dos Perdidos"
+        },
+        "32-33": {
+          "description": "do Marinheiro"
+        },
+        "34-35": {
+          "description": "dos Mortos-vivos"
+        },
+        "36-37": {
+          "description": "do Mago"
+        },
+        "38-39": {
+          "description": "do Tesouro"
+        },
+        "40-41": {
+          "description": "da Múmia"
+        },
+        "42-43": {
+          "description": "do Usurpador"
+        },
+        "44-45": {
+          "description": "do Santo"
+        },
+        "46-47": {
+          "description": "do Mecanismo"
+        },
+        "48-49": {
+          "description": "dos Irmãos"
+        },
+        "50-53": {
+          "description": "do Lorde"
+        },
+        "54-55": {
+          "description": "do Descendente"
+        },
+        "56-57": {
+          "description": "da Abominação"
+        },
+        "58-59": {
+          "description": "do Eremita"
+        },
+        "60-61": {
+          "description": "do Senhor da Guerra"
+        },
+        "62-63": {
+          "description": "do Caçador"
+        },
+        "64-65": {
+          "description": "da Guilda"
+        },
+        "66-67": {
+          "description": "do Vampiro"
+        },
+        "68-69": {
+          "description": "do Filósofo"
+        },
+        "70-71": {
+          "description": "dos Guerreiros"
+        },
+        "72-73": {
+          "description": "da Rainha"
+        },
+        "74-75": {
+          "description": "da Joia"
+        },
+        "76-77": {
+          "description": "do Segredo"
+        },
+        "78-79": {
+          "description": "do Imperador"
+        },
+        "80-81": {
+          "description": "da Arma"
+        },
+        "84-85": {
+          "description": "da Coroa"
+        },
+        "82-83": {
+          "description": "do Feiticeiro"
+        },
+        "86-87": {
+          "description": "do Ancestral"
+        },
+        "88-89": {
+          "description": "das Runas"
+        },
+        "90-91": {
+          "description": "da Árvore"
+        },
+        "92-93": {
+          "description": "do Assassino"
+        },
+        "94-95": {
+          "description": "da Relíquia"
+        },
+        "96-97": {
+          "description": "da Bênção"
+        },
+        "98-99": {
+          "description": "do Ritual"
+        },
+        "100-100": {
+          "description": "do Senhor Supremo"
+        }
       }
     },
     "Dungeon Names: Name 3": {
       "name": "Nomes de masmorras: Nome 3",
       "description": "",
       "results": {
-        "1-1": "Assombrado",
-        "2-3": "Esquecido",
-        "4-5": "Desonrado",
-        "8-9": "Monstruoso",
-        "6-7": "Bárbaro",
-        "10-11": "Caído",
-        "12-13": "Amaldiçoado",
-        "14-15": "Aprisionado",
-        "16-17": "Venenoso",
-        "18-19": "Ciclópico",
-        "22-23": "Congelado",
-        "20-21": "do Céu",
-        "24-25": "Flamejante",
-        "26-27": "Ladrões",
-        "28-29": "Cristalino",
-        "30-31": "de Outro Mundo",
-        "32-33": "Arruinado",
-        "34-35": "Celestial",
-        "36-37": "Dracônico",
-        "38-39": "Etéreo",
-        "40-41": "Profanado",
-        "42-43": "Reptiliano",
-        "44-45": "Metálico",
-        "46-47": "Insetoide",
-        "48-49": "Elemental",
-        "50-53": "Aracnídeo",
-        "54-55": "Demoníaco",
-        "56-57": "Fúngico",
-        "58-59": "Dourado",
-        "60-61": "Feérico",
-        "62-63": "de Raios",
-        "66-67": "Corrupto",
-        "64-65": "de Peixe",
-        "68-69": "Justo",
-        "70-71": "de Lama",
-        "72-73": "da Noite",
-        "74-75": "Oculto",
-        "76-77": "Proibido",
-        "78-79": "Cintilante",
-        "80-81": "de Vidro",
-        "82-83": "Radiante",
-        "86-87": "Selvagem",
-        "84-85": "Louco",
-        "88-89": "Perdido",
-        "90-91": "Majestoso",
-        "92-93": "Antediluviano",
-        "94-95": "Profetizado",
-        "96-97": "Velado",
-        "98-99": "Cósmico",
-        "100-100": "Lendário"
+        "1-1": {
+          "description": "Assombrado"
+        },
+        "2-3": {
+          "description": "Esquecido"
+        },
+        "4-5": {
+          "description": "Desonrado"
+        },
+        "8-9": {
+          "description": "Monstruoso"
+        },
+        "6-7": {
+          "description": "Bárbaro"
+        },
+        "10-11": {
+          "description": "Caído"
+        },
+        "12-13": {
+          "description": "Amaldiçoado"
+        },
+        "14-15": {
+          "description": "Aprisionado"
+        },
+        "16-17": {
+          "description": "Venenoso"
+        },
+        "18-19": {
+          "description": "Ciclópico"
+        },
+        "22-23": {
+          "description": "Congelado"
+        },
+        "20-21": {
+          "description": "do Céu"
+        },
+        "24-25": {
+          "description": "Flamejante"
+        },
+        "26-27": {
+          "description": "Ladrões"
+        },
+        "28-29": {
+          "description": "Cristalino"
+        },
+        "30-31": {
+          "description": "de Outro Mundo"
+        },
+        "32-33": {
+          "description": "Arruinado"
+        },
+        "34-35": {
+          "description": "Celestial"
+        },
+        "36-37": {
+          "description": "Dracônico"
+        },
+        "38-39": {
+          "description": "Etéreo"
+        },
+        "40-41": {
+          "description": "Profanado"
+        },
+        "42-43": {
+          "description": "Reptiliano"
+        },
+        "44-45": {
+          "description": "Metálico"
+        },
+        "46-47": {
+          "description": "Insetoide"
+        },
+        "48-49": {
+          "description": "Elemental"
+        },
+        "50-53": {
+          "description": "Aracnídeo"
+        },
+        "54-55": {
+          "description": "Demoníaco"
+        },
+        "56-57": {
+          "description": "Fúngico"
+        },
+        "58-59": {
+          "description": "Dourado"
+        },
+        "60-61": {
+          "description": "Feérico"
+        },
+        "62-63": {
+          "description": "de Raios"
+        },
+        "66-67": {
+          "description": "Corrupto"
+        },
+        "64-65": {
+          "description": "de Peixe"
+        },
+        "68-69": {
+          "description": "Justo"
+        },
+        "70-71": {
+          "description": "de Lama"
+        },
+        "72-73": {
+          "description": "da Noite"
+        },
+        "74-75": {
+          "description": "Oculto"
+        },
+        "76-77": {
+          "description": "Proibido"
+        },
+        "78-79": {
+          "description": "Cintilante"
+        },
+        "80-81": {
+          "description": "de Vidro"
+        },
+        "82-83": {
+          "description": "Radiante"
+        },
+        "86-87": {
+          "description": "Selvagem"
+        },
+        "84-85": {
+          "description": "Louco"
+        },
+        "88-89": {
+          "description": "Perdido"
+        },
+        "90-91": {
+          "description": "Majestoso"
+        },
+        "92-93": {
+          "description": "Antediluviano"
+        },
+        "94-95": {
+          "description": "Profetizado"
+        },
+        "96-97": {
+          "description": "Velado"
+        },
+        "98-99": {
+          "description": "Cósmico"
+        },
+        "100-100": {
+          "description": "Lendário"
+        }
       }
     },
     "Hazard: Damage": {
       "name": "Perigo: Dano",
       "description": "",
       "results": {
-        "1-1": "Poças Ácidas",
-        "2-2": "Rochas que explodem",
-        "3-3": "Água congelante",
-        "4-4": "Lava",
-        "5-5": "Granizo intenso",
-        "6-6": "Saída de vapor",
-        "7-7": "Mofo tóxico",
-        "8-8": "Queda de detritos",
-        "9-9": "Chuva ácida",
-        "10-10": "Cortina de fogo",
-        "11-11": "Campo eletrificado",
-        "12-12": "Fluxo gravitacional"
+        "1-1": {
+          "description": "Poças Ácidas"
+        },
+        "2-2": {
+          "description": "Rochas que explodem"
+        },
+        "3-3": {
+          "description": "Água congelante"
+        },
+        "4-4": {
+          "description": "Lava"
+        },
+        "5-5": {
+          "description": "Granizo intenso"
+        },
+        "6-6": {
+          "description": "Saída de vapor"
+        },
+        "7-7": {
+          "description": "Mofo tóxico"
+        },
+        "8-8": {
+          "description": "Queda de detritos"
+        },
+        "9-9": {
+          "description": "Chuva ácida"
+        },
+        "10-10": {
+          "description": "Cortina de fogo"
+        },
+        "11-11": {
+          "description": "Campo eletrificado"
+        },
+        "12-12": {
+          "description": "Fluxo gravitacional"
+        }
       }
     },
     "Hazard: Movement": {
       "name": "Perigo: Movimento",
       "description": "",
       "results": {
-        "1-1": "Areia movediça",
-        "2-2": "Estrepes",
-        "3-3": "Detritos soltos",
-        "4-4": "Poço de piche",
-        "5-5": "Vinhas que agarram",
-        "6-6": "Inclinação acentuada",
-        "7-7": "Gelo escorregadio",
-        "8-8": "Correnteza forte",
-        "9-9": "Teias pegajosas",
-        "10-10": "Vento forte",
-        "11-11": "Chão oleoso",
-        "12-12": "Terreno ilusório"
+        "1-1": {
+          "description": "Areia movediça"
+        },
+        "2-2": {
+          "description": "Estrepes"
+        },
+        "3-3": {
+          "description": "Detritos soltos"
+        },
+        "4-4": {
+          "description": "Poço de piche"
+        },
+        "5-5": {
+          "description": "Vinhas que agarram"
+        },
+        "6-6": {
+          "description": "Inclinação acentuada"
+        },
+        "7-7": {
+          "description": "Gelo escorregadio"
+        },
+        "8-8": {
+          "description": "Correnteza forte"
+        },
+        "9-9": {
+          "description": "Teias pegajosas"
+        },
+        "10-10": {
+          "description": "Vento forte"
+        },
+        "11-11": {
+          "description": "Chão oleoso"
+        },
+        "12-12": {
+          "description": "Terreno ilusório"
+        }
       }
     },
     "Hazard: Weaken": {
       "name": "Perigo: Enfraquecimento",
       "description": "",
       "results": {
-        "1-1": "Fumaça cegante",
-        "2-2": "Campo magnético",
-        "3-3": "Runas de exaustão",
-        "4-4": "Zona antimagia",
-        "5-5": "Apaga zonas de luz",
-        "6-6": "Som desorientador",
-        "7-7": "Silêncio mágico",
-        "8-8": "Frio entorpecente",
-        "9-9": "Fedor nauseante",
-        "10-10": "Esporos soníferos",
-        "11-11": "Reflexos desorientadores",
-        "12-12": "Roubo de memórias"
+        "1-1": {
+          "description": "Fumaça cegante"
+        },
+        "2-2": {
+          "description": "Campo magnético"
+        },
+        "3-3": {
+          "description": "Runas de exaustão"
+        },
+        "4-4": {
+          "description": "Zona antimagia"
+        },
+        "5-5": {
+          "description": "Apaga zonas de luz"
+        },
+        "6-6": {
+          "description": "Som desorientador"
+        },
+        "7-7": {
+          "description": "Silêncio mágico"
+        },
+        "8-8": {
+          "description": "Frio entorpecente"
+        },
+        "9-9": {
+          "description": "Fedor nauseante"
+        },
+        "10-10": {
+          "description": "Esporos soníferos"
+        },
+        "11-11": {
+          "description": "Reflexos desorientadores"
+        },
+        "12-12": {
+          "description": "Roubo de memórias"
+        }
       }
     },
     "Magic Item: Name 1": {
       "name": "Item Mágico: Nome 1",
       "description": "",
       "results": {
-        "1-1": "A Lâmina",
-        "2-2": "O Cataplasma",
-        "3-3": "O Ritual",
-        "4-4": "O Machado",
-        "5-5": "O Martelo",
-        "6-6": "A Varinha",
-        "7-7": "A Capa",
-        "8-8": "O Tomo",
-        "9-9": "A Litânia",
-        "10-10": "O Cajado",
-        "11-11": "O Pergaminho",
-        "12-12": "O Crânio",
-        "13-13": "O Arco",
-        "14-14": "A Espada",
-        "15-15": "O Escudo",
-        "16-16": "A Adaga",
-        "17-17": "A Armadura",
-        "18-18": "O Orbe",
-        "19-19": "O Olho",
-        "20-20": "O Elixir"
+        "1-1": {
+          "description": "A Lâmina"
+        },
+        "2-2": {
+          "description": "O Cataplasma"
+        },
+        "3-3": {
+          "description": "O Ritual"
+        },
+        "4-4": {
+          "description": "O Machado"
+        },
+        "5-5": {
+          "description": "O Martelo"
+        },
+        "6-6": {
+          "description": "A Varinha"
+        },
+        "7-7": {
+          "description": "A Capa"
+        },
+        "8-8": {
+          "description": "O Tomo"
+        },
+        "9-9": {
+          "description": "A Litânia"
+        },
+        "10-10": {
+          "description": "O Cajado"
+        },
+        "11-11": {
+          "description": "O Pergaminho"
+        },
+        "12-12": {
+          "description": "O Crânio"
+        },
+        "13-13": {
+          "description": "O Arco"
+        },
+        "14-14": {
+          "description": "A Espada"
+        },
+        "15-15": {
+          "description": "O Escudo"
+        },
+        "16-16": {
+          "description": "A Adaga"
+        },
+        "17-17": {
+          "description": "A Armadura"
+        },
+        "18-18": {
+          "description": "O Orbe"
+        },
+        "19-19": {
+          "description": "O Olho"
+        },
+        "20-20": {
+          "description": "O Elixir"
+        }
       }
     },
     "Magic Item: Name 2": {
       "name": "Item Mágico: Nome 2",
       "description": "",
       "results": {
-        "1-1": "Carmesim",
-        "2-2": "das Cinzas",
-        "3-3": "de Ortival",
-        "4-4": "da Perdição",
-        "5-5": "do Crepúsculo",
-        "6-6": "Astral",
-        "7-7": "de Krull",
-        "8-8": "Cruel",
-        "9-9": "de Memnon",
-        "10-10": "Abençoado",
-        "11-11": "Infernal",
-        "12-12": "de Madeera",
-        "13-13": "Sussurrante",
-        "14-14": "Profano",
-        "15-15": "de Shune",
-        "16-16": "Perdido",
-        "17-17": "de Ord",
-        "18-18": "Virtuoso",
-        "19-19": "Demoníaco",
-        "20-20": "Primordial"
+        "1-1": {
+          "description": "Carmesim"
+        },
+        "2-2": {
+          "description": "das Cinzas"
+        },
+        "3-3": {
+          "description": "de Ortival"
+        },
+        "4-4": {
+          "description": "da Perdição"
+        },
+        "5-5": {
+          "description": "do Crepúsculo"
+        },
+        "6-6": {
+          "description": "Astral"
+        },
+        "7-7": {
+          "description": "de Krull"
+        },
+        "8-8": {
+          "description": "Cruel"
+        },
+        "9-9": {
+          "description": "de Memnon"
+        },
+        "10-10": {
+          "description": "Abençoado"
+        },
+        "11-11": {
+          "description": "Infernal"
+        },
+        "12-12": {
+          "description": "de Madeera"
+        },
+        "13-13": {
+          "description": "Sussurrante"
+        },
+        "14-14": {
+          "description": "Profano"
+        },
+        "15-15": {
+          "description": "de Shune"
+        },
+        "16-16": {
+          "description": "Perdido"
+        },
+        "17-17": {
+          "description": "de Ord"
+        },
+        "18-18": {
+          "description": "Virtuoso"
+        },
+        "19-19": {
+          "description": "Demoníaco"
+        },
+        "20-20": {
+          "description": "Primordial"
+        }
       }
     },
     "Magic Item: Name 3": {
       "name": "Item Mágico: Nome 3",
       "description": "",
       "results": {
-        "1-1": "da Morte Trovejante",
-        "2-2": "das Eras",
-        "3-3": "do Arquimago",
-        "4-4": "da Destruição",
-        "5-5": "de Brak",
-        "6-6": "do Poder",
-        "7-7": "da Aliança",
-        "8-8": "dos Ermos",
-        "9-9": "das Hordas",
-        "10-10": "do Sangue",
-        "11-11": "do Tempo",
-        "12-12": "da Rainha-Lich",
-        "13-13": "dos Anciões",
-        "14-14": "da Loucura",
-        "15-15": "do Desvanecimento",
-        "16-16": "da Aniquilação",
-        "17-17": "do Dragão",
-        "18-18": "dos Ressurgidos",
-        "19-19": "da Fúria Elemental",
-        "20-20": "dos Espíritos"
+        "1-1": {
+          "description": "da Morte Trovejante"
+        },
+        "2-2": {
+          "description": "das Eras"
+        },
+        "3-3": {
+          "description": "do Arquimago"
+        },
+        "4-4": {
+          "description": "da Destruição"
+        },
+        "5-5": {
+          "description": "de Brak"
+        },
+        "6-6": {
+          "description": "do Poder"
+        },
+        "7-7": {
+          "description": "da Aliança"
+        },
+        "8-8": {
+          "description": "dos Ermos"
+        },
+        "9-9": {
+          "description": "das Hordas"
+        },
+        "10-10": {
+          "description": "do Sangue"
+        },
+        "11-11": {
+          "description": "do Tempo"
+        },
+        "12-12": {
+          "description": "da Rainha-Lich"
+        },
+        "13-13": {
+          "description": "dos Anciões"
+        },
+        "14-14": {
+          "description": "da Loucura"
+        },
+        "15-15": {
+          "description": "do Desvanecimento"
+        },
+        "16-16": {
+          "description": "da Aniquilação"
+        },
+        "17-17": {
+          "description": "do Dragão"
+        },
+        "18-18": {
+          "description": "dos Ressurgidos"
+        },
+        "19-19": {
+          "description": "da Fúria Elemental"
+        },
+        "20-20": {
+          "description": "dos Espíritos"
+        }
       }
     },
     "Oracle": {
       "name": "Oráculo",
       "description": "",
       "results": {
-        "1-9": "Não",
-        "10-10": "Reviravolta",
-        "11-20": "Sim"
+        "1-9": {
+          "description": "Não"
+        },
+        "10-10": {
+          "description": "Reviravolta"
+        },
+        "11-20": {
+          "description": "Sim"
+        }
       }
     },
     "Patron Boons: Almazzat": {
       "name": "Dádivas Patronais: Almazzat",
-      "description": ""
+      "description": "",
+      "results": {
+        "6pRFf6moKzBWsgkO": {
+          "description": "Escolha um"
+        },
+        "9aff5gq9VCzuMLgo": {
+          "description": "Escolha um"
+        },
+        "I9LTWqB3RwHAKBqX": {
+          "description": "Escolha um"
+        }
+      }
     },
     "Patron Boons: Kytheros": {
       "name": "Dádivas Patronais: Kytheros",
-      "description": ""
+      "description": "",
+      "results": {
+        "GwMffkVDFcQE6G7I": {
+          "description": "Escolha um"
+        },
+        "VBLBiNtnKjrS9QGB": {
+          "description": "Escolha um"
+        }
+      }
     },
     "Patron Boons: Mugdulblub": {
       "name": "Dádivas Patronais: Mugdulblub",
-      "description": ""
+      "description": "",
+      "results": {
+        "hM8FrV5sbQ3AUYAA": {
+          "description": "Escolha um"
+        },
+         "j3Ip3ynySLmz0rvF": {
+          "description": "Escolha um"
+        },
+        "DW2VjzX5VXw3bU8w": {
+          "description": "Escolha um"
+        }
+      }
     },
     "Patron Boons: Shune the Vile": {
       "name": "Dádivas Patronais: Shune, a Maléfica",
-      "description": ""
+      "description": "",
+      "results": {
+        "cz4TZBExg4JzpDiG": {
+          "description": "Escolha um"
+        },
+         "oiGOfHAm8buwFfab": {
+          "description": "Escolha um"
+        }
+      }
     },
     "Patron Boons: The Willowman": {
       "name": "Dádivas Patronais: O Homem-Salgueiro",
-      "description": ""
+      "description": "",
+      "results": {
+        "k0uOd6xLlRz2UwJj": {
+          "description": "Escolha um"
+        },
+         "dLGxXiUn05KNCf3N": {
+          "description": "Escolha um"
+        },
+         "SIeV3JZmL1Nk1sWD": {
+          "description": "Escolha um"
+        }
+      }
     },
     "Patron Boons: Titania": {
       "name": "Dádivas Patronais: Titânia",
-      "description": ""
+      "description": "",
+       "results": {
+        "DwiNOG3uBT7nwUDK": {
+          "description": "Escolha um"
+        },
+         "HTLJU1oZcZidDP0e": {
+          "description": "Escolha um"
+        },
+         "alxTWycBBuIy9B2I": {
+          "description": "Escolha um"
+        }
+      }
     },
     "Prompts: Noun": {
       "name": "Comandos: Substantivo",
       "description": "",
       "results": {
-        "2-2": "Vida",
-        "1-1": "Culpa",
-        "3-3": "Batalha",
-        "4-4": "Mentira",
-        "5-5": "Vício",
-        "6-6": "Memória",
-        "7-7": "Fardo",
-        "8-8": "Traição",
-        "9-9": "Julgamento",
-        "10-10": "Risco",
-        "11-11": "Prosperidade",
-        "12-12": "Tempo",
-        "13-13": "Conflito",
-        "14-14": "Luz",
-        "15-15": "Não natural",
-        "16-16": "Informação",
-        "17-17": "Esperança",
-        "18-18": "Jornada",
-        "19-19": "Mundano",
-        "20-20": "Armadilha",
-        "21-21": "Família",
-        "22-22": "Obstáculo",
-        "23-23": "Dúvida",
-        "24-24": "Liberdade",
-        "25-25": "Fraqueza",
-        "26-26": "Desconhecido",
-        "27-27": "Glória",
-        "29-29": "Descoberta",
-        "28-28": "Amigo",
-        "30-30": "Pista",
-        "31-31": "Tempestade",
-        "32-32": "Inimigo",
-        "33-33": "Integridade",
-        "34-34": "Ciência",
-        "35-35": "Recurso",
-        "36-36": "Crime",
-        "37-37": "Sabedoria",
-        "38-38": "Justiça",
-        "39-39": "Discórdia",
-        "40-40": "Repulsa",
-        "41-41": "Perigo",
-        "42-42": "Equilíbrio",
-        "43-43": "Natureza",
-        "44-44": "Caos",
-        "45-45": "Emboscada",
-        "46-46": "Riqueza",
-        "47-47": "Pensamento",
-        "48-48": "Escuridão",
-        "49-49": "Conexão",
-        "50-50": "Porta",
-        "51-51": "Medo",
-        "52-52": "Feitiçaria",
-        "53-53": "Honra",
-        "54-54": "Espírito",
-        "55-55": "Confiança",
-        "56-56": "Perda",
-        "57-57": "Falha",
-        "58-58": "Ameaça",
-        "59-59": "Plano",
-        "60-60": "Truque",
-        "61-61": "Mente",
-        "62-62": "Dor",
-        "63-63": "Vitória",
-        "64-64": "Morte",
-        "65-65": "Controle",
-        "66-66": "Conhecimento",
-        "67-67": "Segredo",
-        "68-68": "Bondade",
-        "69-69": "Exploração",
-        "70-70": "Surpresa",
-        "71-71": "Magia",
-        "72-72": "Animal",
-        "73-73": "Caminho",
-        "74-74": "Essência",
-        "75-75": "Sonho",
-        "76-76": "Raiva",
-        "77-77": "Visão",
-        "78-78": "Segurança",
-        "79-79": "Resultado",
-        "80-80": "Lugar",
-        "81-81": "Percurso",
-        "82-82": "Nutrição",
-        "83-83": "Roubo",
-        "84-84": "Decomposição",
-        "85-85": "Verdade",
-        "86-86": "Pessoas",
-        "87-87": "Ajuda",
-        "88-88": "Equipamento",
-        "89-89": "Ideia",
-        "90-90": "Ordem",
-        "91-91": "Sucesso",
-        "92-92": "Barreira",
-        "93-93": "Objetivo",
-        "94-94": "Sorte",
-        "96-96": "Dano",
-        "95-95": "Identidade",
-        "97-97": "Ermo",
-        "98-98": "Motivo",
-        "99-99": "Abrigo",
-        "100-100": "Poder"
+        "2-2": {
+          "description": "Vida"
+        },
+        "1-1": {
+          "description": "Culpa"
+        },
+        "3-3": {
+          "description": "Batalha"
+        },
+        "4-4": {
+          "description": "Mentira"
+        },
+        "5-5": {
+          "description": "Vício"
+        },
+        "6-6": {
+          "description": "Memória"
+        },
+        "7-7": {
+          "description": "Fardo"
+        },
+        "8-8": {
+          "description": "Traição"
+        },
+        "9-9": {
+          "description": "Julgamento"
+        },
+        "10-10": {
+          "description": "Risco"
+        },
+        "11-11": {
+          "description": "Prosperidade"
+        },
+        "12-12": {
+          "description": "Tempo"
+        },
+        "13-13": {
+          "description": "Conflito"
+        },
+        "14-14": {
+          "description": "Luz"
+        },
+        "15-15": {
+          "description": "Não natural"
+        },
+        "16-16": {
+          "description": "Informação"
+        },
+        "17-17": {
+          "description": "Esperança"
+        },
+        "18-18": {
+          "description": "Jornada"
+        },
+        "19-19": {
+          "description": "Mundano"
+        },
+        "20-20": {
+          "description": "Armadilha"
+        },
+        "21-21": {
+          "description": "Família"
+        },
+        "22-22": {
+          "description": "Obstáculo"
+        },
+        "23-23": {
+          "description": "Dúvida"
+        },
+        "24-24": {
+          "description": "Liberdade"
+        },
+        "25-25": {
+          "description": "Fraqueza"
+        },
+        "26-26": {
+          "description": "Desconhecido"
+        },
+        "27-27": {
+          "description": "Glória"
+        },
+        "29-29": {
+          "description": "Descoberta"
+        },
+        "28-28": {
+          "description": "Amigo"
+        },
+        "30-30": {
+          "description": "Pista"
+        },
+        "31-31": {
+          "description": "Tempestade"
+        },
+        "32-32": {
+          "description": "Inimigo"
+        },
+        "33-33": {
+          "description": "Integridade"
+        },
+        "34-34": {
+          "description": "Ciência"
+        },
+        "35-35": {
+          "description": "Recurso"
+        },
+        "36-36": {
+          "description": "Crime"
+        },
+        "37-37": {
+          "description": "Sabedoria"
+        },
+        "38-38": {
+          "description": "Justiça"
+        },
+        "39-39": {
+          "description": "Discórdia"
+        },
+        "40-40": {
+          "description": "Repulsa"
+        },
+        "41-41": {
+          "description": "Perigo"
+        },
+        "42-42": {
+          "description": "Equilíbrio"
+        },
+        "43-43": {
+          "description": "Natureza"
+        },
+        "44-44": {
+          "description": "Caos"
+        },
+        "45-45": {
+          "description": "Emboscada"
+        },
+        "46-46": {
+          "description": "Riqueza"
+        },
+        "47-47": {
+          "description": "Pensamento"
+        },
+        "48-48": {
+          "description": "Escuridão"
+        },
+        "49-49": {
+          "description": "Conexão"
+        },
+        "50-50": {
+          "description": "Porta"
+        },
+        "51-51": {
+          "description": "Medo"
+        },
+        "52-52": {
+          "description": "Feitiçaria"
+        },
+        "53-53": {
+          "description": "Honra"
+        },
+        "54-54": {
+          "description": "Espírito"
+        },
+        "55-55": {
+          "description": "Confiança"
+        },
+        "56-56": {
+          "description": "Perda"
+        },
+        "57-57": {
+          "description": "Falha"
+        },
+        "58-58": {
+          "description": "Ameaça"
+        },
+        "59-59": {
+          "description": "Plano"
+        },
+        "60-60": {
+          "description": "Truque"
+        },
+        "61-61": {
+          "description": "Mente"
+        },
+        "62-62": {
+          "description": "Dor"
+        },
+        "63-63": {
+          "description": "Vitória"
+        },
+        "64-64": {
+          "description": "Morte"
+        },
+        "65-65": {
+          "description": "Controle"
+        },
+        "66-66": {
+          "description": "Conhecimento"
+        },
+        "67-67": {
+          "description": "Segredo"
+        },
+        "68-68": {
+          "description": "Bondade"
+        },
+        "69-69": {
+          "description": "Exploração"
+        },
+        "70-70": {
+          "description": "Surpresa"
+        },
+        "71-71": {
+          "description": "Magia"
+        },
+        "72-72": {
+          "description": "Animal"
+        },
+        "73-73": {
+          "description": "Caminho"
+        },
+        "74-74": {
+          "description": "Essência"
+        },
+        "75-75": {
+          "description": "Sonho"
+        },
+        "76-76": {
+          "description": "Raiva"
+        },
+        "77-77": {
+          "description": "Visão"
+        },
+        "78-78": {
+          "description": "Segurança"
+        },
+        "79-79": {
+          "description": "Resultado"
+        },
+        "80-80": {
+          "description": "Lugar"
+        },
+        "81-81": {
+          "description": "Percurso"
+        },
+        "82-82": {
+          "description": "Nutrição"
+        },
+        "83-83": {
+          "description": "Roubo"
+        },
+        "84-84": {
+          "description": "Decomposição"
+        },
+        "85-85": {
+          "description": "Verdade"
+        },
+        "86-86": {
+          "description": "Pessoas"
+        },
+        "87-87": {
+          "description": "Ajuda"
+        },
+        "88-88": {
+          "description": "Equipamento"
+        },
+        "89-89": {
+          "description": "Ideia"
+        },
+        "90-90": {
+          "description": "Ordem"
+        },
+        "91-91": {
+          "description": "Sucesso"
+        },
+        "92-92": {
+          "description": "Barreira"
+        },
+        "93-93": {
+          "description": "Objetivo"
+        },
+        "94-94": {
+          "description": "Sorte"
+        },
+        "96-96": {
+          "description": "Dano"
+        },
+        "95-95": {
+          "description": "Identidade"
+        },
+        "97-97": {
+          "description": "Ermo"
+        },
+        "98-98": {
+          "description": "Motivo"
+        },
+        "99-99": {
+          "description": "Abrigo"
+        },
+        "100-100": {
+          "description": "Poder"
+        }
       }
     },
     "Prompts: Verb": {
       "name": "Comandos: Verbo",
       "description": "",
       "results": {
-        "1-1": "Parar",
-        "2-2": "Contar",
-        "3-3": "Confiar",
-        "4-4": "Prevenir",
-        "5-5": "Entregar",
-        "6-6": "Desmantelar",
-        "7-7": "Criar",
-        "8-8": "Resistir",
-        "9-9": "Imbuir",
-        "10-10": "Fazer amizade",
-        "11-11": "Se esgueirar",
-        "12-12": "Discordar",
-        "13-13": "Iluminar",
-        "14-14": "Congregar",
-        "15-15": "Libertar",
-        "16-16": "Combinar",
-        "17-17": "Pertubar",
-        "18-18": "Exigir",
-        "20-20": "Empurrar",
-        "19-19": "Obstruir",
-        "21-21": "Chegar",
-        "22-22": "Desacelerar",
-        "23-23": "Superar",
-        "24-24": "Bloquear",
-        "25-25": "Consumir",
-        "26-26": "Perseguir",
-        "27-27": "Recompensar",
-        "28-28": "Expandir",
-        "29-29": "Desperdiçar",
-        "30-30": "Capturar",
-        "31-31": "Enfraquecer",
-        "32-32": "Revelar",
-        "33-33": "Investigar",
-        "34-34": "Proibir",
-        "35-35": "Inciar",
-        "36-36": "Surpreender",
-        "37-37": "Suportar",
-        "38-38": "Puxar",
-        "39-39": "Desencadear",
-        "40-40": "Evitar",
-        "41-41": "Avançar",
-        "42-42": "Concordar",
-        "43-43": "Entregar",
-        "44-44": "Conectar",
-        "45-45": "Dificultar",
-        "46-46": "Reter",
-        "47-47": "Perder",
-        "48-48": "Evoluir",
-        "49-49": "Fortalecer",
-        "50-50": "Punir",
-        "51-51": "Incendiar",
-        "52-52": "Despertar",
-        "53-53": "Desafiar",
-        "54-54": "Ocultar",
-        "55-55": "Convidar",
-        "56-56": "Quebrar",
-        "57-57": "Permitir",
-        "58-58": "Abrir",
-        "59-59": "Repelir",
-        "60-60": "Ativar",
-        "61-61": "Reunir",
-        "62-62": "Dar",
-        "64-64": "Alertar",
-        "63-63": "Reverter",
-        "65-65": "Confrontar",
-        "66-66": "Trair",
-        "67-67": "Assegurar",
-        "68-68": "Escurecer",
-        "69-69": "Fugir",
-        "70-70": "Vencer",
-        "71-71": "Espalhar",
-        "72-72": "Conter",
-        "73-73": "Auxiliar",
-        "74-74": "Levar",
-        "75-75": "Questionar",
-        "76-76": "Largar",
-        "77-77": "Aceitar",
-        "78-78": "Sacrificar",
-        "79-79": "Drenar",
-        "80-80": "Sugerir",
-        "81-81": "Atrapalhar-se",
-        "82-82": "Cair",
-        "83-83": "Ascender",
-        "84-84": "Proteger",
-        "85-85": "Escapar",
-        "86-86": "Derrotar",
-        "87-87": "Reparar",
-        "88-88": "Adquirir",
-        "89-89": "Guiar",
-        "90-90": "Iludir",
-        "92-92": "Sustentar",
-        "91-91": "Banir",
-        "93-93": "Construir",
-        "94-94": "Mudar",
-        "95-95": "Revogar",
-        "96-96": "Buscar",
-        "98-98": "Descobrir",
-        "97-97": "Destruir",
-        "99-99": "Descansar",
-        "100-100": "Liberar"
+        "1-1": {
+          "description": "Parar"
+        },
+        "2-2": {
+          "description": "Contar"
+        },
+        "3-3": {
+          "description": "Confiar"
+        },
+        "4-4": {
+          "description": "Prevenir"
+        },
+        "5-5": {
+          "description": "Entregar"
+        },
+        "6-6": {
+          "description": "Desmantelar"
+        },
+        "7-7": {
+          "description": "Criar"
+        },
+        "8-8": {
+          "description": "Resistir"
+        },
+        "9-9": {
+          "description": "Imbuir"
+        },
+        "10-10": {
+          "description": "Fazer amizade"
+        },
+        "11-11": {
+          "description": "Se esgueirar"
+        },
+        "12-12": {
+          "description": "Discordar"
+        },
+        "13-13": {
+          "description": "Iluminar"
+        },
+        "14-14": {
+          "description": "Congregar"
+        },
+        "15-15": {
+          "description": "Libertar"
+        },
+        "16-16": {
+          "description": "Combinar"
+        },
+        "17-17": {
+          "description": "Pertubar"
+        },
+        "18-18": {
+          "description": "Exigir"
+        },
+        "20-20": {
+          "description": "Empurrar"
+        },
+        "19-19": {
+          "description": "Obstruir"
+        },
+        "21-21": {
+          "description": "Chegar"
+        },
+        "22-22": {
+          "description": "Desacelerar"
+        },
+        "23-23": {
+          "description": "Superar"
+        },
+        "24-24": {
+          "description": "Bloquear"
+        },
+        "25-25": {
+          "description": "Consumir"
+        },
+        "26-26": {
+          "description": "Perseguir"
+        },
+        "27-27": {
+          "description": "Recompensar"
+        },
+        "28-28": {
+          "description": "Expandir"
+        },
+        "29-29": {
+          "description": "Desperdiçar"
+        },
+        "30-30": {
+          "description": "Capturar"
+        },
+        "31-31": {
+          "description": "Enfraquecer"
+        },
+        "32-32": {
+          "description": "Revelar"
+        },
+        "33-33": {
+          "description": "Investigar"
+        },
+        "34-34": {
+          "description": "Proibir"
+        },
+        "35-35": {
+          "description": "Inciar"
+        },
+        "36-36": {
+          "description": "Surpreender"
+        },
+        "37-37": {
+          "description": "Suportar"
+        },
+        "38-38": {
+          "description": "Puxar"
+        },
+        "39-39": {
+          "description": "Desencadear"
+        },
+        "40-40": {
+          "description": "Evitar"
+        },
+        "41-41": {
+          "description": "Avançar"
+        },
+        "42-42": {
+          "description": "Concordar"
+        },
+        "43-43": {
+          "description": "Entregar"
+        },
+        "44-44": {
+          "description": "Conectar"
+        },
+        "45-45": {
+          "description": "Dificultar"
+        },
+        "46-46": {
+          "description": "Reter"
+        },
+        "47-47": {
+          "description": "Perder"
+        },
+        "48-48": {
+          "description": "Evoluir"
+        },
+        "49-49": {
+          "description": "Fortalecer"
+        },
+        "50-50": {
+          "description": "Punir"
+        },
+        "51-51": {
+          "description": "Incendiar"
+        },
+        "52-52": {
+          "description": "Despertar"
+        },
+        "53-53": {
+          "description": "Desafiar"
+        },
+        "54-54": {
+          "description": "Ocultar"
+        },
+        "55-55": {
+          "description": "Convidar"
+        },
+        "56-56": {
+          "description": "Quebrar"
+        },
+        "57-57": {
+          "description": "Permitir"
+        },
+        "58-58": {
+          "description": "Abrir"
+        },
+        "59-59": {
+          "description": "Repelir"
+        },
+        "60-60": {
+          "description": "Ativar"
+        },
+        "61-61": {
+          "description": "Reunir"
+        },
+        "62-62": {
+          "description": "Dar"
+        },
+        "64-64": {
+          "description": "Alertar"
+        },
+        "63-63": {
+          "description": "Reverter"
+        },
+        "65-65": {
+          "description": "Confrontar"
+        },
+        "66-66": {
+          "description": "Trair"
+        },
+        "67-67": {
+          "description": "Assegurar"
+        },
+        "68-68": {
+          "description": "Escurecer"
+        },
+        "69-69": {
+          "description": "Fugir"
+        },
+        "70-70": {
+          "description": "Vencer"
+        },
+        "71-71": {
+          "description": "Espalhar"
+        },
+        "72-72": {
+          "description": "Conter"
+        },
+        "73-73": {
+          "description": "Auxiliar"
+        },
+        "74-74": {
+          "description": "Levar"
+        },
+        "75-75": {
+          "description": "Questionar"
+        },
+        "76-76": {
+          "description": "Largar"
+        },
+        "77-77": {
+          "description": "Aceitar"
+        },
+        "78-78": {
+          "description": "Sacrificar"
+        },
+        "79-79": {
+          "description": "Drenar"
+        },
+        "80-80": {
+          "description": "Sugerir"
+        },
+        "81-81": {
+          "description": "Atrapalhar-se"
+        },
+        "82-82": {
+          "description": "Cair"
+        },
+        "83-83": {
+          "description": "Ascender"
+        },
+        "84-84": {
+          "description": "Proteger"
+        },
+        "85-85": {
+          "description": "Escapar"
+        },
+        "86-86": {
+          "description": "Derrotar"
+        },
+        "87-87": {
+          "description": "Reparar"
+        },
+        "88-88": {
+          "description": "Adquirir"
+        },
+        "89-89": {
+          "description": "Guiar"
+        },
+        "90-90": {
+          "description": "Iludir"
+        },
+        "92-92": {
+          "description": "Sustentar"
+        },
+        "91-91": {
+          "description": "Banir"
+        },
+        "93-93": {
+          "description": "Construir"
+        },
+        "94-94": {
+          "description": "Mudar"
+        },
+        "95-95": {
+          "description": "Revogar"
+        },
+        "96-96": {
+          "description": "Buscar"
+        },
+        "98-98": {
+          "description": "Descobrir"
+        },
+        "97-97": {
+          "description": "Destruir"
+        },
+        "99-99": {
+          "description": "Descansar"
+        },
+        "100-100": {
+          "description": "Liberar"
+        }
       }
     },
     "Random Alignment": {
       "name": "Alinhamento Aleatório",
       "description": "",
       "results": {
-        "1-3": "Leal",
-        "4-5": "Neutro",
-        "6-6": "Caótico"
+        "1-3": {
+          "description": "Ordeiro"
+        },
+        "4-5": {
+          "description": "Neutro"
+        },
+        "6-6": {
+          "description": "Caótico"
+        }
       }
     },
     "Random Ancestry": {
       "name": "Ancestralidade Aleatória",
       "description": "",
       "results": {
-        "7-8": "Anão",
-        "5-6": "Elfo",
-        "12-12": "Goblin",
-        "11-11": "Meio-orc",
-        "9-10": "Halfling",
-        "1-4": "Humano"
+        "7-8": {
+          "description": "Anão"
+        },
+        "5-6": {
+          "description": "Elfo"
+        },
+        "12-12": {
+          "description": "Goblin"
+        },
+        "11-11": {
+          "description": "Meio-orc"
+        },
+        "9-10": {
+          "description": "Halfling"
+        },
+        "1-4": {
+          "description": "Humano"
+        }
       }
     },
     "Random Class": {
       "name": "Classe Aleatória",
       "description": "",
       "results": {
-        "1-1": "Guerreiro",
-        "2-2": "Sacerdote",
-        "3-3": "Ladrão",
-        "4-4": "Mago",
-        "5-5": "Bardo",
-        "6-6": "Ranger"
+        "1-1": {
+          "description": "Guerreiro"
+        },
+        "2-2": {
+          "description": "Sacerdote"
+        },
+        "3-3": {
+          "description": "Ladrão"
+        },
+        "4-4": {
+          "description": "Mago"
+        },
+        "5-5": {
+          "description": "Bardo"
+        },
+        "6-6": {
+          "description": "Ranger"
+        }
       }
     },
     "Random Encounter: Activity": {
       "name": "Encontro Aleatório: Atividade",
       "description": "",
       "results": {
-        "2-4": "Caçando",
-        "5-6": "Comendo",
-        "7-8": "Construindo/em seu ninho",
-        "9-10": "Socializando/brincando",
-        "11-11": "Mantendo guarda",
-        "12-12": "Dormindo"
+        "2-4": {
+          "description": "Caçando"
+        },
+        "5-6": {
+          "description": "Comendo"
+        },
+        "7-8": {
+          "description": "Construindo/em seu ninho"
+        },
+        "9-10": {
+          "description": "Socializando/brincando"
+        },
+        "11-11": {
+          "description": "Mantendo guarda"
+        },
+        "12-12": {
+          "description": "Dormindo"
+        }
       }
     },
     "Random Encounter: Distance": {
       "name": "Encontro Aleatório: Distância",
       "description": "",
       "results": {
-        "1-1": "Adjacente",
-        "2-4": "Perto",
-        "5-6": "Longe"
+        "1-1": {
+          "description": "Adjacente"
+        },
+        "2-4": {
+          "description": "Perto"
+        },
+        "5-6": {
+          "description": "Longe"
+        }
       }
     },
     "Random Encounter: Reaction": {
       "name": "Encontro Aleatório: Reação",
       "description": "",
       "results": {
-        "0-6": "Hostil",
-        "7-8": "Desconfiado",
-        "9-9": "Neutro",
-        "10-11": "Curioso",
-        "12-100": "Amigável"
+        "0-6": {
+          "description": "Hostil"
+        },
+        "7-8": {
+          "description": "Desconfiado"
+        },
+        "9-9": {
+          "description": "Neutro"
+        },
+        "10-11": {
+          "description": "Curioso"
+        },
+        "12-100": {
+          "description": "Amigável"
+        }
       }
     },
     "Random Gear": {
       "name": "Equipamento Aleatório",
       "description": "",
       "results": {
-        "1-1": "Tocha",
-        "2-2": "Adaga",
-        "3-3": "Vara",
-        "5-5": "Corda (18 m)",
-        "6-6": "Óleo (frasco)",
-        "7-7": " Pé de cabra",
-        "8-8": "Cravos de ferro (10)",
-        "9-9": "Pederneira",
-        "10-10": "Cravos de ferro (10)",
-        "11-11": "Clava",
-        "12-12": "Estrepes (um saco)",
-        "4-4": "Rações"
+        "1-1": {
+          "description": "Tocha"
+        },
+        "2-2": {
+          "description": "Adaga"
+        },
+        "3-3": {
+          "description": "Vara"
+        },
+        "5-5": {
+          "description": "Corda (18 m)"
+        },
+        "6-6": {
+          "description": "Óleo (frasco)"
+        },
+        "7-7": {
+          "description": " Pé de cabra"
+        },
+        "8-8": {
+          "description": "Cravos de ferro (10)"
+        },
+        "9-9": {
+          "description": "Pederneira"
+        },
+        "10-10": {
+          "description": "Cravos de ferro (10)"
+        },
+        "11-11": {
+          "description": "Clava"
+        },
+        "12-12": {
+          "description": "Estrepes (um saco)"
+        },
+        "4-4": {
+          "description": "Rações"
+        }
       }
     },
     "Random Gear Rolls": {
       "name": "Rolagens de Equipamento Aleatório",
       "description": "",
       "results": {
-        "1-6": "Equipamento aleatório",
-        "2-6": "Equipamento aleatório",
-        "3-6": "Equipamento aleatório",
-        "4-6": "Equipamento aleatório",
-        "5-6": "Equipamento aleatório",
-        "6-6": "Equipamento aleatório"
+        "1-6": {
+          "description": "Equipamento aleatório"
+        },
+        "2-6": {
+          "description": "Equipamento aleatório"
+        },
+        "3-6": {
+          "description": "Equipamento aleatório"
+        },
+        "4-6": {
+          "description": "Equipamento aleatório"
+        },
+        "5-6": {
+          "description": "Equipamento aleatório"
+        },
+        "6-6": {
+          "description": "Equipamento aleatório"
+        }
       }
     },
     "Roll Random Character": {
       "name": "Rolar um Personagem Aleatório",
-      "description": "<p>- Escolha uma arma (veja o compêndio de armas) - Escolha uma armadura de couro se puder usá-la (veja o compêndio de armaduras)</p>",
+      "description": "<p>- Escolha um arma (veja o compêndio de armas) - Escolha um armadura de couro se puder usá-la (veja o compêndio de armaduras)</p>",
       "results": {
-        "1-1": "Rolagens de Equipamentos Aleatórios"
+        "1-1": {
+          "description": "Rolagens de Equipamentos Aleatórios"
+        }
       }
     },
     "Ruin Encounters": {
       "name": "Encontros em Ruínas",
       "description": "",
       "results": {
-        "1-1": "Um @UUID[Compendium.shadowdark.monsters.nhKDBbnOnXXTzfBr] mutante explode através de uma parede",
-        "2-3": "Um @UUID[Compendium.shadowdark.monsters.udRspLiTyURGmLav] silencioso vaga por um corredor",
-        "4-5": "Um @UUID[Compendium.shadowdark.monsters.RG84tprafQTDEFCa] errante procura por cadáveres para comer.",
-        "6-7": "Exploradores rivais confrontam os PJs: eles estavam “aqui primeiro”",
-        "8-9": "[[/r 1d6]] @UUID[Compendium.shadowdark.monsters.qISCrzLvHr4uQ9Q8] infestam uma rachadura cheia de mercúrio.",
-        "10-11": "Uma @UUID[Compendium.shadowdark.monsters.qSeHWgP59WltutCz], sem as pernas, se arrasta pelo chão.",
-        "12-13": "Uma parede estala e colapsa ao menor toque.",
-        "14-15": "Uma anotação de giz na parede: “Karov, estaremos no Porco Leal”.",
-        "16-17": "Mort, o goblin, cava nas rachaduras em busca de larvas e besouros.",
-        "18-19": "O chão colapsa em um buraco de [[/r 1d6*3]] de profundidade.",
-        "20-21": "[[/r 2d4]] @UUID[Compendium.shadowdark.monsters.uqHIz56KiBwTnbTJ] saqueadores avançam em uma formação cerrada.",
-        "22-23": "[[/r 2d4]] @UUID[Compendium.shadowdark.monsters.cWzG0yEVgIk8ijk6] cobertos de teias se formam de ossos espalhados.",
-        "24-25": "[[/r 1d4]] @UUID[Compendium.shadowdark.monsters.99s2guSyYKPWp1oy] gigantes rolam enormes bolas de excremento.",
-        "26-27": "Uma @UUID[Compendium.shadowdark.monsters.QErMaMVIbddgk9MX] se esconde dentro de uma lagoa ou sumidouro.",
-        "28-29": "Uma única e perfeita rosa cresce entre os paralelepípedos.",
-        "30-31": "[[/r 2d4]] @UUID[Compendium.shadowdark.monsters.AMSI3MCLvpcZpJPO] apagam os lampiões e montam uma emboscada rápida.",
-        "32-33": "Três @UUID[Compendium.shadowdark.monsters.I7CMFbyFmFHVwE5U] endurecem os crânios uns dos outros com frigideiras.",
-        "34-35": "[[/r 2d6]] @UUID[Compendium.shadowdark.monsters.k8tAgECWIzPIStGU] arremessam pedras em uma centopeia gigante.",
-        "36-37": "Um vazamento de gás: todas as fontes de luz explodem e se apagam.",
-        "38-39": "Um @UUID[Compendium.shadowdark.monsters.udRspLiTyURGmLav] cheio de itens úteis está preso dentro de um fosso.",
-        "40-41": "Um enxame de @UUID[Compendium.shadowdark.monsters.U9moCUg8DnL6C0Sq] e barulhentos aparece voando",
-        "42-43": "Um PNJ ferido cambaleia até os PJs e implora por ajuda.",
-        "44-45": "Uma grade enferrujada cai com um estrondo, separando os PJs.",
-        "46-47": "Um @UUID[Compendium.shadowdark.monsters.p9PayU4K9nBZ8JRl] se esconde acima de uma mochila cheia de pedras",
-        "48-49": "Um @UUID[Compendium.shadowdark.monsters.LV2ZWlK1qUQz5J4K] choroso flutua por perto, distraído em seus lamentos",
-        "50-53": "[[/r 2d4]] @UUID[Compendium.shadowdark.monsters.BxilUr9Ac6zgekYU] se esgueiram atrás dos PJs para um ataque surpresa.",
-        "54-55": "Potes de barro antigos vibram com uma ressonância hipnotizante.",
-        "56-57": "[[/r 1d6]] @UUID[Compendium.shadowdark.monsters.Jn5JjEPCUT86txAg]rasgam ratos gigantes mortos e usam a pele como ninho.",
-        "58-59": "Exploradores rivais guiam um frágil nobre turista em uma “aventura.",
-        "60-61": "[[/r 3d4]] @UUID[Compendium.shadowdark.monsters.I7CMFbyFmFHVwE5U] catadores barganham e negociam estranhas bugigangas.",
-        "62-63": "[[/r 2d4]] anões mineradores (@UUID[Compendium.shadowdark.monsters.Kw5KEyZVy5ugaTTy]) reforçam uma parede colapsando.",
-        "64-65": "[[/r 2d4]] @UUID[Compendium.shadowdark.monsters.Kw5KEyZVy5ugaTTy] fazem um enorme ninho fino como papel no teto.",
-        "66-67": "Uma densa névoa sulfúrica eleva-se a partir de uma rachadura no chão.",
-        "68-69": "Um grupo de aranhas irrompe de um saco de ovos translúcidos.",
-        "70-71": "Um @UUID[Compendium.shadowdark.monsters.VrYTiPjDOH1LIEBr] chamado Lud risca palavras grosseiras na parede.",
-        "72-73": "[[/r 1d6]] @UUID[Compendium.shadowdark.monsters.I7CMFbyFmFHVwE5U] lutam contra [[/r 2d4]] @UUID[Compendium.shadowdark.monsters.BxilUr9Ac6zgekYU] pela carcaça de um @UUID[Compendium.shadowdark.monsters.Jn5JjEPCUT86txAg]",
-        "74-75": "[[/r 2d4]]@UUID[Compendium.shadowdark.monsters.EJ94w4A9mb9ETSGA] repousam no teto; qualquer luz os incomoda",
-        "76-77": "Um @UUID[Compendium.shadowdark.monsters.fcgq7uwsJEMMdRNx] tece um casulo de teias em volta de sua presa ainda viva",
-        "78-79": "[[/r 1d6]] @UUID[Compendium.shadowdark.monsters.CpHttsoemSoZRiDe] buscam ossos humanoides para um ritual maléfico",
-        "80-81": "Uma @UUID[Compendium.shadowdark.monsters.vXaqgfDykZPdXnIm] procura sua árvore, que foi cortada por bugbears",
-        "82-83": "Um @UUID[Compendium.shadowdark.monsters.WMw4J1wECaLGf3Am] toca sons tenebrosos em fungos ecoantes",
-        "84-85": "[[/r 2d6]] @UUID[Compendium.shadowdark.monsters.BxilUr9Ac6zgekYU] trabalham em um laboratório alquímico precário e volátil",
-        "86-87": "Um @UUID[Compendium.shadowdark.monsters.zLDg6vIYEj4wB0lQ] de pedra empilha as mesmas rochas incansavelmente",
-        "88-89": "Dois @UUID[Compendium.shadowdark.monsters.0JAEN5FsKjaXXZaA] se circundam em um duelo de intimidação",
-        "90-91": "[[/r 2d6]] @UUID[Compendium.shadowdark.monsters.I7CMFbyFmFHVwE5U] carregam seu rei bugbear em uma liteira precária.",
-        "92-93": "[[/r 2d4]] @UUID[Compendium.shadowdark.monsters.j7sQ6Km2jSx5twCC] de caverna infestam o corredor.",
-        "94-95": "As brasas incandescentes de uma fogueira recente ainda queimam.",
-        "96-97": "Um @UUID[Compendium.shadowdark.monsters.c3Nvj86e0Layz3NG] guia o Mercador Errante por uma trilha",
-        "98-99": "Role dois encontros e combine os resultados (role de novo 98–99).",
-        "100-100": "O cadáver de um explorador segura um item mágico aleatório."
+        "1-1": {
+          "description": "Um @UUID[Compendium.shadowdark.monsters.nhKDBbnOnXXTzfBr] mutante explode através de uma parede"
+        },
+        "2-3": {
+          "description": "Um @UUID[Compendium.shadowdark.monsters.udRspLiTyURGmLav] silencioso vaga por um corredor"
+        },
+        "4-5": {
+          "description": "Um @UUID[Compendium.shadowdark.monsters.RG84tprafQTDEFCa] errante procura por cadáveres para comer."
+        },
+        "6-7": {
+          "description": "Exploradores rivais confrontam os PJs: eles estavam “aqui primeiro”"
+        },
+        "8-9": {
+          "description": "[[/r 1d6]] @UUID[Compendium.shadowdark.monsters.qISCrzLvHr4uQ9Q8] infestam uma rachadura cheia de mercúrio."
+        },
+        "10-11": {
+          "description": "Uma @UUID[Compendium.shadowdark.monsters.qSeHWgP59WltutCz], sem as pernas, se arrasta pelo chão."
+        },
+        "12-13": {
+          "description": "Uma parede estala e colapsa ao menor toque."
+        },
+        "14-15": {
+          "description": "Uma anotação de giz na parede: “Karov, estaremos no Porco Leal”."
+        },
+        "16-17": {
+          "description": "Mort, o goblin, cava nas rachaduras em busca de larvas e besouros."
+        },
+        "18-19": {
+          "description": "O chão colapsa em um buraco de [[/r 1d6*3]] de profundidade."
+        },
+        "20-21": {
+          "description": "[[/r 2d4]] @UUID[Compendium.shadowdark.monsters.uqHIz56KiBwTnbTJ] saqueadores avançam em uma formação cerrada."
+        },
+        "22-23": {
+          "description": "[[/r 2d4]] @UUID[Compendium.shadowdark.monsters.cWzG0yEVgIk8ijk6] cobertos de teias se formam de ossos espalhados."
+        },
+        "24-25": {
+          "description": "[[/r 1d4]] @UUID[Compendium.shadowdark.monsters.99s2guSyYKPWp1oy] gigantes rolam enormes bolas de excremento."
+        },
+        "26-27": {
+          "description": "Uma @UUID[Compendium.shadowdark.monsters.QErMaMVIbddgk9MX] se esconde dentro de uma lagoa ou sumidouro."
+        },
+        "28-29": {
+          "description": "Uma única e perfeita rosa cresce entre os paralelepípedos."
+        },
+        "30-31": {
+          "description": "[[/r 2d4]] @UUID[Compendium.shadowdark.monsters.AMSI3MCLvpcZpJPO] apagam os lampiões e montam uma emboscada rápida."
+        },
+        "32-33": {
+          "description": "Três @UUID[Compendium.shadowdark.monsters.I7CMFbyFmFHVwE5U] endurecem os crânios uns dos outros com frigideiras."
+        },
+        "34-35": {
+          "description": "[[/r 2d6]] @UUID[Compendium.shadowdark.monsters.k8tAgECWIzPIStGU] arremessam pedras em uma centopeia gigante."
+        },
+        "36-37": {
+          "description": "Um vazamento de gás: todas as fontes de luz explodem e se apagam."
+        },
+        "38-39": {
+          "description": "Um @UUID[Compendium.shadowdark.monsters.udRspLiTyURGmLav] cheio de itens úteis está preso dentro de um fosso."
+        },
+        "40-41": {
+          "description": "Um enxame de @UUID[Compendium.shadowdark.monsters.U9moCUg8DnL6C0Sq] e barulhentos aparece voando"
+        },
+        "42-43": {
+          "description": "Um PNJ ferido cambaleia até os PJs e implora por ajuda."
+        },
+        "44-45": {
+          "description": "Uma grade enferrujada cai com um estrondo, separando os PJs."
+        },
+        "46-47": {
+          "description": "Um @UUID[Compendium.shadowdark.monsters.p9PayU4K9nBZ8JRl] se esconde acima de uma mochila cheia de pedras"
+        },
+        "48-49": {
+          "description": "Um @UUID[Compendium.shadowdark.monsters.LV2ZWlK1qUQz5J4K] choroso flutua por perto, distraído em seus lamentos"
+        },
+        "50-53": {
+          "description": "[[/r 2d4]] @UUID[Compendium.shadowdark.monsters.BxilUr9Ac6zgekYU] se esgueiram atrás dos PJs para um ataque surpresa."
+        },
+        "54-55": {
+          "description": "Potes de barro antigos vibram com uma ressonância hipnotizante."
+        },
+        "56-57": {
+          "description": "[[/r 1d6]] @UUID[Compendium.shadowdark.monsters.Jn5JjEPCUT86txAg]rasgam ratos gigantes mortos e usam a pele como ninho."
+        },
+        "58-59": {
+          "description": "Exploradores rivais guiam um frágil nobre turista em uma “aventura."
+        },
+        "60-61": {
+          "description": "[[/r 3d4]] @UUID[Compendium.shadowdark.monsters.I7CMFbyFmFHVwE5U] catadores barganham e negociam estranhas bugigangas."
+        },
+        "62-63": {
+          "description": "[[/r 2d4]] anões mineradores (@UUID[Compendium.shadowdark.monsters.Kw5KEyZVy5ugaTTy]) reforçam uma parede colapsando."
+        },
+        "64-65": {
+          "description": "[[/r 2d4]] @UUID[Compendium.shadowdark.monsters.Kw5KEyZVy5ugaTTy] fazem um enorme ninho fino como papel no teto."
+        },
+        "66-67": {
+          "description": "Uma densa névoa sulfúrica eleva-se a partir de uma rachadura no chão."
+        },
+        "68-69": {
+          "description": "Um grupo de aranhas irrompe de um saco de ovos translúcidos."
+        },
+        "70-71": {
+          "description": "Um @UUID[Compendium.shadowdark.monsters.VrYTiPjDOH1LIEBr] chamado Lud risca palavras grosseiras na parede."
+        },
+        "72-73": {
+          "description": "[[/r 1d6]] @UUID[Compendium.shadowdark.monsters.I7CMFbyFmFHVwE5U] lutam contra [[/r 2d4]] @UUID[Compendium.shadowdark.monsters.BxilUr9Ac6zgekYU] pela carcaça de um @UUID[Compendium.shadowdark.monsters.Jn5JjEPCUT86txAg]"
+        },
+        "74-75": {
+          "description": "[[/r 2d4]]@UUID[Compendium.shadowdark.monsters.EJ94w4A9mb9ETSGA] repousam no teto; qualquer luz os incomoda"
+        },
+        "76-77": {
+          "description": "Um @UUID[Compendium.shadowdark.monsters.fcgq7uwsJEMMdRNx] tece um casulo de teias em volta de sua presa ainda viva"
+        },
+        "78-79": {
+          "description": "[[/r 1d6]] @UUID[Compendium.shadowdark.monsters.CpHttsoemSoZRiDe] buscam ossos humanoides para um ritual maléfico"
+        },
+        "80-81": {
+          "description": "Uma @UUID[Compendium.shadowdark.monsters.vXaqgfDykZPdXnIm] procura sua árvore, que foi cortada por bugbears"
+        },
+        "82-83": {
+          "description": "Um @UUID[Compendium.shadowdark.monsters.WMw4J1wECaLGf3Am] toca sons tenebrosos em fungos ecoantes"
+        },
+        "84-85": {
+          "description": "[[/r 2d6]] @UUID[Compendium.shadowdark.monsters.BxilUr9Ac6zgekYU] trabalham em um laboratório alquímico precário e volátil"
+        },
+        "86-87": {
+          "description": "Um @UUID[Compendium.shadowdark.monsters.zLDg6vIYEj4wB0lQ] de pedra empilha as mesmas rochas incansavelmente"
+        },
+        "88-89": {
+          "description": "Dois @UUID[Compendium.shadowdark.monsters.0JAEN5FsKjaXXZaA] se circundam em um duelo de intimidação"
+        },
+        "90-91": {
+          "description": "[[/r 2d6]] @UUID[Compendium.shadowdark.monsters.I7CMFbyFmFHVwE5U] carregam seu rei bugbear em uma liteira precária."
+        },
+        "92-93": {
+          "description": "[[/r 2d4]] @UUID[Compendium.shadowdark.monsters.j7sQ6Km2jSx5twCC] de caverna infestam o corredor."
+        },
+        "94-95": {
+          "description": "As brasas incandescentes de uma fogueira recente ainda queimam."
+        },
+        "96-97": {
+          "description": "Um @UUID[Compendium.shadowdark.monsters.c3Nvj86e0Layz3NG] guia o Mercador Errante por uma trilha"
+        },
+        "98-99": {
+          "description": "Role dois encontros e combine os resultados (role de novo 98–99)."
+        },
+        "100-100": {
+          "description": "O cadáver de um explorador segura um item mágico aleatório."
+        }
       }
     },
     "Rumors": {
       "name": "Rumores",
       "description": "",
       "results": {
-        "1-1": "Uma fera encouraçada, grande como um navio, devasta áreas próximas.",
-        "2-3": "Uma equipe de assassinos está a caminho para matar todo o seu grupo",
-        "4-5": "O governante local paga 2.000 Po pelas suas cabeças.",
-        "6-7": "O culto de Shune está planejando um grande golpe à meia-noite",
-        "8-9": "Uma antiga porta de pedra foi encontrada no porão do castelo.",
-        "10-11": " Homens-lagarto têm assaltado caravanas perto do pântano.",
-        "12-13": "Esqueletos com armaduras vagam pela névoa do cemitério.",
-        "14-15": "Um terremoto revelou uma ruína dentro de uma fenda profunda.",
-        "16-17": "Soldados orcs assumiram o controle de uma fortaleza abandonada.",
-        "18-19": "Há um salão cheio de estátuas douradas sob o poço.",
-        "20-21": " Quem sobrevive à Prova da Lótus recebe um estranho dom.",
-        "22-23": "O Capitão da Guarda foi feito refém por bandidos.",
-        "24-25": "As Cavernas de Cristal são o lar de um culto de feiticeiros psíquicos.",
-        "26-27": "Um crocodilo arrastou uma mula cheia de tesouros para o esgoto.",
-        "28-29": "Uma bruxa vidente fala augúrios e presságios verdadeiros.",
-        "30-31": "A cada lua cheia, a despensa do Unicórnio Saltitante é roubada.",
-        "32-33": "Um famoso grupo de exploradores não retornou de uma aventura.",
-        "34-35": "Um meteoro brilhante caiu nas profundezas do pântano.",
-        "36-37": "O fogo não acenderá e nem queimará à vista da Fonte do Leão.",
-        "38-39": "A perdida <i>Joia de Barbalt</i> está escondida dentro das Cavernas Uivantes.",
-        "40-41": "Um grupo de anões mineradores escavou uma estátua com tentáculos.",
-        "42-43": " Um alçapão na taverna Coruja Vermelha conduz ao Shadowdark.",
-        "44-45": "[[/r 2d12]] viperianos protegem um santuário à uma medusa na selva.",
-        "46-47": "Três ladrões acabaram de roubar pedras preciosas nas proximidades.",
-        "48-49": "Harpias vigiam os penhascos ao redor da Tumba de Diridia.",
-        "50-53": "Um górgon vaga pelas ruínas dos Salões Sob a Montanha.",
-        "54-55": "Abaixo da Abadia Vermelha fica o Túmulo Perdido de Ur-Din.",
-        "56-57": "Um sábio moribundo está em busca de um poderoso grupo de heróis.",
-        "58-59": "Um mago acidentalmente deixou seu trio de cocatrizes escapar.",
-        "60-61": "Um lorde local, de algum modo, ficou preso no topo de um telhado.",
-        "62-63": "Bartomeu, o Príncipe Pirata, será enforcado ao meio-dia.",
-        "64-65": "Goblins espeleólogos encontraram uma catedral subterrânea.",
-        "66-67": "O <i>Mecanismo Kytheriano</i> afundou no mar perto de Myrkhos.",
-        "68-69": "Cogumelos raros e valiosos crescem dentro de uma cripta antiga.",
-        "70-71": "A Igreja de Santa Terragnis irá pagar pelo retorno de uma relíquia.",
-        "72-73": "Uma erupção vulcânica revelou túneis nas paredes da caldeira.",
-        "74-75": "As ruínas ciclópicas de Tal-Yool ficam nas profundezas da floresta.",
-        "76-77": "Um jogador está apostando um rubi em um jogo de <i>Magos e Ladrões</i>. (cf. p.96 do Livro de Regras)",
-        "78-79": "Druidas da Lua abençoarão uma espada usada para matar o lobisomem.",
-        "80-81": "Coveiros acharam um caixão acorrentado em um túmulo sem nome.",
-        "82-83": "A torre abandonada de um mago está cheia de criaturas mecânicas.",
-        "84-85": "A Guilda dos Ladrões está prestes a atacar um lorde mercador rival.",
-        "86-87": "Vendavais revelaram um monólito de pedra no meio do deserto.",
-        "88-89": "Exploradores rivais acharam o mapa para o Tesouro de Jiraal.",
-        "90-91": "Um monstro chamado de O Escultor espreita sob a universidade.",
-        "92-93": "O <i>Corcel Ônix</i> está na Fortaleza de Ekmaras, nas terras devastadas.",
-        "94-95": "A princesa foi raptada por um grupo de feiticeiros.",
-        "96-97": "A tumba de um Cavaleiro do Caos foi encontrada sob um templo.",
-        "98-99": "A lendária Biblioteca de Gehemna apareceu do lado de fora da cidade.",
-        "100-100": "A dragonesa Ixamir acordou de seu sono de 200 anos."
+        "1-1": {
+          "description": "Uma fera encouraçada, grande como um navio, devasta áreas próximas."
+        },
+        "2-3": {
+          "description": "Uma equipe de assassinos está a caminho para matar todo o seu grupo"
+        },
+        "4-5": {
+          "description": "O governante local paga 2.000 Po pelas suas cabeças."
+        },
+        "6-7": {
+          "description": "O culto de Shune está planejando um grande golpe à meia-noite"
+        },
+        "8-9": {
+          "description": "Uma antiga porta de pedra foi encontrada no porão do castelo."
+        },
+        "10-11": {
+          "description": " Homens-lagarto têm assaltado caravanas perto do pântano."
+        },
+        "12-13": {
+          "description": "Esqueletos com armaduras vagam pela névoa do cemitério."
+        },
+        "14-15": {
+          "description": "Um terremoto revelou uma ruína dentro de uma fenda profunda."
+        },
+        "16-17": {
+          "description": "Soldados orcs assumiram o controle de uma fortaleza abandonada."
+        },
+        "18-19": {
+          "description": "Há um salão cheio de estátuas douradas sob o poço."
+        },
+        "20-21": {
+          "description": " Quem sobrevive à Prova da Lótus recebe um estranho dom."
+        },
+        "22-23": {
+          "description": "O Capitão da Guarda foi feito refém por bandidos."
+        },
+        "24-25": {
+          "description": "As Cavernas de Cristal são o lar de um culto de feiticeiros psíquicos."
+        },
+        "26-27": {
+          "description": "Um crocodilo arrastou uma mula cheia de tesouros para o esgoto."
+        },
+        "28-29": {
+          "description": "Uma bruxa vidente fala augúrios e presságios verdadeiros."
+        },
+        "30-31": {
+          "description": "A cada lua cheia, a despensa do Unicórnio Saltitante é roubada."
+        },
+        "32-33": {
+          "description": "Um famoso grupo de exploradores não retornou de uma aventura."
+        },
+        "34-35": {
+          "description": "Um meteoro brilhante caiu nas profundezas do pântano."
+        },
+        "36-37": {
+          "description": "O fogo não acenderá e nem queimará à vista da Fonte do Leão."
+        },
+        "38-39": {
+          "description": "A perdida <i>Joia de Barbalt</i> está escondida dentro das Cavernas Uivantes."
+        },
+        "40-41": {
+          "description": "Um grupo de anões mineradores escavou uma estátua com tentáculos."
+        },
+        "42-43": {
+          "description": " Um alçapão na taverna Coruja Vermelha conduz ao Shadowdark."
+        },
+        "44-45": {
+          "description": "[[/r 2d12]] viperianos protegem um santuário à uma medusa na selva."
+        },
+        "46-47": {
+          "description": "Três ladrões acabaram de roubar pedras preciosas nas proximidades."
+        },
+        "48-49": {
+          "description": "Harpias vigiam os penhascos ao redor da Tumba de Diridia."
+        },
+        "50-53": {
+          "description": "Um górgon vaga pelas ruínas dos Salões Sob a Montanha."
+        },
+        "54-55": {
+          "description": "Abaixo da Abadia Vermelha fica o Túmulo Perdido de Ur-Din."
+        },
+        "56-57": {
+          "description": "Um sábio moribundo está em busca de um poderoso grupo de heróis."
+        },
+        "58-59": {
+          "description": "Um mago acidentalmente deixou seu trio de cocatrizes escapar."
+        },
+        "60-61": {
+          "description": "Um lorde local, de algum modo, ficou preso no topo de um telhado."
+        },
+        "62-63": {
+          "description": "Bartomeu, o Príncipe Pirata, será enforcado ao meio-dia."
+        },
+        "64-65": {
+          "description": "Goblins espeleólogos encontraram uma catedral subterrânea."
+        },
+        "66-67": {
+          "description": "O <i>Mecanismo Kytheriano</i> afundou no mar perto de Myrkhos."
+        },
+        "68-69": {
+          "description": "Cogumelos raros e valiosos crescem dentro de uma cripta antiga."
+        },
+        "70-71": {
+          "description": "A Igreja de Santa Terragnis irá pagar pelo retorno de uma relíquia."
+        },
+        "72-73": {
+          "description": "Uma erupção vulcânica revelou túneis nas paredes da caldeira."
+        },
+        "74-75": {
+          "description": "As ruínas ciclópicas de Tal-Yool ficam nas profundezas da floresta."
+        },
+        "76-77": {
+          "description": "Um jogador está apostando um rubi em um jogo de <i>Magos e Ladrões</i>. (cf. p.96 do Livro de Regras)"
+        },
+        "78-79": {
+          "description": "Druidas da Lua abençoarão uma espada usada para matar o lobisomem."
+        },
+        "80-81": {
+          "description": "Coveiros acharam um caixão acorrentado em um túmulo sem nome."
+        },
+        "82-83": {
+          "description": "A torre abandonada de um mago está cheia de criaturas mecânicas."
+        },
+        "84-85": {
+          "description": "A Guilda dos Ladrões está prestes a atacar um lorde mercador rival."
+        },
+        "86-87": {
+          "description": "Vendavais revelaram um monólito de pedra no meio do deserto."
+        },
+        "88-89": {
+          "description": "Exploradores rivais acharam o mapa para o Tesouro de Jiraal."
+        },
+        "90-91": {
+          "description": "Um monstro chamado de O Escultor espreita sob a universidade."
+        },
+        "92-93": {
+          "description": "O <i>Corcel Ônix</i> está na Fortaleza de Ekmaras, nas terras devastadas."
+        },
+        "94-95": {
+          "description": "A princesa foi raptada por um grupo de feiticeiros."
+        },
+        "96-97": {
+          "description": "A tumba de um Cavaleiro do Caos foi encontrada sob um templo."
+        },
+        "98-99": {
+          "description": "A lendária Biblioteca de Gehemna apareceu do lado de fora da cidade."
+        },
+        "100-100": {
+          "description": "A dragonesa Ixamir acordou de seu sono de 200 anos."
+        }
       }
     },
     "Something Happens!": {
       "name": "Algo Acontece!",
       "description": "",
       "results": {
-        "1-1": "O chão treme violentamente e se abre em uma gigantesca fissura.",
-        "2-3": "Um inimigo despercebido sai de seu esconderijo à distância Adjacente.",
-        "4-5": "Um terrível zumbido preenche o ar, ficando cada vez mais alto.",
-        "6-7": "Você sente o cheiro intenso de fumaça e chamas.",
-        "8-9": "Uma estrela brilhante surge no céu, visível até mesmo ao meio-dia.",
-        "10-11": "Você encontra um saco meio aberto de moedas de ouro brilhantes.",
-        "12-13": "Um homem coloca um bilhete e uma poção estranha em sua mão.",
-        "14-15": "Alguém que o observava ao longe sai da sua linha de visão.",
-        "16-17": "Um anão de chapéu vermelho lhe dá uma rosa, se curva e vai embora.",
-        "18-19": "Um estranho encapuzado com um manto preto se aproxima de você.",
-        "20-21": "Alguém tenta bater sua carteira.",
-        "22-23": "Um estranho som de tique-taque emana de sua mochila.",
-        "24-25": "Surge um cavalo espumando de medo; selado, mas sem cavaleiro.",
-        "26-27": "Um monte na terra se move rapidamente em sua direção.",
-        "28-29": "Você sente que está sendo magicamente perscrutado.",
-        "30-31": "Alguém tenta esconder um objeto em você.",
-        "32-33": "Você tem uma forte sensação de medo e perigo.",
-        "34-35": "Uma mulher lhe entrega um gato preto e sai correndo.",
-        "36-37": "Uma pequena criatura da floresta salta de uma mochila.",
-        "38-39": " Você sente cheiro de lilases e ouve uma fraca risada fantasmagórica.",
-        "40-41": "Um bilhete enrolado em uma adaga fina cai ao seu lado.",
-        "42-43": "Um meteoro verde e brilhante atravessa o céu.",
-        "44-45": " Alguém próximo lhe encara movendo os lábios, como se falasse algo.",
-        "46-47": "Um par de olhos amarelos o observa da escuridão.",
-        "48-49": "Uma orc com uma flecha fincada nas costas entra pela porta de repente.",
-        "50-53": "Você escuta o choro de dor de uma fera logo à frente.",
-        "54-55": "Uma grande nuvem de morcegos colide contra você e parte rodopiando.",
-        "56-57": "Um mendigo debilitado sussurra que tem um segredo para lhe contar.",
-        "58-59": "Um objeto cai do alto e quase acerta sua cabeça.",
-        "60-61": "Uma gaivota pousa na sua cabeça e cospe uma garrafa estranha.",
-        "62-63": "Surge um cheiro de ozônio e a eletricidade crepita no ar.",
-        "64-65": "Você vê uma trilha de pequenas moedas de prata que leva a uma curva.",
-        "66-67": "Um homem de olhar selvagem avança com um livro sagrado para o alto.",
-        "68-69": "Todas as fontes de luz se apagam de repente.",
-        "70-71": "Uma debandada de animais selvagens entra em seu campo de visão.",
-        "72-73": "Uma velha aponta para você e grita: “Lá estão eles!\".",
-        "74-75": "Um estranho de passagem pressiona uma moeda antiga em sua mão.",
-        "76-77": "Um coro de uivos ecoa à distância.",
-        "78-79": "Dois goblins beliscando e estapeando um ao outro surgem à distância.",
-        "80-81": "Você percebe que não está sozinho: há algo atrás de você.",
-        "82-83": "Há um som repentino de água corrente vindo até você.",
-        "84-85": "Você escuta um grito de perfurar os tímpanos que ninguém mais ouve.",
-        "86-87": "Um homem lhe dá um tapa com uma luva e depois a joga aos seus pés.",
-        "88-89": "Uma tempestade violenta e com ventos fortes se inicia de repente.",
-        "90-91": "Um raio cai Adjacente e deixa um objeto brilhante no local.",
-        "92-93": "Um orbe multicolorido flutua até você e depois se afasta.",
-        "94-95": "Uma carroça desgovernada está vindo em sua direção.",
-        "96-97": "Um PNJ abandona seu disfarce, se revelando um inimigo.",
-        "98-99": "Um demônio surge para você e lhe faz uma oferta tentadora.",
-        "100-100": "Um ser radiante surge para você com uma mensagem de aviso."
+        "1-1": {
+          "description": "O chão treme violentamente e se abre em uma gigantesca fissura."
+        },
+        "2-3": {
+          "description": "Um inimigo despercebido sai de seu esconderijo à distância Adjacente."
+        },
+        "4-5": {
+          "description": "Um terrível zumbido preenche o ar, ficando cada vez mais alto."
+        },
+        "6-7": {
+          "description": "Você sente o cheiro intenso de fumaça e chamas."
+        },
+        "8-9": {
+          "description": "Uma estrela brilhante surge no céu, visível até mesmo ao meio-dia."
+        },
+        "10-11": {
+          "description": "Você encontra um saco meio aberto de moedas de ouro brilhantes."
+        },
+        "12-13": {
+          "description": "Um homem coloca um bilhete e uma poção estranha em sua mão."
+        },
+        "14-15": {
+          "description": "Alguém que o observava ao longe sai da sua linha de visão."
+        },
+        "16-17": {
+          "description": "Um anão de chapéu vermelho lhe dá uma rosa, se curva e vai embora."
+        },
+        "18-19": {
+          "description": "Um estranho encapuzado com um manto preto se aproxima de você."
+        },
+        "20-21": {
+          "description": "Alguém tenta bater sua carteira."
+        },
+        "22-23": {
+          "description": "Um estranho som de tique-taque emana de sua mochila."
+        },
+        "24-25": {
+          "description": "Surge um cavalo espumando de medo; selado, mas sem cavaleiro."
+        },
+        "26-27": {
+          "description": "Um monte na terra se move rapidamente em sua direção."
+        },
+        "28-29": {
+          "description": "Você sente que está sendo magicamente perscrutado."
+        },
+        "30-31": {
+          "description": "Alguém tenta esconder um objeto em você."
+        },
+        "32-33": {
+          "description": "Você tem uma forte sensação de medo e perigo."
+        },
+        "34-35": {
+          "description": "Uma mulher lhe entrega um gato preto e sai correndo."
+        },
+        "36-37": {
+          "description": "Uma pequena criatura da floresta salta de uma mochila."
+        },
+        "38-39": {
+          "description": " Você sente cheiro de lilases e ouve uma fraca risada fantasmagórica."
+        },
+        "40-41": {
+          "description": "Um bilhete enrolado em uma adaga fina cai ao seu lado."
+        },
+        "42-43": {
+          "description": "Um meteoro verde e brilhante atravessa o céu."
+        },
+        "44-45": {
+          "description": " Alguém próximo lhe encara movendo os lábios, como se falasse algo."
+        },
+        "46-47": {
+          "description": "Um par de olhos amarelos o observa da escuridão."
+        },
+        "48-49": {
+          "description": "Uma orc com uma flecha fincada nas costas entra pela porta de repente."
+        },
+        "50-53": {
+          "description": "Você escuta o choro de dor de uma fera logo à frente."
+        },
+        "54-55": {
+          "description": "Uma grande nuvem de morcegos colide contra você e parte rodopiando."
+        },
+        "56-57": {
+          "description": "Um mendigo debilitado sussurra que tem um segredo para lhe contar."
+        },
+        "58-59": {
+          "description": "Um objeto cai do alto e quase acerta sua cabeça."
+        },
+        "60-61": {
+          "description": "Uma gaivota pousa na sua cabeça e cospe uma garrafa estranha."
+        },
+        "62-63": {
+          "description": "Surge um cheiro de ozônio e a eletricidade crepita no ar."
+        },
+        "64-65": {
+          "description": "Você vê uma trilha de pequenas moedas de prata que leva a uma curva."
+        },
+        "66-67": {
+          "description": "Um homem de olhar selvagem avança com um livro sagrado para o alto."
+        },
+        "68-69": {
+          "description": "Todas as fontes de luz se apagam de repente."
+        },
+        "70-71": {
+          "description": "Uma debandada de animais selvagens entra em seu campo de visão."
+        },
+        "72-73": {
+          "description": "Uma velha aponta para você e grita: “Lá estão eles!\"."
+        },
+        "74-75": {
+          "description": "Um estranho de passagem pressiona uma moeda antiga em sua mão."
+        },
+        "76-77": {
+          "description": "Um coro de uivos ecoa à distância."
+        },
+        "78-79": {
+          "description": "Dois goblins beliscando e estapeando um ao outro surgem à distância."
+        },
+        "80-81": {
+          "description": "Você percebe que não está sozinho: há algo atrás de você."
+        },
+        "82-83": {
+          "description": "Há um som repentino de água corrente vindo até você."
+        },
+        "84-85": {
+          "description": "Você escuta um grito de perfurar os tímpanos que ninguém mais ouve."
+        },
+        "86-87": {
+          "description": "Um homem lhe dá um tapa com uma luva e depois a joga aos seus pés."
+        },
+        "88-89": {
+          "description": "Uma tempestade violenta e com ventos fortes se inicia de repente."
+        },
+        "90-91": {
+          "description": "Um raio cai Adjacente e deixa um objeto brilhante no local."
+        },
+        "92-93": {
+          "description": "Um orbe multicolorido flutua até você e depois se afasta."
+        },
+        "94-95": {
+          "description": "Uma carroça desgovernada está vindo em sua direção."
+        },
+        "96-97": {
+          "description": "Um PNJ abandona seu disfarce, se revelando um inimigo."
+        },
+        "98-99": {
+          "description": "Um demônio surge para você e lhe faz uma oferta tentadora."
+        },
+        "100-100": {
+          "description": "Um ser radiante surge para você com uma mensagem de aviso."
+        }
       }
     },
     "Starting Gear (Level 0)": {
       "name": "Equipamento Inicial (Nível 0)",
       "description": "",
       "results": {
-        "1-1": "Tocha",
-        "2-2": "Adaga",
-        "3-3": "Vara",
-        "4-4": "Arco curto e 5 flechas",
-        "5-5": "Corda (18 m)",
-        "6-6": "Óleo (frasco)",
-        "7-7": "Pé de cabra",
-        "8-8": "Cravos de ferro (10)",
-        "9-9": "Pederneira",
-        "10-10": "Arpéu",
-        "11-11": "Clava",
-        "12-12": "Estrepes (um saco)"
+        "1-1": {
+          "description": "Tocha"
+        },
+        "2-2": {
+          "description": "Adaga"
+        },
+        "3-3": {
+          "description": "Vara"
+        },
+        "4-4": {
+          "description": "Arco curto e 5 flechas"
+        },
+        "5-5": {
+          "description": "Corda (18 m)"
+        },
+        "6-6": {
+          "description": "Óleo (frasco)"
+        },
+        "7-7": {
+          "description": "Pé de cabra"
+        },
+        "8-8": {
+          "description": "Cravos de ferro (10)"
+        },
+        "9-9": {
+          "description": "Pederneira"
+        },
+        "10-10": {
+          "description": "Arpéu"
+        },
+        "11-11": {
+          "description": "Clava"
+        },
+        "12-12": {
+          "description": "Estrepes (um saco)"
+        }
       }
     },
     "Starting Gear (Level 0) Rolls": {
       "name": "Rolagens de Equipamento Inicial (Nível 0)",
       "description": "",
       "results": {
-        "4-4": "Equipamento Inicial (Nível 0)",
-        "3-4": "Equipamento Inicial (Nível 0)",
-        "2-4": "Equipamento Inicial (Nível 0)",
-        "1-4": "Equipamento Inicial (Nível 0)"
+        "4-4": {
+          "description": "Equipamento Inicial (Nível 0)"
+        },
+        "3-4": {
+          "description": "Equipamento Inicial (Nível 0)"
+        },
+        "2-4": {
+          "description": "Equipamento Inicial (Nível 0)"
+        },
+        "1-4": {
+          "description": "Equipamento Inicial (Nível 0)"
+        }
       }
     },
     "Trap: Damage or Effect": {
       "name": "Armadilha: Dano ou Efeito",
       "description": "",
       "results": {
-        "1-1": "[[/r 1d6]]",
-        "2-2": "[[/r 1d6]] / @UUID[Compendium.shadowdark.spell-effects.FrFilluk4S5VaWut]",
-        "3-3": "[[/r 1d6]] / @UUID[Compendium.shadowdark.spell-effects.SN9lU9LUViWo1Plm]",
-        "4-4": "[[/r 1d6]] / @UUID[Compendium.shadowdark.spell-effects.SOkcvkzrGMGQKhmk]",
-        "5-5": "[[/r 2d8]]",
-        "6-6": "[[/r 2d8]] / @UUID[Compendium.shadowdark.spell-effects.FrFilluk4S5VaWut]",
-        "7-7": "[[/r 2d8]] / @UUID[Compendium.shadowdark.spell-effects.SN9lU9LUViWo1Plm]",
-        "8-8": "[[/r 2d8]] / Confusão",
-        "9-9": "[[/r 3d10]]",
-        "10-10": "[[/r 3d10]] / @UUID[Compendium.shadowdark.spell-effects.SN9lU9LUViWo1Plm]",
-        "11-11": "[[/r 3d10]] / inconsciência",
-        "12-12": "[[/r 3d10]] / petrificação"
+        "1-1": {
+          "description": "[[/r 1d6]]"
+        },
+        "2-2": {
+          "description": "[[/r 1d6]] / @UUID[Compendium.shadowdark.spell-effects.FrFilluk4S5VaWut]"
+        },
+        "3-3": {
+          "description": "[[/r 1d6]] / @UUID[Compendium.shadowdark.spell-effects.SN9lU9LUViWo1Plm]"
+        },
+        "4-4": {
+          "description": "[[/r 1d6]] / @UUID[Compendium.shadowdark.spell-effects.SOkcvkzrGMGQKhmk]"
+        },
+        "5-5": {
+          "description": "[[/r 2d8]]"
+        },
+        "6-6": {
+          "description": "[[/r 2d8]] / @UUID[Compendium.shadowdark.spell-effects.FrFilluk4S5VaWut]"
+        },
+        "7-7": {
+          "description": "[[/r 2d8]] / @UUID[Compendium.shadowdark.spell-effects.SN9lU9LUViWo1Plm]"
+        },
+        "8-8": {
+          "description": "[[/r 2d8]] / Confusão"
+        },
+        "9-9": {
+          "description": "[[/r 3d10]]"
+        },
+        "10-10": {
+          "description": "[[/r 3d10]] / @UUID[Compendium.shadowdark.spell-effects.SN9lU9LUViWo1Plm]"
+        },
+        "11-11": {
+          "description": "[[/r 3d10]] / inconsciência"
+        },
+        "12-12": {
+          "description": "[[/r 3d10]] / petrificação"
+        }
       }
     },
     "Trap: Trap": {
       "name": "Armadilha: Armadilha",
       "description": "",
       "results": {
-        "1-1": "Besta",
-        "2-2": "Chuva de agulhas",
-        "3-3": "Gás tóxico",
-        "4-4": "Rede farpada",
-        "5-5": "Pedra rolante",
-        "6-6": "Lâmina cortante",
-        "7-7": "Fosso com estacas",
-        "8-8": "Azagaia",
-        "9-9": "Glifo mágico",
-        "10-10": "Explosão de fogo",
-        "11-11": "Bloco em queda",
-        "12-12": "Estátua amaldiçoada"
+        "1-1": {
+          "description": "Besta"
+        },
+        "2-2": {
+          "description": "Chuva de agulhas"
+        },
+        "3-3": {
+          "description": "Gás tóxico"
+        },
+        "4-4": {
+          "description": "Rede farpada"
+        },
+        "5-5": {
+          "description": "Pedra rolante"
+        },
+        "6-6": {
+          "description": "Lâmina cortante"
+        },
+        "7-7": {
+          "description": "Fosso com estacas"
+        },
+        "8-8": {
+          "description": "Azagaia"
+        },
+        "9-9": {
+          "description": "Glifo mágico"
+        },
+        "10-10": {
+          "description": "Explosão de fogo"
+        },
+        "11-11": {
+          "description": "Bloco em queda"
+        },
+        "12-12": {
+          "description": "Estátua amaldiçoada"
+        }
       }
     },
     "Trap: Trigger": {
       "name": "Armadilha: Gatilho",
       "description": "",
       "results": {
-        "1-1": "Fio de disparo",
-        "2-2": "Placa de pressão",
-        "3-3": "Abrir uma porta",
-        "4-4": "Interruptor ou botão",
-        "5-5": "Degrau falso na escada",
-        "6-6": "Fechar uma porta",
-        "7-7": "Bloquear um feixe de luz",
-        "8-8": "Puxar uma alavanca",
-        "9-9": "Falar uma palavra",
-        "10-10": "Gancho em um fio",
-        "11-11": "Remover um objeto",
-        "12-12": "Conjurar uma magia"
+        "1-1": {
+          "description": "Fio de disparo"
+        },
+        "2-2": {
+          "description": "Placa de pressão"
+        },
+        "3-3": {
+          "description": "Abrir uma porta"
+        },
+        "4-4": {
+          "description": "Interruptor ou botão"
+        },
+        "5-5": {
+          "description": "Degrau falso na escada"
+        },
+        "6-6": {
+          "description": "Fechar uma porta"
+        },
+        "7-7": {
+          "description": "Bloquear um feixe de luz"
+        },
+        "8-8": {
+          "description": "Puxar uma alavanca"
+        },
+        "9-9": {
+          "description": "Falar uma palavra"
+        },
+        "10-10": {
+          "description": "Gancho em um fio"
+        },
+        "11-11": {
+          "description": "Remover um objeto"
+        },
+        "12-12": {
+          "description": "Conjurar uma magia"
+        }
       }
     },
     "Treasure 0-3": {
       "name": "Tesouros 0-3",
       "description": "",
       "results": {
-        "1-1": "Garfo de estanho torto (1 PC)",
-        "2-3": "Tocha enlameada (2 PC)",
-        "4-5": "Saco de seixos lisos (2 PC)",
-        "6-7": "10 PC em um saco engordurado",
-        "8-9": " Lampião enferrujado com vidro quebrado (1 PO)",
-        "10-11": "Dente de prata (1 PO)",
-        "12-13": "Adaga cega (1 PO)",
-        "14-15": " Dois frascos de vidro vazios (6 PO)",
-        "16-17": "60 PP em uma bota apodrecida",
-        "18-19": "Espelho de mão trincado (8 PO)",
-        "20-21": "Machado grande com lâmina corroída (9 PO)",
-        "22-23": "10 PO em uma caixa de madeira mofada",
-        "24-25": " Uma lasca de esmeralda (10 PO)",
-        "26-27": "Arco longo e um conjunto de 40 flechas (10 PO)",
-        "28-29": "Armadura de couro empoeirada e tingida de preto (10 PO)",
-        "30-31": "Escudo pesado e arranhado (10 PO)",
-        "32-33": " Espada bastarda simples, mas bem forjada (10 PO)",
-        "34-35": "12 PO no bolso de um manto rasgado",
-        "36-37": "Espada grande com lâmina amassada (12 PO)",
-        "38-39": "Par de espadas curtas forjadas por elfos (14 PO)",
-        "40-41": "Tigela dourada (15 PO)",
-        "42-43": "Estatueta de obsidiana de Shune, a Maléfica (15 PO)",
-        "44-45": "Pérola menor que o normal (20 PO)",
-        "46-47": "Broche de um escaravelho de jade e ouro (20 PO)",
-        "48-49": "Saco com 10 cravos de prata (2 PO cada)",
-        "50-53": "Medalhão de mitral com o retrato de um halfling (20 PO)",
-        "54-55": "Dois escudos anões forjados com maestria (20 PO)",
-        "56-57": "Par de adagas prateadas (10 PO cada)",
-        "58-59": "Caneca de hidromel de cobre e ouro (20 PO)",
-        "60-61": " Conjunto com cinco escamas vermelhas de dragão (5 PO cada)",
-        "62-63": " Capa leve e quente, tecida com seda de aranha (25 PO)",
-        "64-65": " Conjunto requintado de peças de jogo em marfim (25 PO)",
-        "66-67": "Conjunto de cota de malha inacabado (30 PO)",
-        "68-69": "Trio idêntico de martelos de guerra (10 PO cada)",
-        "70-71": "Uma lasca de safira (30 PO)",
-        "72-73": " Conjunto de chinelos de seda e uma túnica (35 PO)",
-        "74-75": " Diadema de prata e ouro (40 PO)",
-        "76-77": "Pérola polida e radiante (40 PO)",
-        "78-79": "Escudo de mitral gravado com dragões voadores (40 PO)",
-        "80-81": "Ídolo de macaco de ouro com um rubi preso entre os dentes (60 PO)Ídolo de macaco de ouro com um rubi preso entre os dentes (60 PO)",
-        "82-83": "Conjunto de cota de malha refinado (60 PO)",
-        "84-85": "Esmeralda rachada (60 PO)",
-        "86-87": "Esmeralda rachada (60 PO)",
-        "88-89": "Pergaminho de magia de grau 1 (80 PO)",
-        "90-91": "Poção de Invisibilidade (80 PO)",
-        "92-93": "Varinha mágica, magia de grau 2 (100 PO)",
-        "94-95": "Ovo de Cocatriz (100 PO)",
-        "96-97": "Armadura +1 (benefício, maldição) (150 PO)",
-        "98-99": "Bolsa do Espaço Infinito (virtude, defeito) (150 PO)",
-        "100-100": "Arma mágica +1 (benefício) (200 PO)"
+        "1-1": {
+          "description": "Garfo de estanho torto (1 PC)"
+        },
+        "2-3": {
+          "description": "Tocha enlameada (2 PC)"
+        },
+        "4-5": {
+          "description": "Saco de seixos lisos (2 PC)"
+        },
+        "6-7": {
+          "description": "10 PC em um saco engordurado"
+        },
+        "8-9": {
+          "description": " Lampião enferrujado com vidro quebrado (1 PO)"
+        },
+        "10-11": {
+          "description": "Dente de prata (1 PO)"
+        },
+        "12-13": {
+          "description": "Adaga cega (1 PO)"
+        },
+        "14-15": {
+          "description": " Dois frascos de vidro vazios (6 PO)"
+        },
+        "16-17": {
+          "description": "60 PP em uma bota apodrecida"
+        },
+        "18-19": {
+          "description": "Espelho de mão trincado (8 PO)"
+        },
+        "20-21": {
+          "description": "Machado grande com lâmina corroída (9 PO)"
+        },
+        "22-23": {
+          "description": "10 PO em uma caixa de madeira mofada"
+        },
+        "24-25": {
+          "description": " Uma lasca de esmeralda (10 PO)"
+        },
+        "26-27": {
+          "description": "Arco longo e um conjunto de 40 flechas (10 PO)"
+        },
+        "28-29": {
+          "description": "Armadura de couro empoeirada e tingida de preto (10 PO)"
+        },
+        "30-31": {
+          "description": "Escudo pesado e arranhado (10 PO)"
+        },
+        "32-33": {
+          "description": " Espada bastarda simples, mas bem forjada (10 PO)"
+        },
+        "34-35": {
+          "description": "12 PO no bolso de um manto rasgado"
+        },
+        "36-37": {
+          "description": "Espada grande com lâmina amassada (12 PO)"
+        },
+        "38-39": {
+          "description": "Par de espadas curtas forjadas por elfos (14 PO)"
+        },
+        "40-41": {
+          "description": "Tigela dourada (15 PO)"
+        },
+        "42-43": {
+          "description": "Estatueta de obsidiana de Shune, a Maléfica (15 PO)"
+        },
+        "44-45": {
+          "description": "Pérola menor que o normal (20 PO)"
+        },
+        "46-47": {
+          "description": "Broche de um escaravelho de jade e ouro (20 PO)"
+        },
+        "48-49": {
+          "description": "Saco com 10 cravos de prata (2 PO cada)"
+        },
+        "50-53": {
+          "description": "Medalhão de mitral com o retrato de um halfling (20 PO)"
+        },
+        "54-55": {
+          "description": "Dois escudos anões forjados com maestria (20 PO)"
+        },
+        "56-57": {
+          "description": "Par de adagas prateadas (10 PO cada)"
+        },
+        "58-59": {
+          "description": "Caneca de hidromel de cobre e ouro (20 PO)"
+        },
+        "60-61": {
+          "description": " Conjunto com cinco escamas vermelhas de dragão (5 PO cada)"
+        },
+        "62-63": {
+          "description": " Capa leve e quente, tecida com seda de aranha (25 PO)"
+        },
+        "64-65": {
+          "description": " Conjunto requintado de peças de jogo em marfim (25 PO)"
+        },
+        "66-67": {
+          "description": "Conjunto de cota de malha inacabado (30 PO)"
+        },
+        "68-69": {
+          "description": "Trio idêntico de martelos de guerra (10 PO cada)"
+        },
+        "70-71": {
+          "description": "Uma lasca de safira (30 PO)"
+        },
+        "72-73": {
+          "description": " Conjunto de chinelos de seda e uma túnica (35 PO)"
+        },
+        "74-75": {
+          "description": " Diadema de prata e ouro (40 PO)"
+        },
+        "76-77": {
+          "description": "Pérola polida e radiante (40 PO)"
+        },
+        "78-79": {
+          "description": "Escudo de mitral gravado com dragões voadores (40 PO)"
+        },
+        "80-81": {
+          "description": "Ídolo de macaco de ouro com um rubi preso entre os dentes (60 PO)Ídolo de macaco de ouro com um rubi preso entre os dentes (60 PO)"
+        },
+        "82-83": {
+          "description": "Conjunto de cota de malha refinado (60 PO)"
+        },
+        "84-85": {
+          "description": "Esmeralda rachada (60 PO)"
+        },
+        "86-87": {
+          "description": "Esmeralda rachada (60 PO)"
+        },
+        "88-89": {
+          "description": "Pergaminho de magia de grau 1 (80 PO)"
+        },
+        "90-91": {
+          "description": "Poção de Invisibilidade (80 PO)"
+        },
+        "92-93": {
+          "description": "Varinha mágica, magia de grau 2 (100 PO)"
+        },
+        "94-95": {
+          "description": "Ovo de Cocatriz (100 PO)"
+        },
+        "96-97": {
+          "description": "Armadura +1 (benefício, maldição) (150 PO)"
+        },
+        "98-99": {
+          "description": "Bolsa do Espaço Infinito (virtude, defeito) (150 PO)"
+        },
+        "100-100": {
+          "description": "Arma mágica +1 (benefício) (200 PO)"
+        }
       }
     },
     "Wizard Mishap Tier 1-2": {
       "name": "Falha Mágica de Graus 1-2",
       "description": "",
       "results": {
-        "1-1": "<b>Devastação!</b> Role duas vezes e combine ambos os efeitos (role novamente qualquer 1 adicional).",
-        "2-2": "<b>Explosão!</b> Você sofre 1d8 de dano.",
-        "3-3": "<b>Refração!</b> Você atinge a si mesmo com a magia.",
-        "4-4": "<b>Sua mão escorregou!</b> Sua magia atinge um aliado aleatório.",
-        "5-5": "<b>Lesão mental!</b> Você não pode conjurar essa magia novamente por uma semana.",
-        "6-6": "<b>Descorporação!</b> Um item aleatório do seu equipamento desaparece para sempre.",
-        "7-7": "<b>Infecção arcana!</b>Você perde a habilidade de conjurar uma magia aleatória em cada um de seus turnos, até que tenha sucesso em um teste de Constituição CD 12. Você recupera a habilidade de conjurar essas magias depois de completar um descanso.",
-        "8-8": "<b>Falha harmônica!</b> Você perde a habilidade de conjurar uma magia aleatória até que complete um descanso.",
-        "9-9": "<0>Puft!</0> Você suprime qualquer luz que estiver Perto de você, incluindo a luz do sol e luzes mágicas. Dura 10 rodadas.",
-        "10-10": "<b>O horror!</b> Você grita descontroladamente usando o idioma Primordial durante 3 rodadas, atraindo muita atenção.",
-        "11-11": "<b>Surto de energia!</b> Você emite um forte brilho roxo por 10 rodadas, concedendo Vantagem aos inimigos em ataques contra você.",
-        "12-12": "<b>Conduíte instável!</b> Você tem Desvantagem na conjuração de magias do mesmo grau por 10 rodadas."
+        "1-1": {
+          "description": "<b>Devastação!</b> Role duas vezes e combine ambos os efeitos (role novamente qualquer 1 adicional)."
+        },
+        "2-2": {
+          "description": "<b>Explosão!</b> Você sofre 1d8 de dano."
+        },
+        "3-3": {
+          "description": "<b>Refração!</b> Você atinge a si mesmo com a magia."
+        },
+        "4-4": {
+          "description": "<b>Sua mão escorregou!</b> Sua magia atinge um aliado aleatório."
+        },
+        "5-5": {
+          "description": "<b>Lesão mental!</b> Você não pode conjurar essa magia novamente por uma semana."
+        },
+        "6-6": {
+          "description": "<b>Descorporação!</b> Um item aleatório do seu equipamento desaparece para sempre."
+        },
+        "7-7": {
+          "description": "<b>Infecção arcana!</b>Você perde a habilidade de conjurar uma magia aleatória em cada um de seus turnos, até que tenha sucesso em um teste de Constituição CD 12. Você recupera a habilidade de conjurar essas magias depois de completar um descanso."
+        },
+        "8-8": {
+          "description": "<b>Falha harmônica!</b> Você perde a habilidade de conjurar uma magia aleatória até que complete um descanso."
+        },
+        "9-9": {
+          "description": "<0>Puft!</0> Você suprime qualquer luz que estiver Perto de você, incluindo a luz do sol e luzes mágicas. Dura 10 rodadas."
+        },
+        "10-10": {
+          "description": "<b>O horror!</b> Você grita descontroladamente usando o idioma Primordial durante 3 rodadas, atraindo muita atenção."
+        },
+        "11-11": {
+          "description": "<b>Surto de energia!</b> Você emite um forte brilho roxo por 10 rodadas, concedendo Vantagem aos inimigos em ataques contra você."
+        },
+        "12-12": {
+          "description": "<b>Conduíte instável!</b> Você tem Desvantagem na conjuração de magias do mesmo grau por 10 rodadas."
+        }
       }
     },
     "Wizard Mishap Tier 3-4": {
       "name": "Falha Mágica de Graus 3-4",
       "description": "",
       "results": {
-        "1-1": "Falha Mágica de Graus 3-4",
-        "2-2": "<b>Explosão em área!</b> Você e todas as criaturas que estiverem Perto sofrem [[/r 2d6]] de dano.",
-        "3-3": "<b>Refração dobrada!</b> Você atinge a si mesmo e ao seu aliado mais próximo com duas cópias idênticas da magia.",
-        "4-4": "<b>Você errou o encantamento!</b>Você conjura uma magia aleatória a partir de suas magias conhecidas nos mesmos alvos, até mesmo se isso normalmente não for possível",
-        "5-5": "<b>Furto etéreo!</b> Dois itens aleatórios do seu equipamento desaparecem para sempre",
-        "6-6": "<b>Arcano-mutagênico!</b> Você deve ter sucesso em um [[check 12 con]], ou um atributo aleatório cairá para 3 (-4) até que você complete um descanso",
-        "7-7": "<b>Bum!</b> Você abre um buraco no chão com 9 m de profundidade, cujo centro é você. Você e todas as criaturas que estiverem Perto devem ter sucesso em um [[check 15 dex]] ou cairão nele",
-        "8-8": "<b>Petrificação!</b> [[/r 1d4]] membros de seu corpo se petrificam pelas próximas 24 horas",
-        "9-9": "<b>Estupefação!</b> Você perde a habilidade de conjurar todas as magias do mesmo grau até que complete um descanso",
-        "10-10": "<b>Não pode ser desvisto!</b> Você deve ter sucesso em um [[check 12 wis] ou irá delirar durante 1d10 rodadas",
-        "11-11": "<b>Energias radioativas!</b> Você é circundado por energias repulsivas, atraindo a hostilidade e os ataques de todos os inimigos que possam vê-lo pelas próximas [[/r 1d4]] rodadas",
-        "12-12": "<b>Canalização incontida!</b> Você tem Desvantagem na conjuração de magias do mesmo grau e graus inferiores por 10 rodadas"
+        "1-1": {
+          "description": "Falha Mágica de Graus 3-4"
+        },
+        "2-2": {
+          "description": "<b>Explosão em área!</b> Você e todas as criaturas que estiverem Perto sofrem [[/r 2d6]] de dano."
+        },
+        "3-3": {
+          "description": "<b>Refração dobrada!</b> Você atinge a si mesmo e ao seu aliado mais próximo com duas cópias idênticas da magia."
+        },
+        "4-4": {
+          "description": "<b>Você errou o encantamento!</b>Você conjura uma magia aleatória a partir de suas magias conhecidas nos mesmos alvos, até mesmo se isso normalmente não for possível"
+        },
+        "5-5": {
+          "description": "<b>Furto etéreo!</b> Dois itens aleatórios do seu equipamento desaparecem para sempre"
+        },
+        "6-6": {
+          "description": "<b>Arcano-mutagênico!</b> Você deve ter sucesso em um [[check 12 con]], ou um atributo aleatório cairá para 3 (-4) até que você complete um descanso"
+        },
+        "7-7": {
+          "description": "<b>Bum!</b> Você abre um buraco no chão com 9 m de profundidade, cujo centro é você. Você e todas as criaturas que estiverem Perto devem ter sucesso em um [[check 15 dex]] ou cairão nele"
+        },
+        "8-8": {
+          "description": "<b>Petrificação!</b> [[/r 1d4]] membros de seu corpo se petrificam pelas próximas 24 horas"
+        },
+        "9-9": {
+          "description": "<b>Estupefação!</b> Você perde a habilidade de conjurar todas as magias do mesmo grau até que complete um descanso"
+        },
+        "10-10": {
+          "description": "<b>Não pode ser desvisto!</b> Você deve ter sucesso em um [[check 12 wis] ou irá delirar durante 1d10 rodadas"
+        },
+        "11-11": {
+          "description": "<b>Energias radioativas!</b> Você é circundado por energias repulsivas, atraindo a hostilidade e os ataques de todos os inimigos que possam vê-lo pelas próximas [[/r 1d4]] rodadas"
+        },
+        "12-12": {
+          "description": "<b>Canalização incontida!</b> Você tem Desvantagem na conjuração de magias do mesmo grau e graus inferiores por 10 rodadas"
+        }
       }
     },
     "Wizard Mishap Tier 5": {
       "name": "Falha Mágica de Graus 5",
       "description": "",
       "results": {
-        "1-1": "Falha Mágica de Graus 5",
-        "2-2": "<b>Extrusão piroclástica!</b> Você causa [[/r 3d8]] de dano a si mesmo e a todas as criaturas que estiverem Perto de você",
-        "3-3": "<b>Incisão astral!</b> Uma lâmina sobrenatural corta a sua memória. Você esquece uma magia aleatória permanentemente",
-        "4-4": "<b>O Grimlow!</b> Você acidentalmente invoca um Grimlow hostil em uma área Perto de você. Ele permanece por [[/r 2d4]] rodadas antes de desaparecer e voltar para o lugar de onde veio",
-        "5-5": "<b>Aura de plasma sombrio!</b> Ataques contra você atravessam uma aura maléfica, causando o dobro de dano pelas próximas [[/r 2d6]] rodadas",
-        "6-6": "<b>Portal!</b> Você abre um portal mágico para este ou outro plano. Algo terrível irá atravessá-lo em [[/r 1d4]] rodadas, a menos que você o feche em seu turno com um [[check 18 int]]",
-        "7-7": "<b>Repetição arcana descontrolada!</b> Sua magia atinge uma criatura aleatória que você possa ver, mesmo que isso normalmente não seja possível. A cada turno seguinte, você deve ter sucesso em um teste de conjuração para a mesma magia, ou irá conjurá-la em uma outra criatura aleatória da mesma maneira (em um sucesso o efeito é encerrado)",
-        "8-8": "<b>Obstrução arcana!</b> Você perde a habilidade de conjurar todas as magias de um grau aleatório até que complete um descanso",
-        "9-9": "<b>O que espreita além do véu!</b> Você deve ter sucesso em um[[check 15 wis]] ou cairá em um delírio insano durante [[/r 1d4]] horas",
-        "10-10": "<b>Equilíbrio de Ord!</b> Você deve escolher entre sacrificar de forma permanente um item mágico ou a habilidade de conjurar uma magia de grau 3+ que você conheça",
-        "11-11": "<b>Reação em cadeia não mitigada!</b> Você tem Desvantagem na conjuração de todas as magias pelas próximas 10 rodadas",
-        "12-12": "<b>Desfiar!</b> Você abre um grande buraco no tecido do universo próximo a você. Essa fenda sem luz aumenta a cada rodada"
+        "1-1": {
+          "description": "Falha Mágica de Graus 5"
+        },
+        "2-2": {
+          "description": "<b>Extrusão piroclástica!</b> Você causa [[/r 3d8]] de dano a si mesmo e a todas as criaturas que estiverem Perto de você"
+        },
+        "3-3": {
+          "description": "<b>Incisão astral!</b> Uma lâmina sobrenatural corta a sua memória. Você esquece uma magia aleatória permanentemente"
+        },
+        "4-4": {
+          "description": "<b>O Grimlow!</b> Você acidentalmente invoca um Grimlow hostil em uma área Perto de você. Ele permanece por [[/r 2d4]] rodadas antes de desaparecer e voltar para o lugar de onde veio"
+        },
+        "5-5": {
+          "description": "<b>Aura de plasma sombrio!</b> Ataques contra você atravessam uma aura maléfica, causando o dobro de dano pelas próximas [[/r 2d6]] rodadas"
+        },
+        "6-6": {
+          "description": "<b>Portal!</b> Você abre um portal mágico para este ou outro plano. Algo terrível irá atravessá-lo em [[/r 1d4]] rodadas, a menos que você o feche em seu turno com um [[check 18 int]]"
+        },
+        "7-7": {
+          "description": "<b>Repetição arcana descontrolada!</b> Sua magia atinge uma criatura aleatória que você possa ver, mesmo que isso normalmente não seja possível. A cada turno seguinte, você deve ter sucesso em um teste de conjuração para a mesma magia, ou irá conjurá-la em uma outra criatura aleatória da mesma maneira (em um sucesso o efeito é encerrado)"
+        },
+        "8-8": {
+          "description": "<b>Obstrução arcana!</b> Você perde a habilidade de conjurar todas as magias de um grau aleatório até que complete um descanso"
+        },
+        "9-9": {
+          "description": "<b>O que espreita além do véu!</b> Você deve ter sucesso em um[[check 15 wis]] ou cairá em um delírio insano durante [[/r 1d4]] horas"
+        },
+        "10-10": {
+          "description": "<b>Equilíbrio de Ord!</b> Você deve escolher entre sacrificar de forma permanente um item mágico ou a habilidade de conjurar uma magia de grau 3+ que você conheça"
+        },
+        "11-11": {
+          "description": "<b>Reação em cadeia não mitigada!</b> Você tem Desvantagem na conjuração de todas as magias pelas próximas 10 rodadas"
+        },
+        "12-12": {
+          "description": "<b>Desfiar!</b> Você abre um grande buraco no tecido do universo próximo a você. Essa fenda sem luz aumenta a cada rodada"
+        }
       }
     }
   }

@@ -174,9 +174,9 @@
       "name": "Ovo de Basilisco",
       "description": "<p><span class=\"fontstyle0\">Você encontra um @UUID[Compendium.shadowdark.gear.Item.zU6dopKBk3pKS9F9]; um bebê fiel a você nasce em [[/r 1d4]] dias</span></p>"
     },
-    "Beginners' Luck": {
+    "Beginner's Luck": {
       "name": "Sorte de Principiante",
-      "description": "</p>Personagens de nível 0 podem utilizar todos os equipamentos até alcançarem o nível 1.</p>"
+      "description": "<p>Personagens de nível 0 podem utilizar todos os equipamentos até alcançarem o nível 1.</p>"
     },
     "Black Lotus": {
       "name": "Lótus Negra",
@@ -185,6 +185,25 @@
     "Charge": {
       "name": "Investida",
       "description": "<p>3/dia, você pode fazer uma @UUID[Compendium.shadowdark.class-abilities.Item.Ecajh7eY7lBEHuMv] durante o combate ao se mover, no mínimo, pela distância Perto antes de atacar. A cada vez que fizer isso, seus ataques corpo a corpo causam dano dobrado naquela rodada.</p>"
+    },
+    "D12 Weapon Damage Die": {
+      "name": "D12 Weapon Damage Die",
+      "effects": {
+        "Increased Weapon Damage Die": {
+          "name": "Increased Weapon Damage Die",
+          "changes": {
+            "system": {
+              "roll": {
+                "attack": {
+                  "upgrade-damage-die": {
+                    "REPLACEME": "5"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     },
     "Deity": {
       "name": "Divindade",
