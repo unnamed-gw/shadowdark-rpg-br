@@ -3,25 +3,15 @@ import { Converters } from "./../babele/script/converters.js";
 const MODULE_ID = "shadowdark-rpg-br";
 
 Hooks.on("init", () => {
-  game.settings.register(MODULE_ID, "autoRegisterBabel", {
-    name: "Ativação automática de tradução via Babele",
-    hint: "Implementa automaticamente as traduções do Babele sem a necessidade de designar o diretório que contém as traduções.",
-    scope: "world",
-    config: true,
-    default: true,
-    type: Boolean,
-    onChange: (value) => {
-      if (value) {
-        autoRegisterBabel();
-      }
-
-      window.location.reload();
-    },
-  });
-
-  if (game.settings.get(MODULE_ID, "autoRegisterBabel")) {
-    autoRegisterBabel();
+  if (typeof Babele === "undefined") {
+    return;
   }
+
+  game.babele.register({
+    module: MODULE_ID,
+    lang: "pt-BR",
+    dir: "compendium/pt-BR",
+  });
 
   game.babele.registerConverters({
     fromPackWithCustomMapping: Converters.fromPack({
@@ -30,16 +20,6 @@ Hooks.on("init", () => {
     }),
   });
 });
-
-function autoRegisterBabel() {
-  if (typeof Babele !== "undefined") {
-    game.babele.register({
-      module: MODULE_ID,
-      lang: "pt-BR",
-      dir: "compendium/pt-BR",
-    });
-  }
-}
 
 /*
  * IMPORT ADVENTURE HOOK

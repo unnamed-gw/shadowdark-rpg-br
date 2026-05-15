@@ -31,8 +31,8 @@
     }
   ],
   "compatibility": {
-    "verified": "13",
-    "maximum": "13"
+    "minimum": "13",
+    "verified": "14"
   },
   "esmodules": ["scripts/shadowdice.js", "register.js"],
   "styles": ["css/shadowdark-rpg-br.css"],
