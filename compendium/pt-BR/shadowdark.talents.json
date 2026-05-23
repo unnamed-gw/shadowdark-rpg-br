@@ -1,7 +1,11 @@
 {
   "label": "Talentos",
   "mapping": {
-    "description": "system.description"
+    "description": "system.description",
+    "effects": {
+      "path": "effects",
+      "converter": "effectCollection"
+    }
   },
   "folders": {
     "Class": "Classe",
@@ -464,23 +468,88 @@
     },
     "Spellcasting (Knight of St. Ydris)": {
       "name": "Conjuração (Cavaleiro de São Ydris)",
-      "description": "<p>Você pode conjurar as magias de bruxa que você conhece. </p><p>A cada nível que você ganhar, escolha novas magias de bruxa para aprender, de acordo com a tabela de Magias de Bruxa Conhecidas. </p>"
+      "description": "<p>Você pode conjurar as magias de bruxa que você conhece. </p><p>A cada nível que você ganhar, escolha novas magias de bruxa para aprender, de acordo com a tabela de Magias de Bruxa Conhecidas. </p>",
+      "effects": {
+        "Spell Class": {
+          "name": "Classe de Conjuração",
+          "changes": [
+            {
+              "key": "system.spellcasting.classes",
+              "mode": 2,
+              "priority": null,
+              "value": "bruxa"
+            }
+          ]
+        }
+      }
     },
     "Spellcasting (Priest)": {
       "name": "Conjuração (Sacerdote)",
-      "description": "<p><span class=\"fontstyle0\"><strong>Conjuração.</strong></span><span class=\"fontstyle2\"> Você pode conjurar as magias de sacerdote que você conhece.</span></p><p><span class=\"fontstyle2\"> Você conhece duas magias de grau 1, à sua escolha, da lista de magias de sacerdote da pág. 51.</span></p><p><span class=\"fontstyle2\"> A cada nível que você ganhar, escolha novas magias de sacerdote para aprender, de acordo com a tabela de Magias de Sacerdote Conhecidas.</span></p><p><span class=\"fontstyle2\"> Para conjurar magias de sacerdote, veja Conjuração, na pág. 44.</span></p>"
+      "description": "<p><span class=\"fontstyle0\"><strong>Conjuração.</strong></span><span class=\"fontstyle2\"> Você pode conjurar as magias de sacerdote que você conhece.</span></p><p><span class=\"fontstyle2\"> Você conhece duas magias de grau 1, à sua escolha, da lista de magias de sacerdote da pág. 51.</span></p><p><span class=\"fontstyle2\"> A cada nível que você ganhar, escolha novas magias de sacerdote para aprender, de acordo com a tabela de Magias de Sacerdote Conhecidas.</span></p><p><span class=\"fontstyle2\"> Para conjurar magias de sacerdote, veja Conjuração, na pág. 44.</span></p>",
+      "effects": {
+        "Spell Class": {
+          "name": "Classe de Conjuração",
+          "changes": [
+            {
+              "key": "system.spellcasting.classes",
+              "mode": 2,
+              "priority": null,
+              "value": "sacerdote"
+            }
+          ]
+        }
+      }
     },
     "Spellcasting (Seer)": {
       "name": "Conjuração (Vidente)",
-      "description": "<p>Você pode conjurar as magias de vidente que você conhece. Você conhece uma magia de grau 1, à sua escolha, da lista de magias de vidente (veja a pág. 30).</p><p> A cada nível que você ganhar, escolha uma nova magia de vidente para aprender, de acordo com a tabela de Magias de Vidente Conhecidas.</p><p> Você usa a sua Sabedoria para conjurar magias de vidente. A CD é 10 + o grau da magia.</p><p> Se falhar no teste de conjuração, você não poderá conjurar a mesma magia novamente até que complete um descanso. Se você rolar 1 natural em um teste de conjuração, você não poderá conjurar a mesma magia novamente até que complete uma Penitência de Vidente.</p><p><strong>Penitência de Vidente</strong></p><p>Magia de Grau 1: Sacrifique temporariamente 1d4 PV (você fica com um mínimo de 1 PV); eles retornam em uma semana.</p><p>Magia de Grau 2: Reduza temporariamente sua SAB em 2 pontos; eles retornam em duas semanas.</p><p>Magia de Grau 3: Sacrifique 1 ponto de CAR; ele nunca irá retornar.</p><p>Magia de Grau 4: Afunde ritualisticamente um dracar em chamas no mar.</p><p>Magia de Grau 5: Sacrifique ritualisticamente 9 vidas humanoides.</p>"
+      "description": "<p>Você pode conjurar as magias de vidente que você conhece. Você conhece uma magia de grau 1, à sua escolha, da lista de magias de vidente (veja a pág. 30).</p><p> A cada nível que você ganhar, escolha uma nova magia de vidente para aprender, de acordo com a tabela de Magias de Vidente Conhecidas.</p><p> Você usa a sua Sabedoria para conjurar magias de vidente. A CD é 10 + o grau da magia.</p><p> Se falhar no teste de conjuração, você não poderá conjurar a mesma magia novamente até que complete um descanso. Se você rolar 1 natural em um teste de conjuração, você não poderá conjurar a mesma magia novamente até que complete uma Penitência de Vidente.</p><p><strong>Penitência de Vidente</strong></p><p>Magia de Grau 1: Sacrifique temporariamente 1d4 PV (você fica com um mínimo de 1 PV); eles retornam em uma semana.</p><p>Magia de Grau 2: Reduza temporariamente sua SAB em 2 pontos; eles retornam em duas semanas.</p><p>Magia de Grau 3: Sacrifique 1 ponto de CAR; ele nunca irá retornar.</p><p>Magia de Grau 4: Afunde ritualisticamente um dracar em chamas no mar.</p><p>Magia de Grau 5: Sacrifique ritualisticamente 9 vidas humanoides.</p>",
+      "effects": {
+        "Spell Class": {
+          "name": "Classe de Conjuração",
+          "changes": [
+            {
+              "key": "system.spellcasting.classes",
+              "mode": 2,
+              "priority": null,
+              "value": "vidente"
+            }
+          ]
+        }
+      }
     },
     "Spellcasting (Witch)": {
       "name": "Conjuração (Bruxa)",
-      "description": "<p>Você pode conjurar as magias de bruxa que você conhece.</p><p> Você conhece três magias de grau 1, à sua escolha, da lista de magias de bruxa (veja a pág. 24). A cada nível que você ganhar, escolha novas magias de bruxa para aprender, de acordo com a tabela Magias de Bruxa Conhecidas. Você usa o seu Carisma para conjurar magias de bruxa. A CD é 10 + o grau da magia. </p><p>Se falhar no teste de conjuração, você não poderá conjurar a mesma magia novamente até que complete um descanso.</p><p> Se você rolar 1 natural em um teste de conjuração, você também deve rolar na tabela de Falhas Diabólicas (veja a pág. 22) correspondente ao grau da magia.</p>"
+      "description": "<p>Você pode conjurar as magias de bruxa que você conhece.</p><p> Você conhece três magias de grau 1, à sua escolha, da lista de magias de bruxa (veja a pág. 24). A cada nível que você ganhar, escolha novas magias de bruxa para aprender, de acordo com a tabela Magias de Bruxa Conhecidas. Você usa o seu Carisma para conjurar magias de bruxa. A CD é 10 + o grau da magia. </p><p>Se falhar no teste de conjuração, você não poderá conjurar a mesma magia novamente até que complete um descanso.</p><p> Se você rolar 1 natural em um teste de conjuração, você também deve rolar na tabela de Falhas Diabólicas (veja a pág. 22) correspondente ao grau da magia.</p>",
+      "effects": {
+        "Spell Class": {
+          "name": "Classe de Conjuração",
+          "changes": [
+            {
+              "key": "system.spellcasting.classes",
+              "mode": 2,
+              "priority": null,
+              "value": "bruxa"
+            }
+          ]
+        }
+      }
     },
     "Spellcasting (Wizard)": {
       "name": "Conjuracão (Mago)",
-      "description": "<p><span class=\"fontstyle0\"><strong>Conjuração.</strong></span><span class=\"fontstyle2\">Você pode conjurar as magias de mago que você conhece.</span></p><p><span class=\"fontstyle2\"> Você conhece três magias de grau 1, à sua escolha, da lista de magias de mago da pág. 52. </span></p><p><span class=\"fontstyle2\">A cada nível que você ganhar, escolha novas magias de mago para aprender, de acordo com a tabela de Magias de Mago Conhecidas.</span></p><p><span class=\"fontstyle2\"> Para conjurar magias de mago, veja Conjuração, na pág. 44.</span></p>"
+      "description": "<p><span class=\"fontstyle0\"><strong>Conjuração.</strong></span><span class=\"fontstyle2\">Você pode conjurar as magias de mago que você conhece.</span></p><p><span class=\"fontstyle2\"> Você conhece três magias de grau 1, à sua escolha, da lista de magias de mago da pág. 52. </span></p><p><span class=\"fontstyle2\">A cada nível que você ganhar, escolha novas magias de mago para aprender, de acordo com a tabela de Magias de Mago Conhecidas.</span></p><p><span class=\"fontstyle2\"> Para conjurar magias de mago, veja Conjuração, na pág. 44.</span></p>",
+      "effects": {
+        "Spell Class": {
+          "name": "Classe de Conjuração",
+          "changes": [
+            {
+              "key": "system.spellcasting.classes",
+              "mode": 2,
+              "priority": null,
+              "value": "mago"
+            }
+          ]
+        }
+      }
     },
     "Spellcasting Advantage": {
       "name": "Vantagem em Conjuração",
