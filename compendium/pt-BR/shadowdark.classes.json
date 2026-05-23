@@ -2,7 +2,19 @@
   "label": "Classes",
   "mapping": {
     "description": "system.description",
-    "titles": "system.titles"
+    "titles": {
+      "path": "system.titles",
+      "converter": "structured",
+      "cardinality": "many",
+      "container": "array",
+      "mapping": {
+        "chaotic": "chaotic",
+        "from": "from",
+        "lawful": "lawful",
+        "neutral": "neutral",
+        "to": "to"
+      }
+    }
   },
   "folders": {},
   "entries": {
