@@ -35,11 +35,11 @@
       },
       "macros": {
         "Roll Random Beastmen NPC": {
-          "name": "Crie aleatoriamente um PNJ Homem-fera",
+          "name": "Crie Aleatoriamente um PNJ Homem-Fera",
           "command": "// Uma macro para criar um NPC aleatório, enviada como sussurro aos GMs no servidor.\n\nconst namesTableID = game.tables.find(o => o.name === \"A Cidadela Perdida: Nome dos Homens-fera\")._id;\nconst namesTable = await game.tables.get(namesTableID);\nconst namesResult = await namesTable.draw({displayChat: false});\nconst names = namesResult.results.pop().getChatText();\n\nconst appearanceTableID = game.tables.find(o => o.name === \"A Cidadela Perdida: Aparência dos Homens-fera\")._id;\nconst appearanceTable = await game.tables.get(appearanceTableID);\nconst appearanceResult = await appearanceTable.draw({displayChat: false});\nconst appearance = appearanceResult.results.pop().getChatText();\n\nconst behaviorTableID = game.tables.find(o => o.name === \"A Cidadela Perdida: Atitude dos Homens-fera\")._id;\nconst behaviorTable = await game.tables.get(behaviorTableID);\nconst behaviorResult = await behaviorTable.draw({displayChat: false});\nconst behavior = behaviorResult.results.pop().getChatText();\n\nconst message = `<p>um @UUID[Compendium.shadowdark.monsters.Actor.k8tAgECWIzPIStGU] com aparência <b>${appearance}</b> chamado <b>${names}</b> \nde atitude <b>${behavior}</b>.</p>`;\n\nconst chatData = {\n  user: game.user._id,\n  speaker: ChatMessage.getSpeaker(),\n  content: message,\n  whisper: game.users.filter(u => u.isGM).map(u => u._id),\n};\n\nChatMessage.create(chatData, {});"
         },
         "Roll Random Ettercap NPC": {
-          "name": "Crie aleatoriamente um NPC Ettercap",
+          "name": "Crie Aleatoriamente um NPC Ettercap",
           "command": "// Uma macro para criar um NPC aleatório, enviada como sussurros aos GMs no servidor.\n\nconst namesTableID = game.tables.find(o => o.name === \"A Cidadela Perdida: Nome dos Ettercaps\")._id;\nconst namesTable = await game.tables.get(namesTableID);\nconst namesResult = await namesTable.draw({displayChat: false});\nconst names = namesResult.results.pop().getChatText();\n\nconst appearanceTableID = game.tables.find(o => o.name === \"A Cidadela Perdida: Aparência dos Ettercaps\")._id;\nconst appearanceTable = await game.tables.get(appearanceTableID);\nconst appearanceResult = await appearanceTable.draw({displayChat: false});\nconst appearance = appearanceResult.results.pop().getChatText();\n\nconst behaviorTableID = game.tables.find(o => o.name === \"A Cidadela Perdida: Atitude dos Ettercaps\")._id;\nconst behaviorTable = await game.tables.get(behaviorTableID);\nconst behaviorResult = await behaviorTable.draw({displayChat: false});\nconst behavior = behaviorResult.results.pop().getChatText();\n\nconst message = `<p>Um @UUID[Compendium.shadowdark.monsters.Actor.fcgq7uwsJEMMdRNx] com a aparência <b>${appearance}</b> chamado <b>${names}</b> \ncom a atitude <b>${behavior}</b>.</p>`;\n\nconst chatData = {\n  user: game.user._id,\n  speaker: ChatMessage.getSpeaker(),\n  content: message,\n  whisper: game.users.filter(u => u.isGM).map(u => u._id),\n};\n\nChatMessage.create(chatData, {});"
         },
         "The Lost Citadel: Random Encounter Check": {
@@ -149,8 +149,8 @@
           "notes": "<p><span class=\"fontstyle0\"><em>Um esqueleto de ossos descorados, com pontos vermelhos de luz nos seus olhos.</em></span></p><p><span class=\"fontstyle2\"><strong>CA</strong> </span><span class=\"fontstyle3\">13 (cota de malha), </span><span class=\"fontstyle2\"><strong>PV</strong> </span><span class=\"fontstyle3\">11, </span><span class=\"fontstyle2\"><strong>ATQ</strong> </span><span class=\"fontstyle3\">1 espada curta +1 (1d6) ou 1 arco curto (Longe) +0 (1d4), </span><span class=\"fontstyle2\"><strong>MV</strong> </span><span class=\"fontstyle3\">Perto, </span><span class=\"fontstyle2\"><strong>F</strong> </span><span class=\"fontstyle3\">+1, </span><span class=\"fontstyle2\"><strong>D</strong> </span><span class=\"fontstyle3\">+0, </span><span class=\"fontstyle2\"><strong>C</strong> </span><span class=\"fontstyle3\">+2, </span><span class=\"fontstyle2\"><strong>I</strong> </span><span class=\"fontstyle3\">-2, </span><span class=\"fontstyle2\"><strong>S</strong> </span><span class=\"fontstyle3\">+0, </span><span class=\"fontstyle2\"><strong>Car</strong> </span><span class=\"fontstyle3\">-1, </span><span class=\"fontstyle2\"><strong>AL</strong> </span><span class=\"fontstyle3\">C, </span><span class=\"fontstyle2\"><strong>NV</strong> </span><span class=\"fontstyle3\">2</span></p><p><span class=\"fontstyle2\"><strong>Morto-vivo.</strong> </span><span class=\"fontstyle3\">Imune a testes de moral.</span> <br style=\" font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px; \"></p>"
         },
         "Beastman": {
-          "name": "Homem-fera",
-          "tokenName": "Homem-fera",
+          "name": "Homem-Fera",
+          "tokenName": "Homem-Fera",
           "notes": "<p><em>Um hominídeo das cavernas, com pelagem desgrenhada e uma lança com ponta de pedra.</em></p><p><strong>CA</strong> 12 (couro), <strong>PV </strong>5, <strong>ATQ</strong> 1 lança (Adjacente/Perto) +2 (1d6+1), <strong>MV</strong> Perto, <strong>F</strong> +2, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> -2, <strong>S</strong> +1, <strong>Car</strong> -1, <strong>AL </strong>C,<strong>NV </strong>1</p><p><strong>Brutal</strong>. +1 de dano com armas corpo a corpo (incluído).</p>"
         },
         "Animated Armor": {
@@ -170,7 +170,7 @@
           "description": ""
         },
         "Silver-Inlaid Bull Horn": {
-          "name": "Chifre de touro incrustado com prata",
+          "name": "Chifre de Touro Incrustado com Prata",
           "description": ""
         },
         "Pearl": {
@@ -182,19 +182,19 @@
           "description": "<p>@UUID[Compendium.shadowdark.spells.q600IZtPTAgkz6vB]</p>"
         },
         "Alabaster Statuette of a Bull": {
-          "name": "Estatueta de touro feita de alabastro",
+          "name": "Estatueta de Touro Feita de Alabastro",
           "description": ""
         },
         "Jade Snake Bracelet": {
-          "name": "Bracelete de cobra de jade",
+          "name": "Bracelete de Cobra de Jade",
           "description": ""
         },
         "Necklace of Thick Gold Links": {
-          "name": "Colar com elos espessos de ouro",
+          "name": "Colar com Elos Espessos de Ouro",
           "description": ""
         },
         "Silver Incense Bowl": {
-          "name": "Incensário de prata",
+          "name": "Incensário de Prata",
           "description": ""
         },
         "Emerald": {
@@ -202,7 +202,7 @@
           "description": ""
         },
         "Emerald (Shattered)": {
-          "name": "Esmeralda (estilhaçada)",
+          "name": "Esmeralda (Estilhaçada)",
           "description": ""
         },
         "Asterion": {
@@ -226,15 +226,15 @@
           "description": "<p><span style=\"font-family: Signika, sans-serif\">Em um tubo de bronze adornado com dragões de jade .</span></p><p>@UUID[Compendium.shadowdark.spells.ItN82uLU3PhJFLNm]</p>"
         },
         "Silvered Longsword": {
-          "name": "Espada longa de prata",
+          "name": "Espada Longa de Prata",
           "description": "<p><span style=\"font-family: Signika, sans-serif\"> Espada longa prateada com um pomo de meia-lua.</span></p>"
         },
         "Scarred Mithral Shield": {
-          "name": "Escudo danificado de mitral",
+          "name": "Escudo Danificado de Mitral",
           "description": "<p><span class=\"fontstyle0\">Escudo danificado de mitral gravado com um tigre à espreita</span> .</p>"
         },
         "Silver, Horned Helm": {
-          "name": "Elmo de prata com chifres",
+          "name": "Elmo de Prata com Chifres",
           "description": ""
         },
         "Vigilant": {
@@ -280,7 +280,7 @@
           }
         },
         "The Lost Citadel: Random Encounters": {
-          "name": "A Cidadela Perdia: Encontro Aleatório",
+          "name": "A Cidadela Perdida: Encontro Aleatório",
           "description": "",
           "results": {
             "1-1": "<b>@UUID[Actor.XPNU79kJyse04pL3]</b> (Área 18) aparece, urrando em desafio e raspando os cascos no chão de pedra.",
@@ -310,7 +310,7 @@
           }
         },
         "The Lost Citadel: Beastmen Behaviors": {
-          "name": "A Cidadela Perdida: Comportamento dos Homens-fera",
+          "name": "A Cidadela Perdida: Comportamento dos Homens-Fera",
           "description": "",
           "results": {
             "1-1": "Encara/furtivo",
@@ -326,7 +326,7 @@
           }
         },
         "The Lost Citadel: Beastmen Names": {
-          "name": "A Cidadela Perdida: Nome dos Homens-fera",
+          "name": "A Cidadela Perdida: Nomes dos Homens-Fera",
           "description": "",
           "results": {
             "1-1": "Ratazana/Gobbo",
@@ -354,7 +354,7 @@
           }
         },
         "The Lost Citadel: Beastmen Appearances": {
-          "name": "A Cidadela Perdida: Aparência dos Homens-fera",
+          "name": "A Cidadela Perdida: Aparência dos Homens-Fera",
           "description": "",
           "results": {
             "1-1": "Irregular/doentio",
@@ -378,7 +378,7 @@
           }
         },
         "The Lost Citadel: Ettercap Names": {
-          "name": "A Cidadela Perdida: Nome dos Ettercaps",
+          "name": "A Cidadela Perdida: Nomes dos Ettercaps",
           "description": "",
           "results": {
             "1-1": "Skalt/Trisk",
@@ -398,11 +398,11 @@
         "The Lost Citadel": "A Cidadela Perdida",
         "NPCs": "PNJs",
         "Named Ettercaps": "Nomes de Ettercaps",
-        "Named Beastmen": "Nomes de Homens-fera",
-        "Room 1: Mural Chamber": "Sala 1: Câmara Do Mural",
+        "Named Beastmen": "Nomes de Homens-Fera",
+        "Room 1: Mural Chamber": "Sala 1: Câmara do Mural",
         "Room 2: Blinding Cave": "Sala 2: Caverna Cegante",
         "Room 3: Web-Choked Cave": "Sala 3: Caverna Tomada por Teias",
-        "Room 4: Ettercap Nest": "Sala 4: Ninho dos Ettercap",
+        "Room 4: Ettercap Nest": "Sala 4: Ninho dos Ettercaps",
         "Room 5: Robing Chamber": "Sala 5: Câmara dos Mantos",
         "Room 6: Bathhouse": "Sala 6: Casa de Banho",
         "Room 7: Bull Statue": "Sala 7: Estátua de Touro",
@@ -418,17 +418,17 @@
         "Room 17: Broken Bull Statue": "Sala 17: Estátua de Touro Quebrada",
         "Room 18: Central Courtyard": "Sala 18: Pátio Central",
         "Room 19: Bas-Relief Hall": "Sala 19: Salão de Baixo-Relevo",
-        "Room 20: Mosaic Room": "Sala 20: Salão Do Mosaico",
+        "Room 20: Mosaic Room": "Sala 20: Salão do Mosaico",
         "Treasure": "Tesouro",
-        "Room 21: Throne Chamber": "Sala 21: Câmara Do Trono",
+        "Room 21: Throne Chamber": "Sala 21: Câmara do Trono",
         "Room 22: Labyrinth": "Sala 22: Labirinto",
         "Room 23: Beastmen Lair": "Sala 23: Covil dos Homens-Fera",
         "Room 24: Lookout Room": "Sala 24: Sala de Vigia",
         "Room 25: Training Chamber": "Sala 25: Câmara de Treinamento",
         "Room 26: Hall of Kings": "Sala 26: Salão dos Reis",
-        "Room 27: Sacrifice Cave": "Sala 27: Caverna Do Sacrifício",
+        "Room 27: Sacrifice Cave": "Sala 27: Caverna do Sacrifício",
         "Skeletons": "Esqueletos",
-        "Beastmen": "Homens-fera"
+        "Beastmen": "Homens-Fera"
       },
       "journals": {
         "The Lost Citadel": {
@@ -439,7 +439,7 @@
               "text": "<p><strong>Nível de Perigo</strong>. Arriscado. Faça um teste de encontro aleatório a cada 2 rodadas de exploração, ou caso os PJs façam algum barulho alto (1d6: 1 = encontro).</p><p><strong>Luz</strong>. Escuridão total, a menos que seja indicado o contrário. Todos os habitantes são adaptados à escuridão.</p><p><strong>Portas</strong>. Pedra. Chance de 1:6 de estarem emperradas. Destrancadas, a menos que seja indicado o contrário.</p><p><strong>PNJs</strong>. Consulte a @UUID[.ji9paT4DbaYTmMPm]{pág. 64} para ver os geradores de PNJs homens-fera e ettercap.</p><p><strong>O Minotauro Escarlate</strong>. Para cada vez que você rolar na tabela de Encontros Aleatórios após a primeira, aplique um <strong>modificador cumulativo de -2</strong> ao resultado (trate resultados abaixo de 1 como 1). Reinicie a contagem todas as vezes que um encontro com o Minotauro Escarlate ocorrer.</p><p>@UUID[Macro.uQOjVmE0co1U8yws]{Encontros Aleatórios}</p><table style=\"width:100%\"><caption>Encontros Aleatórios</caption><tbody><tr><td style=\"text-align:center\"><p>d8</p></td><td><p>Detalhes</p></td></tr><tr><td style=\"text-align:center\"><p>1</p></td><td><p>O <strong>@UUID[Actor.XPNU79kJyse04pL3]</strong> (Área 18) aparece, urrando em desafio e raspando os cascos no chão de pedra.</p></td></tr><tr><td style=\"text-align:center\"><p>2</p></td><td><p><strong>[[/r 1d4]] @UUID[Compendium.shadowdark.monsters.Actor.fcgq7uwsJEMMdRNx]</strong> e <strong>[[/r 1d8]]</strong> <strong>@UUID[Compendium.shadowdark.monsters.Actor.k8tAgECWIzPIStGU]</strong> lutam em um sangrento combate corpo a corpo.</p></td></tr><tr><td style=\"text-align:center\"><p>3</p></td><td><p>Uma rajada de vento seco apaga todas as tochas e lampiões.</p></td></tr><tr><td style=\"text-align:center\"><p>4</p></td><td><p><strong>[[/r 1d6]]</strong> <strong>@UUID[Compendium.shadowdark.monsters.Actor.fcgq7uwsJEMMdRNx]{Ettercaps}</strong> se movem cuidadosamente, procurando por ouro e pedras preciosas.</p></td></tr><tr><td style=\"text-align:center\"><p>5</p></td><td><p>Os <strong>@UUID[Compendium.shadowdark.monsters.Actor.cWzG0yEVgIk8ijk6]</strong> de <strong>[[/r 1d6]]</strong> exploradores mortos ou magos-guerreiros surgem cambaleando.</p></td></tr><tr><td style=\"text-align:center\"><p>6</p></td><td><p><strong>[[/r 2d4]]</strong> <strong>@UUID[Compendium.shadowdark.monsters.Actor.k8tAgECWIzPIStGU]{Homens-fera}</strong> discutem em sussurros sobre quem tem direito de comer as centopeias que eles acabaram de prender em um saco.</p></td></tr><tr><td style=\"text-align:center\"><p>7</p></td><td><p><strong>[[/r 1d4]]</strong> <strong>@UUID[Compendium.shadowdark.monsters.Actor.0JAEN5FsKjaXXZaA]</strong> mergulham no ar, flutuando e girando em uma dança de marcação territorial.</p></td></tr><tr><td style=\"text-align:center\"><p>8</p></td><td><p>Um <strong>@UUID[Compendium.shadowdark.monsters.Actor.j7sQ6Km2jSx5twCC]</strong> corre pelo teto em direção à luz.</p></td></tr></tbody></table>"
             },
             "Room 1: Mural Chamber": {
-              "name": "Sala 1: Câmara Do Mural",
+              "name": "Sala 1: Câmara do Mural",
               "text": "<p><strong>Paredes</strong>: murais do chão ao teto, pintados em tons vibrantes de pedras preciosas. <strong>Pilares Vermelhos</strong>: cônicos, com listras de mármore negro no topo e na base.</p><ul><li><p><strong>Murais</strong>. Pessoas de túnicas brancas, ajoelhadas em uma sala de pilares vermelhos, diante de um gigantesco touro de ônix com os chifres abaixados.</p><ul><li><p><strong>Nicho Oculto</strong>. Por trás da estátua do touro. @UUID[Item.r893z0hIf4LSdPs3]{Chifre de touro incrustado com prata} (30 PO).</p></li></ul></li><li><p><strong>PNJ Ettercap. Eska</strong> (esperto, desleal). Acabou de esconder uma pérola roubada na Área 2. Se esconde no canto nordeste do teto. Emite um grito de alerta e foge em direção à Área 4 se for atacado.</p><ul><li><p><strong>Fuga</strong>. Três ettercap da Área 4 armam uma <strong>emboscada</strong> na Área 2.</p></li></ul></li></ul>"
             },
             "Room 2: Blinding Cave": {
@@ -451,7 +451,7 @@
               "text": "<p><strong>Paredes e Chão</strong>: cobertos por grossas camadas de teias translúcidas.</p><ul><li><p><strong>Teias</strong>. Pegajosas. [[request 12 str]] para se soltar e se mover a cada turno. Altamente inflamáveis ([[/r 1d6]] de dano em criaturas presas, queimam por [[/r 1d4]] rodadas).</p><ul><li><p><strong>Pergaminho Enrolado</strong>. Preso em meio às teias, 3 m acima. <em>@UUID[Item.Jo88wNZQdCtvuuuS]{Pergaminho de Obstruir Porta}</em>.</p></li></ul></li><li><p><strong>Túnel Secreto</strong>. Oculto por uma parede de teias. Os ettercap o selam novamente a cada vez que o atravessam.</p><ul><li><p><strong>Sussurros</strong>. Ouvintes atentos escutam sussurros sibilantes e risos abafados vindos da Área 4.</p></li></ul></li></ul>"
             },
             "Room 4: Ettercap Nest": {
-              "name": "Sala 4: Ninho dos Ettercap",
+              "name": "Sala 4: Ninho dos Ettercaps",
               "text": "<p><strong>Criaturas</strong>: um grupo de humanoides de pelagem roxa, barrigudos e de pernas finas. Rosnando uns para os outros por causa de uma pérola desaparecida. <strong>Caverna</strong>: apertada, com teias de aranha por toda parte. <strong>Chão</strong>: pilhas organizadas de ouro e objetos reluzentes. <strong>Teto</strong>: baixo (3 m), com três aberturas estreitas (30 cm).</p><ul><li><p><strong>@UUID[Compendium.shadowdark.monsters.fcgq7uwsJEMMdRNx]</strong> Cinco. Três deles vão até a Área 2 se <strong>@UUID[Actor.QvVJAySJZMTMnEZp]{Eska}</strong> (Área 1) emitir o alerta. Podem negociar, mas são extremamente obcecados por tesouros. Se espremem para atravessar as aberturas do teto carregando o saque uns dos outros se forem sobrepujados.</p><ul><li><p><strong>PNJs</strong>. <strong>@UUID[Actor.1WXEDbF6gSa4fQUQ]{Skir}</strong> (animado, barulhento), <strong>@UUID[Actor.rok3i6Gy0RjoBgrq]{Yisha}</strong> (pequeno, sinistro), <strong>@UUID[Actor.82lFpkXeVpKnPWCQ]{Grisk}</strong> (velho, irritadiço), <strong>@UUID[Actor.eVuNGaceV93M5whd]{Uliss}</strong> (pesado, lento), <strong>@UUID[Actor.rh1ZgUTuHcwhlt4F]{Chee}</strong> (pelagem prateada, elegante).</p></li></ul></li><li><p><strong>Tesouro</strong>. 12 pilhas de valor semelhante (algumas pertencem aos errantes). <strong>Eska</strong> (Área 1) roubou uma pérola da pilha de <strong>Grisk</strong> e a escondeu na Área 2.</p><p><strong>Detalhes</strong>.</p><ul><li><p>200 PO,</p></li><li><p>2 x @UUID[Item.WKk0GVD1KHrI6fav]{pérolas} (40 PO cada)</p></li><li><p>@UUID[Item.TggK5foyVW9RXoHw]{estatueta de touro feita de alabastro} (20 PO),</p></li><li><p>2 x @UUID[Item.BjWjRaMBbsv50AjU]{incensários de prata} (15 PO cada),</p></li><li><p>@UUID[Item.U3dML6TSDUKJXBUh]{bracelete de cobra de jade} (20 PO),</p></li><li><p>@UUID[Item.iW6GTpg33QYMca8k]{colar com elos espessos de ouro} (30 PO).</p></li></ul></li></ul>"
             },
             "Room 5: Robing Chamber": {
@@ -515,11 +515,11 @@
               "text": "```html id=\"9qk2lz\" <p><strong>Criatura</strong>: humanoide desengonçado de pelagem cinzenta, caído de bruços. Saco de estopa com algo dentro, perto de sua mão. <strong>Paredes</strong>: baixos-relevos representando várias cenas com personagens humanos.</p> <ul> <li><p><strong>PNJ @UUID[Compendium.shadowdark.monsters.k8tAgECWIzPIStGU]. @UUID[Actor.XbO8sDu1ToDVVoh9]</strong> (frágil, apavorado). Caiu e bateu a cabeça ao fugir de um som. Acorda em [[/r 1d4]] rodadas.</p> <ul> <li><p><strong>Traços</strong>. Irmão mais novo desprezado de <strong>@UUID[Actor.bERcM50HvKw0ZY6o]</strong> (zona 23), líder dos homens-fera. Ingênuo e leal. Espera conquistar o afeto do irmão.</p></li> <li><p><strong>Saco de estopa</strong>. Dois ratos mortos, pescoço quebrado. Presente para Rogath.</p></li> </ul> </li> <li><p><strong>Gravuras</strong>. Cenas de acrobatas saltando sobre touros em investida e guerreiros se enfrentando em combates rituais.</p> <ul> <li><p><strong>Nicho escondido</strong>. Sob um acrobata. @UUID[Item.a69T3oP2oVH2yqMn]{Elmo com chifres de prata} (15 po).</p></li> </ul> </li> </ul> ```"
             },
             "Room 20: Mosaic Room": {
-              "name": "Sala 20: Salão Do Mosaico",
+              "name": "Sala 20: Salão do Mosaico",
               "text": "<p><strong>Sol</strong>: mosaico de azulejos em tons fortes de laranja, amarelo e vermelho, em um padrão de espiral.</p> <ul><li><p><strong>Mosaico</strong>. O padrão camufla uma <strong>@UUID[Compendium.shadowdark.monsters.QErMaMVIbddgk9MX] manchada</strong>. Sem uma inspeção cuidadosa, chance de 3:6 de pisar nela.</p></li></ul>"
             },
             "Room 21: Throne Chamber": {
-              "name": "Sala 21: Câmara Do Trono",
+              "name": "Sala 21: Câmara do Trono",
               "text": "<p><strong>Porta</strong>: bronze, adornada com um sol radiante. Trancada.</p><ul><li><p><strong>Porta</strong>. A chave está na zona 5. Cada tentativa fracassada de abri-la sem a chave a faz aquecer até ficar vermelha. 1 chance em 6 (cumulativa) de disparar três raios de fogo aleatórios ([[/r d20+4]]{ataque +4}, [[/r 2d6]] de dano cada).</p></li><li><p><strong>No interior</strong>. Trono de bronze com um esqueleto (não morto-vivo) empalado em uma lança dourada. Pilares vermelhos com inscrições em língua comum antiga.</p><ul><li><p><strong>Esqueleto</strong>. Sentado no trono (50 po, 2 espaços de inventário). Usa um diadema dourado com uma pérola (60 po). Mãos segurando uma <em>lança +1</em> chamada <em>@UUID[Item.cY0UIbpokdT448Pw]{Vigilante}</em>. Seu portador não pode ser surpreendido.</p></li><li><p><strong>Pilares</strong>. Listam os tributos pagos ao deus-touro Oros pelos reis-guerreiros. <strong>Damanthus, o Bravo</strong> deu ouro, <strong>Sarpen, o Sábio</strong> deu trigo, e <strong>Minoros, o Cruel</strong> deu sangue.</p></li></ul></li></ul>"
             },
             "Room 22: Labyrinth": {
@@ -543,7 +543,7 @@
               "text": "<p><strong>Alcovas</strong>: estátua de bronze de um homem em tamanho real sobre um pedestal em cada uma.</p><ul><li><p><strong>Estátuas</strong>. Atléticas, orgulhosas, com os mesmos rostos. Envoltas em mantos, usam @UUID[Item.xTOy6PVB5iu1asFa] com uma pérola (40 po cada). Cada uma segura uma arma.</p></li><li><p><strong>Inscrições</strong>. Em língua comum antiga. <strong>Damanthus</strong>, Filho de Aster ([[/r 1d12]]{espada grande}), <strong>Sarpen</strong>, Filho de Damanthus ([[/r 1d6]]{lança}), <strong>Minoros</strong>, Filho de Sarpen ([[/r 1d10]]{machado grande}).</p></li><li><p><strong>Diademas</strong>. Armadilhas. Se alguém tocar na pérola, a estátua ataca com sua arma ([[/r 1d20+5]]{ataque +5}).</p></li></ul>"
             },
             "Room 27: Sacrifice Cave": {
-              "name": "Sala 27: Caverna Do Sacrifício",
+              "name": "Sala 27: Caverna do Sacrifício",
               "text": "<p><strong>Caverna</strong>: gelada e úmida, teto alto (9 m). Estalactites gotejando. <strong>Bacia</strong>: água carmesim, turva e estagnada. <strong>Cheiro</strong>: cobre, com notas metálicas.</p><ul><li><p><strong>Espíritos</strong>. Dezenas de sombras humanoides fumacentas aparecem intermitentemente na borda das sombras. Se a <strong>luz</strong> se apagar, elas avançam sobre o grupo com uivos espectrais, causando [[/r 1d8]] de dano por rodada a cada PJ.</p></li><li><p><strong>Bacia</strong>. 6 m de profundidade. Água amaldiçoada e misturada com sangue. [[request 12 con]] a cada rodada de contato, ou perda de 1 ponto de SAB (recuperado após descanso). Se a SAB chegar a 0, o PJ entra em catatonia permanente.</p><ul><li><p><strong>No fundo</strong>. Cemitério de dezenas de esqueletos de humanos e touros. Entre eles, 200 po, uma <em>@UUID[Item.i3gSIEVGxXhlUkdn]</em>, três @UUID[Item.cFi2Wtbwz3qkiJMx] (15 po cada), <em>@UUID[Item.ip1i9MpeJeyf7ayu]</em>, e uma pequena garrafa contendo a alma de um feiticeiro chamado <strong>Malfune</strong>.</p></li></ul></li></ul>"
             },
             "Overview": {
