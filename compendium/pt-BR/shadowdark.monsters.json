@@ -83,14 +83,14 @@
         }
       },
       "moveNote": "voar",
-      "notes": "\n<p><i> Humanos serenos, esculpidos a partir do alabastro. Seus olhos são orbes dourados. </i></p>\n\t\n\t<p><strong>CA</strong> 16 (placas +1), <strong>PV</strong> 53, <strong>ATQ</strong> 3 espada bastarda prateada +9 (1d10), <strong>MV</strong> Perto x2 (voar), <strong>F</strong> +4, <strong>D</strong> +2, <strong>C</strong> +4, <strong>I</strong> +4, <strong>S</strong> +4, <strong>Car</strong> +4, <strong>AL</strong> O, <strong>NV</strong> 11</p>\n\t<p><strong>Aura do Luar</strong>. Magias hostis que\ntenham o principi como alvo têm CD 15.</p><p><strong>Visão Verdadeira</strong>. Pode ver todas as\ncriaturas e objetos invisíveis.</p>"
+      "notes": "\n<p><i> Humanos serenos, esculpidos a partir do alabastro. Seus olhos são orbes dourados. </i></p>\n\t\n\t<p><strong>CA</strong> 16 (placas +1), <strong>PV</strong> 53, <strong>ATQ</strong> 3 espada bastarda prateada +9 (1d10), <strong>MV</strong> Perto x2 (voar), <strong>F</strong> +4, <strong>D</strong> +2, <strong>C</strong> +4, <strong>I</strong> +4, <strong>S</strong> +4, <strong>Car</strong> +4, <strong>AL</strong> O, <strong>NV</strong> 11</p>\n\t<p><strong>Aura de Luar</strong>. Magias hostis que\ntenham o principi como alvo têm CD 15.</p><p><strong>Visão Verdadeira</strong>. Pode ver todas as\ncriaturas e objetos invisíveis.</p>"
     },
     "Angel, Seraph": {
       "name": "Anjo Serafim",
       "tokenName": "Anjo Serafim",
       "items": {
         "Longsword": {
-          "name": "Espada longa"
+          "name": "Espada Longa"
         },
         "Bless": {
           "name": "Bênção",
@@ -105,7 +105,7 @@
       "tokenName": "Armadura Animada",
       "items": {
         "Longsword": {
-          "name": "Espada longa"
+          "name": "Espada Longa"
         },
         "Statue": {
           "name": "Estátua",
@@ -306,7 +306,7 @@
           "name": "Clava"
         },
         "Shortbow": {
-          "name": "Arco curto"
+          "name": "Arco Curto"
         },
         "Ambush": {
           "name": "Emboscada",
@@ -357,7 +357,7 @@
       "notes": "\n<p><i> Mamífero com uma pele coriácea, do tamanho de uma águia, e que se alimenta de carne. </i></p>\n\t\n\t<p><strong>CA</strong> 12, <strong>PV</strong> 9, <strong>ATQ</strong> 1 mordida +2 (1d6), <strong>MV</strong> Perto (voar), <strong>F</strong> -1, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> -3, <strong>S</strong> +1, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 2</p>\n\t"
     },
     "Bat, Swarm": {
-      "name": "Morcegos, Nuvem de",
+      "name": "Nuvem de Morcegos",
       "tokenName": "Nuvem de Morcegos",
       "items": {
         "Bite": {
@@ -402,8 +402,8 @@
       "notes": "\n<p><i> Um poderoso urso branco que prospera em ambientes árticos. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 34, <strong>ATQ</strong> 2 garra +6 (2d6), <strong>MV</strong> Perto (escalar), <strong>F</strong> +4, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> -2, <strong>S</strong> +1, <strong>Car</strong> -2, <strong>AL</strong> N, <strong>NV</strong> 7</p>\n\t<p><strong>Esmagar</strong>. Causa um dado de dano extra se acertar o mesmo alvo com as duas garras.</p><p><strong>Pelagem Grossa</strong>. Imune ao frio.</p>"
     },
     "Beastman": {
-      "name": "Homem-fera",
-      "tokenName": "Homem-fera",
+      "name": "Homem-Fera",
+      "tokenName": "Homem-Fera",
       "items": {
         "Spear": {
           "name": "Lança"
@@ -420,7 +420,7 @@
       "tokenName": "Berserk",
       "items": {
         "Greataxe": {
-          "name": "Machado grande"
+          "name": "Machado Grande"
         },
         "Spear": {
           "name": "Lança"
@@ -589,7 +589,7 @@
           "name": "Lança"
         },
         "Longbow": {
-          "name": "Arco longo"
+          "name": "Arco Longo"
         }
       },
       "notes": "\n<p><i> Seres que vivem em rebanhos, com a parte superior do corpo de um humano e a parte inferior de um cavalo. </i></p>\n\n\t<p><strong>CA</strong> 12 (couro), <strong>PV</strong> 14, <strong>ATQ</strong> 2 lança (Adjacente/Perto) +2 (1d6) ou 1 arco longo (Longe) +1 (1d8), <strong>MV</strong> Perto x2, <strong>F</strong> +2, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> +0, <strong>S</strong> +2, <strong>Car</strong> +1, <strong>AL</strong> N, <strong>NV</strong> 3</p>\n\t"
@@ -611,7 +611,7 @@
       "notes": "\n<p><i> Centopeias vermelhas como sangue, cheias de penugens e do tamanho de um braço humano. Sua mordida injeta um veneno ardente que provoca cãibras musculares. </i></p>\n\t\n\t<p><strong>CA</strong> 11, <strong>PV</strong> 4, <strong>ATQ</strong> 1 mordida +1 (1d4 + veneno), <strong>MV</strong> Perto (escalar), <strong>F</strong> -3, <strong>D</strong> +1, <strong>C</strong> +0, <strong>I</strong> -4, <strong>S</strong> -3, <strong>Car</strong> -4, <strong>AL</strong> N, <strong>NV</strong> 1</p>\n\t<p><strong>Veneno</strong>. [[check 12 con]] ou paralisia por [[/r 1d4]] rodadas.</p>"
     },
     "Centipede, Swarm": {
-      "name": "Centopeias, Enxame de",
+      "name": "Enxame de Centopeias",
       "tokenName": "Enxame de Centopeias",
       "items": {
         "Bite": {
@@ -748,7 +748,7 @@
       "tokenName": "Cultista",
       "items": {
         "Longsword": {
-          "name": "Espada longa"
+          "name": "Espada Longa"
         },
         "Fearless": {
           "name": "Destemido",
@@ -766,7 +766,7 @@
       "tokenName": "Ciclope",
       "items": {
         "Greatclub": {
-          "name": "Clava grande"
+          "name": "Clava Grande"
         },
         "Rock": {
           "name": "Pedra"
@@ -797,19 +797,19 @@
           "name": "Lança"
         },
         "Sunblind": {
-          "name": "Cegado Pelo Sol",
+          "name": "Cegado pelo Sol",
           "description": "<p>Cego sob luz intensa.</p>"
         }
       },
       "moveNote": "nadar",
-      "notes": "\n<p><i> Seres aquáticos cultistas, anfíbios e de olhos bulbosos como peixes. Eles espreitam nas profundezas das águas e em cavernas sem luz. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 10, <strong>ATQ</strong> 2 lança (Adjacente/ Perto) +2 (1d6), <strong>MV</strong> Perto (nadar), <strong>F</strong> +2, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> -2, <strong>S</strong> +0, <strong>Car</strong> -2, <strong>AL</strong> C, <strong>NV</strong> 2</p>\n\t<p><strong> Cegado Pelo Sol</strong>. Cego sob luz intensa.</p>"
+      "notes": "\n<p><i> Seres aquáticos cultistas, anfíbios e de olhos bulbosos como peixes. Eles espreitam nas profundezas das águas e em cavernas sem luz. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 10, <strong>ATQ</strong> 2 lança (Adjacente/ Perto) +2 (1d6), <strong>MV</strong> Perto (nadar), <strong>F</strong> +2, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> -2, <strong>S</strong> +0, <strong>Car</strong> -2, <strong>AL</strong> C, <strong>NV</strong> 2</p>\n\t<p><strong> Cegado pelo Sol</strong>. Cego sob luz intensa.</p>"
     },
     "Demon, Balor": {
       "name": "Demônio Balor",
       "tokenName": "Demônio Balor",
       "items": {
         "Greatsword": {
-          "name": "Espada grande",
+          "name": "Espada Grande",
           "special": "Fogo do Inferno"
         },
         "Fire Whip": {
@@ -866,7 +866,7 @@
       "tokenName": "Marilith",
       "items": {
         "Longsword": {
-          "name": "Espada longa"
+          "name": "Espada Longa"
         },
         "Parry": {
           "name": "Aparar",
@@ -888,7 +888,7 @@
           "description": "<p>Todos os inimigos que estiverem a até Perto x2 têm DESV em testes e ataques por [[/r 1d4]] rodadas ([[check 12 wis]] para evitar).</p>"
         },
         "Carrion Mist": {
-          "name": "Névoa Fétida",
+          "name": "Névoa Pútrida",
           "description": "<p>Toda vez que o vrock é atingido, há uma chance de 3:6 de que ele emita uma névoa fétida em um cubo de tamanho Perto, centrada no vrock. Todos os inimigos sofrem de vômitos violentos por [[/r 1d4]] rodadas ([[check 15 con]] para evitar).</p>"
         }
       },
@@ -942,10 +942,10 @@
       "tokenName": "Erínia",
       "items": {
         "Greatsword": {
-          "name": "Espada grande"
+          "name": "Espada Grande"
         },
         "Longbow": {
-          "name": "Arco longo",
+          "name": "Arco Longo",
           "special": "Veneno"
         },
         "Poison": {
@@ -1098,7 +1098,7 @@
         }
       },
       "moveNote": "voar",
-      "notes": "\n<p><i> O cheiro de terra úmida acompanha este dragão. Suas escamas cor de jade são cobertas por espinhos farpados. </i></p>\n\t\n\t<p><strong>CA</strong> 16, <strong>PV</strong> 58, <strong>ATQ</strong> 3 despedaçar +8 (2d8) ou 1 sopro venenoso, <strong>MV</strong> Perto x2 (voar), <strong>F</strong> +4, <strong>D</strong> +3, <strong>C</strong> +4, <strong>I</strong> +3, <strong>S</strong> +3, <strong>Car</strong> +4, <strong>AL</strong> N, <strong>NV</strong> 12</p>\n\t<p><strong> Animar Plantas</strong>. \n1/dia, em vez de atacar. Vinhas agarram a todos os inimigos que estiverem Perto x2 do\ndragão. [[check 15 dex]] ou incapaz de se mover por [[/r 1d4]] rodadas.</p><p><strong>Sopro venenoso</strong>. Preenche um cubo de tamanho Perto que se estende a partir do dragão. [[check 15 con]] ou [[/r 3d8]] de dano.</p>"
+      "notes": "\n<p><i> O cheiro de terra úmida acompanha este dragão. Suas escamas cor de jade são cobertas por espinhos farpados. </i></p>\n\t\n\t<p><strong>CA</strong> 16, <strong>PV</strong> 58, <strong>ATQ</strong> 3 despedaçar +8 (2d8) ou 1 sopro venenoso, <strong>MV</strong> Perto x2 (voar), <strong>F</strong> +4, <strong>D</strong> +3, <strong>C</strong> +4, <strong>I</strong> +3, <strong>S</strong> +3, <strong>Car</strong> +4, <strong>AL</strong> N, <strong>NV</strong> 12</p>\n\t<p><strong> Animar Plantas</strong>. \n1/dia, em vez de atacar. Vinhas agarram a todos os inimigos que estiverem Perto x2 do\ndragão. [[check 15 dex]] ou incapaz de se mover por [[/r 1d4]] rodadas.</p><p><strong>Sopro Venenoso</strong>. Preenche um cubo de tamanho Perto que se estende a partir do dragão. [[check 15 con]] ou [[/r 3d8]] de dano.</p>"
     },
     "Dragon, Frost": {
       "name": "Dragão de Gelo",
@@ -1162,28 +1162,28 @@
           "special": "Veneno"
         },
         "Longsword": {
-          "name": "Espada longa"
+          "name": "Espada Longa"
         },
         "Poison": {
           "name": "Veneno",
           "description": "<p>[[check 15 con]] ou sono.</p>"
         },
         "Sunblind": {
-          "name": "Cegado Pelo Sol",
+          "name": "Cegado pelo Sol",
           "description": "<p>Cego sob luz intensa.</p>"
         }
       },
-      "notes": "\n<p><i> Um elfo gracioso e sombrio que salta\nsobre sua presa como uma aranha. </i></p>\n\t\n\t<p><strong>CA</strong> 16 (cota de malha de mitral), <strong>PV</strong> 9, <strong>ATQ</strong> 1 dardo venenoso (Perto) +3 (1d4 + veneno) ou 1 espada longa +1 (1d8), <strong>MV</strong> Perto, <strong>F</strong> +0, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> +1, <strong>S</strong> +1, <strong>Car</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 2</p>\n\t<p><strong> Veneno</strong>. [[check 15 con]] ou sono.</p><p><strong>Cegado Pelo Sol</strong>. Cego sob luz intensa.</p>"
+      "notes": "\n<p><i> Um elfo gracioso e sombrio que salta\nsobre sua presa como uma aranha. </i></p>\n\t\n\t<p><strong>CA</strong> 16 (cota de malha de mitral), <strong>PV</strong> 9, <strong>ATQ</strong> 1 dardo venenoso (Perto) +3 (1d4 + veneno) ou 1 espada longa +1 (1d8), <strong>MV</strong> Perto, <strong>F</strong> +0, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> +1, <strong>S</strong> +1, <strong>Car</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 2</p>\n\t<p><strong> Veneno</strong>. [[check 15 con]] ou sono.</p><p><strong>Cegado pelo Sol</strong>. Cego sob luz intensa.</p>"
     },
     "Drow, Drider": {
       "name": "Drider",
       "tokenName": "Drider",
       "items": {
         "Longsword": {
-          "name": "Espada longa"
+          "name": "Espada Longa"
         },
         "Longbow": {
-          "name": "Arco longo",
+          "name": "Arco Longo",
           "special": "Veneno"
         },
         "Poison": {
@@ -1191,12 +1191,12 @@
           "description": "<p>[[check 15 con]] ou paralisia por [[/r 1d4]] rounds.</p>"
         },
         "Sunblind": {
-          "name": "Cegado Pelo Sol",
+          "name": "Cegado pelo Sol",
           "description": "<p>Cego sob luz intensa.</p>"
         }
       },
       "moveNote": "escalar",
-      "notes": "\n<p><i> Uma monstruosidade com o corpo\nde uma aranha gigante e o tronco de um drow. </i></p>\n\t\n\t<p><strong>CA</strong> 16 (cota de malha de mitral), <strong>PV</strong> 29, <strong>ATQ</strong> 3 espada longa +3 (1d8) ou 2 arco longo (Longe) +3 (1d8 + veneno), <strong>MV</strong> Perto (escalar), <strong>F</strong> +3, <strong>D</strong> +3, <strong>C</strong> +2, <strong>I</strong> +2, <strong>S</strong> +2, <strong>Car</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 6</p>\n\t<p><strong> Veneno</strong>. [[check 15 con]] ou paralisia por [[/r 1d4]] rounds.</p><p><strong>Cegado Pelo Sol</strong>. Cego sob luz intensa.</p>"
+      "notes": "\n<p><i> Uma monstruosidade com o corpo\nde uma aranha gigante e o tronco de um drow. </i></p>\n\t\n\t<p><strong>CA</strong> 16 (cota de malha de mitral), <strong>PV</strong> 29, <strong>ATQ</strong> 3 espada longa +3 (1d8) ou 2 arco longo (Longe) +3 (1d8 + veneno), <strong>MV</strong> Perto (escalar), <strong>F</strong> +3, <strong>D</strong> +3, <strong>C</strong> +2, <strong>I</strong> +2, <strong>S</strong> +2, <strong>Car</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 6</p>\n\t<p><strong> Veneno</strong>. [[check 15 con]] ou paralisia por [[/r 1d4]] rounds.</p><p><strong>Cegado pelo Sol</strong>. Cego sob luz intensa.</p>"
     },
     "Drow, Priestess": {
       "name": "Sacerdotisa Drow",
@@ -1211,7 +1211,7 @@
           "description": "<p>[[check 15 con]] ou paralisia por [[/r 1d4]] rodadas.</p>"
         },
         "Sunblind": {
-          "name": "Cegada Pelo Sol",
+          "name": "Cegada pelo Sol",
           "description": "<p>Cega sob luz intensa.</p>"
         },
         "Snuff": {
@@ -1227,7 +1227,7 @@
           "description": "<p>CD 13. Um cubo de tamanho Perto, dentro do alcance Longe, imobiliza todos que estiverem dentro dele por 5 rodadas. [[check 15 str]] em seu turno para se libertar.</p>"
         }
       },
-      "notes": "<p><i> Uma drow majestosa com uma coroa feita de teias metálicas e um olhar arrogante. </i></p>\n\t\n\t<p><strong>CA</strong> 16 (cota de malha de mitral), <strong>PV</strong> 28, <strong>ATQ</strong> 3 chicote de serpente (Perto) +4 (1d8 + veneno) ou 1 magia +4, <strong>MV</strong> Perto, <strong>F</strong> +2, <strong>D</strong> +3, <strong>C</strong> +1, <strong>I</strong> +3, <strong>S</strong> +4, <strong>Car</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 6</p>\n\t<p><strong> Veneno</strong>. [[check 15 con]] ou paralisia por\n[[/r 1d4]] rodadas.</p><p><strong>Cegada Pelo Sol</strong>. Cega sob luz intensa.</p><p><strong>Extinguir (Magia de SAB)</strong>. CD 12. Apaga todas as fontes de luz (até mesmo mágicas) que estiverem Perto.</p><p><strong>Invocar Aranhas (Magia de SAB)</strong>. CD 14. Invoca [[/r 2d4]] aranhas gigantes leais que aparecem Perto da sacerdotisa. Elas permanecem por 5 rodadas.</p><p><strong>Teia (Magia de SAB)</strong>. CD 13. Um cubo de tamanho Perto, dentro do alcance Longe, imobiliza todos que estiverem dentro dele por 5 rodadas. [[check 15 str]] em seu turno para se libertar.</p>"
+      "notes": "<p><i> Uma drow majestosa com uma coroa feita de teias metálicas e um olhar arrogante. </i></p>\n\t\n\t<p><strong>CA</strong> 16 (cota de malha de mitral), <strong>PV</strong> 28, <strong>ATQ</strong> 3 chicote de serpente (Perto) +4 (1d8 + veneno) ou 1 magia +4, <strong>MV</strong> Perto, <strong>F</strong> +2, <strong>D</strong> +3, <strong>C</strong> +1, <strong>I</strong> +3, <strong>S</strong> +4, <strong>Car</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 6</p>\n\t<p><strong> Veneno</strong>. [[check 15 con]] ou paralisia por\n[[/r 1d4]] rodadas.</p><p><strong>Cegada pelo Sol</strong>. Cega sob luz intensa.</p><p><strong>Extinguir (Magia de SAB)</strong>. CD 12. Apaga todas as fontes de luz (até mesmo mágicas) que estiverem Perto.</p><p><strong>Invocar Aranhas (Magia de SAB)</strong>. CD 14. Invoca [[/r 2d4]] aranhas gigantes leais que aparecem Perto da sacerdotisa. Elas permanecem por 5 rodadas.</p><p><strong>Teia (Magia de SAB)</strong>. CD 13. Um cubo de tamanho Perto, dentro do alcance Longe, imobiliza todos que estiverem dentro dele por 5 rodadas. [[check 15 str]] em seu turno para se libertar.</p>"
     },
     "Druid": {
       "name": "Druida",
@@ -1237,7 +1237,7 @@
           "name": "Cajado"
         },
         "Barkskin": {
-          "name": "Pele-casca",
+          "name": "Pele-Casca",
           "description": "<p>Pessoal. CD 13. CA se torna 15 por 5 rodadas.</p>"
         },
         "Conjure Flames": {
@@ -1257,7 +1257,7 @@
           "description": "<p>CD 13. Preenche um cubo de tamanho Perto que se estende a partir do druida. Criaturas dentro do cubo são arremessadas por [[/r 1d12]] metros em uma direção aleatória.</p>"
         }
       },
-      "notes": "\n<p><i> Um mago de áreas selvagens empunhando um cajado e usando um manto musgoso com um tom verde-azulado escuro. </i></p>\n\t\n\t<p><strong>CA</strong> 11, <strong>PV</strong> 31, <strong>ATQ</strong> 1 cajado +0 (1d4) ou 2 magia +5, <strong>MV</strong> Perto, <strong>F</strong> +0, <strong>D</strong> +1, <strong>C</strong> +0, <strong>I</strong> +4, <strong>S</strong> +3, <strong>Car</strong> +0, <strong>AL</strong> N, <strong>NV</strong> 7</p>\n\t<p><strong> Pele-casca (Magia de INT)</strong>. Pessoal. CD 13. CA se torna 15 por 5 rodadas.</p><p><strong>Conjurar Chamas (Magia de INT)</strong>. CD 12. Um alvo que esteja Longe sofre [[/r 2d6]] de dano.</p><p><strong>Imbuir (Magia de INT)</strong>. Pessoal. CD 13. Seu cajado se torna uma arma mágica +3 por 10 rodadas.</p><p><strong>Invocar Urso (Magia de INT)</strong>. CD 14. Invoca um urso pardo leal, que surge Perto do druida e permanece por 5 rodadas.</p><p><strong>Impacto Trovejante (Magia de INT)</strong>. CD 13. Preenche um cubo de tamanho Perto que se estende a partir do druida. Criaturas dentro do cubo são arremessadas por [[/r 1d12]] metros em uma direção aleatória.</p>"
+      "notes": "\n<p><i> Um mago de áreas selvagens empunhando um cajado e usando um manto musgoso com um tom verde-azulado escuro. </i></p>\n\t\n\t<p><strong>CA</strong> 11, <strong>PV</strong> 31, <strong>ATQ</strong> 1 cajado +0 (1d4) ou 2 magia +5, <strong>MV</strong> Perto, <strong>F</strong> +0, <strong>D</strong> +1, <strong>C</strong> +0, <strong>I</strong> +4, <strong>S</strong> +3, <strong>Car</strong> +0, <strong>AL</strong> N, <strong>NV</strong> 7</p>\n\t<p><strong> Pele-Casca (Magia de INT)</strong>. Pessoal. CD 13. CA se torna 15 por 5 rodadas.</p><p><strong>Conjurar Chamas (Magia de INT)</strong>. CD 12. Um alvo que esteja Longe sofre [[/r 2d6]] de dano.</p><p><strong>Imbuir (Magia de INT)</strong>. Pessoal. CD 13. Seu cajado se torna uma arma mágica +3 por 10 rodadas.</p><p><strong>Invocar Urso (Magia de INT)</strong>. CD 14. Invoca um urso pardo leal, que surge Perto do druida e permanece por 5 rodadas.</p><p><strong>Impacto Trovejante (Magia de INT)</strong>. CD 13. Preenche um cubo de tamanho Perto que se estende a partir do druida. Criaturas dentro do cubo são arremessadas por [[/r 1d12]] metros em uma direção aleatória.</p>"
     },
     "Dryad": {
       "name": "Dríade",
@@ -1293,11 +1293,11 @@
           "description": "<p>1/dia, torna-se invisível por 3 rodadas. Se encerra se o duergar atacar.</p>"
         },
         "Sunblind": {
-          "name": "Cegado Pelo Sol",
+          "name": "Cegado pelo Sol",
           "description": "<p>Cego sob luz intensa.</p>"
         }
       },
-      "notes": "\n<p><i> Anões gananciosos de pele cinza, sem cabelos e de barbas brancas. Eles vivem em castelos sombrios nas profundezas da terra, cheios de tesouros roubados e prisioneiros escravizados. </i></p>\n\t\n\t<p><strong>CA</strong> 15 (cota de malha + escudo), <strong>PV</strong> 12, <strong>ATQ</strong> 1 picareta de guerra +2 (1d6), <strong>MV</strong> Perto, <strong>F</strong> +2, <strong>D</strong> +0, <strong>C</strong> +3, <strong>I</strong> +0, <strong>S</strong> -1, <strong>Car</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 2</p>\n\t<p><strong> Aumentar</strong>. 1/dia, +1d6 de dano em ataques corpo a corpo e VANT em testes de FOR por 3 rodadas.</p><p><strong>Invisibilidade</strong>. 1/dia, torna-se invisível por 3 rodadas. Se encerra se o duergar atacar.</p><p><strong>Cegado Pelo Sol</strong>. Cego sob luz intensa.</p>"
+      "notes": "\n<p><i> Anões gananciosos de pele cinza, sem cabelos e de barbas brancas. Eles vivem em castelos sombrios nas profundezas da terra, cheios de tesouros roubados e prisioneiros escravizados. </i></p>\n\t\n\t<p><strong>CA</strong> 15 (cota de malha + escudo), <strong>PV</strong> 12, <strong>ATQ</strong> 1 picareta de guerra +2 (1d6), <strong>MV</strong> Perto, <strong>F</strong> +2, <strong>D</strong> +0, <strong>C</strong> +3, <strong>I</strong> +0, <strong>S</strong> -1, <strong>Car</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 2</p>\n\t<p><strong> Aumentar</strong>. 1/dia, +1d6 de dano em ataques corpo a corpo e VANT em testes de FOR por 3 rodadas.</p><p><strong>Invisibilidade</strong>. 1/dia, torna-se invisível por 3 rodadas. Se encerra se o duergar atacar.</p><p><strong>Cegado pelo Sol</strong>. Cego sob luz intensa.</p>"
     },
     "Dung Beetle, Giant": {
       "name": "Besouro de Esterco Gigante",
@@ -1357,7 +1357,7 @@
         }
       },
       "moveNote": "voar",
-      "notes": "<p><i> Um tornado de vento uivante. </i></p>\n\t\n\t<p><strong>CA</strong> 16, <strong>PV</strong> 42, <strong>ATQ</strong> 3 pancada +7 (3d6) ou 1 tornado, <strong>MV</strong> Perto x2 (voar), <strong>F</strong> +3, <strong>D</strong> +5, <strong>C</strong> +2, <strong>I</strong> -2, <strong>S</strong> +1, <strong>Car</strong> -2, <strong>AL</strong> N, <strong>NV</strong> 9</p>\n\t<p><strong> Invulnerável</strong>.  Só pode ser ferido por fontes de dano mágicas.</p><p><strong>Tornado</strong>. \nTodos que estiverem Adjacente são arremessados por [[/r 1d12]] metros em uma direção aleatória ([[check 15 dex]] para evitar).</p>"
+      "notes": "<p><i> Um tornado de vento uivante. </i></p>\n\t\n\t<p><strong>CA</strong> 16, <strong>PV</strong> 42, <strong>ATQ</strong> 3 pancada +7 (3d6) ou 1 tornado, <strong>MV</strong> Perto x2 (voar), <strong>F</strong> +3, <strong>D</strong> +5, <strong>C</strong> +2, <strong>I</strong> -2, <strong>S</strong> +1, <strong>Car</strong> -2, <strong>AL</strong> N, <strong>NV</strong> 9</p>\n\t<p><strong> Invulnerável</strong>.  Só pode ser ferido por fontes de dano mágicas.</p><p><strong>Redemoinho</strong>. \nTodos que estiverem Adjacente são arremessados por [[/r 1d12]] metros em uma direção aleatória ([[check 15 dex]] para evitar).</p>"
     },
     "Elemental, Air (Lesser)": {
       "name": "Elemental de Ar (Menor)",
@@ -1511,10 +1511,10 @@
       "tokenName": "Elfo",
       "items": {
         "Longbow": {
-          "name": "Arco longo"
+          "name": "Arco Longo"
         },
         "Longsword": {
-          "name": "Espada longa"
+          "name": "Espada Longa"
         },
         "Feyblood": {
           "name": "Sangue Feérico",
@@ -1616,7 +1616,7 @@
           "special": "Paralisia"
         },
         "Undead": {
-          "name": "Morto-vivo",
+          "name": "Morto-Vivo",
           "description": "<p>Imune a testes de moral.</p>"
         },
         "Carrion Stench": {
@@ -1628,7 +1628,7 @@
           "description": "<p>[[check 12 con]] ou paralisia por [[/r 1d4]] rodadas.</p>"
         }
       },
-      "notes": "\n<p><i> Carniçais superiores, que mantiveram a inteligência que possuíam em vida </i></p>\n\t\n\t<p><strong>CA</strong> 11, <strong>PV</strong> 20, <strong>ATQ</strong> 2 garra +4 (1d8 + paralisia), <strong>MV</strong> Perto, <strong>F</strong> +3, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> +0, <strong>S</strong> +0, <strong>Car</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 4</p>\n\t<p><strong> Morto-vivo</strong>. Imune a testes de moral.</p><p><strong>Fedor de Carniça</strong>. Criaturas vivas têm DESV em ataques e conjuração de magias por 5 rodadas na primeira vez que chegarem Perto ([[check 12 con]] para evitar).</p><p><strong>Paralisia</strong>. [[check 12 con]] ou paralisia por [[/r 1d4]] rodadas.</p>"
+      "notes": "\n<p><i> Carniçais superiores, que mantiveram a inteligência que possuíam em vida </i></p>\n\t\n\t<p><strong>CA</strong> 11, <strong>PV</strong> 20, <strong>ATQ</strong> 2 garra +4 (1d8 + paralisia), <strong>MV</strong> Perto, <strong>F</strong> +3, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> +0, <strong>S</strong> +0, <strong>Car</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 4</p>\n\t<p><strong> Morto-Vivo</strong>. Imune a testes de moral.</p><p><strong>Fedor de Carniça</strong>. Criaturas vivas têm DESV em ataques e conjuração de magias por 5 rodadas na primeira vez que chegarem Perto ([[check 12 con]] para evitar).</p><p><strong>Paralisia</strong>. [[check 12 con]] ou paralisia por [[/r 1d4]] rodadas.</p>"
     },
     "Ghost": {
       "name": "Fantasma",
@@ -1643,7 +1643,7 @@
           "description": "<p>Precisa estar corpóreo. Um alvo, alcance Adjacente. Teste disputado de Carisma. Se o fantasma vencer, ele possui o corpo do alvo e controla suas ações por [[/r 2d4]] rodadas.</p>"
         },
         "Greater Undead": {
-          "name": "Morto-vivo Maior",
+          "name": "Morto-Vivo Maior",
           "description": "<p>Imune a testes de moral. Só pode ser ferido por prata ou fontes de dano mágicas.</p>"
         },
         "Incorporeal": {
@@ -1656,7 +1656,7 @@
         }
       },
       "moveNote": "voar",
-      "notes": "\n<p><i> Um espírito flutuante com feições\ndistorcidas pelo ódio ou pela tristeza. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 27, <strong>ATQ</strong> 2 toque da morte +5 (1d8 + drenar vida) ou 1 possessão, <strong>MV</strong> Perto (voar), <strong>F</strong> -2, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> +0, <strong>S</strong> +0, <strong>Car</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 6</p>\n\t<p><strong> Morto-vivo Maior</strong>. Imune a testes de moral. Só pode ser ferido por prata ou fontes de dano mágicas.</p><p><strong>Incorpóreo</strong>. Em vez de atacar, pode se tornar corpóreo ou incorpóreo.</p><p><strong>Drenar Vida</strong>. [[/r 1d4]] de dano de CON. Morre se reduzido a 0 CON.</p><p><strong>Possessão</strong>. Precisa estar corpóreo. Um alvo, alcance Adjacente. Teste disputado de Carisma. Se o fantasma vencer, ele possui o corpo do alvo e controla suas ações por [[/r 2d4]] rodadas.</p>"
+      "notes": "\n<p><i> Um espírito flutuante com feições\ndistorcidas pelo ódio ou pela tristeza. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 27, <strong>ATQ</strong> 2 toque da morte +5 (1d8 + drenar vida) ou 1 possessão, <strong>MV</strong> Perto (voar), <strong>F</strong> -2, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> +0, <strong>S</strong> +0, <strong>Car</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 6</p>\n\t<p><strong> Morto-Vivo Maior</strong>. Imune a testes de moral. Só pode ser ferido por prata ou fontes de dano mágicas.</p><p><strong>Incorpóreo</strong>. Em vez de atacar, pode se tornar corpóreo ou incorpóreo.</p><p><strong>Drenar Vida</strong>. [[/r 1d4]] de dano de CON. Morre se reduzido a 0 CON.</p><p><strong>Possessão</strong>. Precisa estar corpóreo. Um alvo, alcance Adjacente. Teste disputado de Carisma. Se o fantasma vencer, ele possui o corpo do alvo e controla suas ações por [[/r 2d4]] rodadas.</p>"
     },
     "Ghoul": {
       "name": "Carniçal",
@@ -1667,7 +1667,7 @@
           "special": "Paralisia"
         },
         "Undead": {
-          "name": "Morto-vivo",
+          "name": "Morto-Vivo",
           "description": "<p>Imune a testes de moral.</p>"
         },
         "Paralyze": {
@@ -1675,7 +1675,7 @@
           "description": "<p>[[check 12 con]] ou paralisia por [[/r 1d4]] rodada.</p>"
         }
       },
-      "notes": "\n<p><i> Mortos-vivos escravizados de pele acinzentada, com línguas pingando saliva e rostos achatados e reptilianos. </i></p>\n\t\n\t<p><strong>CA</strong> 11, <strong>PV</strong> 11, <strong>ATQ</strong> 1 garra +2 (1d6 + paralisia), <strong>MV</strong> Perto, <strong>F</strong> +2, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> -3, <strong>S</strong> -1, <strong>Car</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 2</p>\n\t<p><strong> Morto-vivo</strong>. Imune a testes de moral.</p><p><strong>Paralisia</strong>. [[check 12 con]] ou paralisia por [[/r 1d4]] rodada.</p>"
+      "notes": "\n<p><i> Mortos-vivos escravizados de pele acinzentada, com línguas pingando saliva e rostos achatados e reptilianos. </i></p>\n\t\n\t<p><strong>CA</strong> 11, <strong>PV</strong> 11, <strong>ATQ</strong> 1 garra +2 (1d6 + paralisia), <strong>MV</strong> Perto, <strong>F</strong> +2, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> -3, <strong>S</strong> -1, <strong>Car</strong> +0, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 2</p>\n\t<p><strong> Morto-Vivo</strong>. Imune a testes de moral.</p><p><strong>Paralisia</strong>. [[check 12 con]] ou paralisia por [[/r 1d4]] rodada.</p>"
     },
     "Giant, Cloud": {
       "name": "Gigante das Nuvens",
@@ -1696,7 +1696,7 @@
       "tokenName": "Gigante de Fogo",
       "items": {
         "Greatsword": {
-          "name": "Espada grande"
+          "name": "Espada Grande"
         },
         "Fireblood": {
           "name": "Sangue de Fogo",
@@ -1710,7 +1710,7 @@
       "tokenName": "Gigante de Gelo",
       "items": {
         "Greataxe": {
-          "name": "Machado grande"
+          "name": "Machado Grande"
         },
         "Frostblood": {
           "name": "Sangue de Gelo",
@@ -1720,11 +1720,11 @@
       "notes": "\n<p><i> Guerreiros de pele azulada, ombros largos e cabelos trançados. Eles tocam trombetas de guerra durante seus frequentes ataques para saquear os assentamentos próximos. </i></p>\n\t\n\t<p><strong>CA</strong> 14 (cota de malha), <strong>PV</strong> 44, <strong>ATQ</strong> 3 machado grande +8 (2d10), <strong>MV</strong> Perto x2, <strong>F</strong> +5, <strong>D</strong> +1, <strong>C</strong> +4, <strong>I</strong> +2, <strong>S</strong> +3, <strong>Car</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 9</p>\n\t<p><strong> Sangue de Gelo</strong>. Imune ao frio.</p>"
     },
     "Giant, Goat": {
-      "name": "Gigante-bode",
-      "tokenName": "Gigante-bode",
+      "name": "Gigante-Bode",
+      "tokenName": "Gigante-Bode",
       "items": {
         "Greatclub": {
-          "name": "Clava grande"
+          "name": "Clava Grande"
         },
         "Boulder": {
           "name": "Pedra"
@@ -1738,7 +1738,7 @@
       "tokenName": "Gigante da Colina",
       "items": {
         "Greatclub": {
-          "name": "Clava grande"
+          "name": "Clava Grande"
         },
         "Boulder": {
           "name": "Pedra"
@@ -1751,7 +1751,7 @@
       "tokenName": "Gigante de Pedra",
       "items": {
         "Greatclub": {
-          "name": "Clava grande"
+          "name": "Clava Grande"
         },
         "Boulder": {
           "name": "Pedra"
@@ -1768,7 +1768,7 @@
       "tokenName": "Gigante da Tempestade",
       "items": {
         "Greatsword": {
-          "name": "Espada grande"
+          "name": "Espada Grande"
         },
         "Lightning Bolt": {
           "name": "Relâmpago",
@@ -1807,7 +1807,7 @@
       "tokenName": "Gladiador",
       "items": {
         "Longsword": {
-          "name": "Espada longa"
+          "name": "Espada Longa"
         },
         "Spear": {
           "name": "Lança"
@@ -1823,7 +1823,7 @@
           "name": "Lança"
         },
         "Longbow": {
-          "name": "Arco longo"
+          "name": "Arco Longo"
         },
         "Rage": {
           "name": "Fúria",
@@ -1857,7 +1857,7 @@
           "name": "Clava"
         },
         "Shortbow": {
-          "name": "Arco curto"
+          "name": "Arco Curto"
         },
         "Keen Senses": {
           "name": "Sentidos Aguçados",
@@ -1867,8 +1867,8 @@
       "notes": "\n<p><i> Um humanoide baixo e sem cabelos, com pele verde e orelhas pontudas. </i></p>\n\t\n\t<p><strong>CA</strong> 11, <strong>PV</strong> 5, <strong>ATQ</strong> 1 clava +0 (1d4) ou 1 arco curto (Longe) +1 (1d4), <strong>MV</strong> Perto, <strong>F</strong> +0, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> -1, <strong>S</strong> -1, <strong>Car</strong> -2, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 1</p>\n\t<p><strong> Sentidos Aguçados</strong>. Não pode ser surpreendido.</p>"
     },
     "Goblin, Boss": {
-      "name": "Goblin-chefe",
-      "tokenName": "Goblin-chefe",
+      "name": "Goblin-Chefe",
+      "tokenName": "Goblin-Chefe",
       "items": {
         "Spear": {
           "name": "Lança"
@@ -1987,14 +1987,14 @@
         },
         "Charge": {
           "name": "Investida",
-          "description": "<p>Move-se a distância Perto x2 em linha reta, e faz 1 ataque de chifres. Se acertar, o dano é triplicado.</p>"
+          "description": "<p>Move-se a distância Perto x2 em linha reta, e faz 1 ataque de chifre. Se acertar, o dano é triplicado.</p>"
         },
         "Petrifying Breath": {
           "name": "Sopro Petrificante",
           "description": "<p>Preenche um cubo de tamanho Perto que se estende a partir do górgon. [[check 15 con]] ou petrificação (o górgon é imune).</p>"
         }
       },
-      "notes": "\n<p><i> Um touro bufando, feito inteiramente de placas de ferro. Suas narinas emitem uma nuvem de névoa verde. </i></p>\n\t\n\t<p><strong>CA</strong> 18, <strong>PV</strong> 33, <strong>ATQ</strong> 2 chifres +6 (2d8) ou 1 investida ou 1 sopro petrificante, <strong>MV</strong> Perto x2, <strong>F</strong> +4, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> -3, <strong>S</strong> +1, <strong>Car</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 7</p>\n\t<p><strong> Investida</strong>. Move-se a distância Perto x2 em linha reta, e faz 1 ataque de chifres. Se acertar, o dano é triplicado.</p><p><strong>Sopro Petrificante</strong>. Preenche um cubo de tamanho Perto que se estende a partir do górgon. [[check 15 con]] ou petrificação (o górgon é imune).</p>"
+      "notes": "\n<p><i> Um touro bufando, feito inteiramente de placas de ferro. Suas narinas emitem uma nuvem de névoa verde. </i></p>\n\t\n\t<p><strong>CA</strong> 18, <strong>PV</strong> 33, <strong>ATQ</strong> 2 chifres +6 (2d8) ou 1 investida ou 1 sopro petrificante, <strong>MV</strong> Perto x2, <strong>F</strong> +4, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> -3, <strong>S</strong> +1, <strong>Car</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 7</p>\n\t<p><strong> Investida</strong>. Move-se a distância Perto x2 em linha reta, e faz 1 ataque de chifre. Se acertar, o dano é triplicado.</p><p><strong>Sopro Petrificante</strong>. Preenche um cubo de tamanho Perto que se estende a partir do górgon. [[check 15 con]] ou petrificação (o górgon é imune).</p>"
     },
     "Gorilla": {
       "name": "Gorila",
@@ -2082,7 +2082,7 @@
           "name": "Lança"
         },
         "Longsword": {
-          "name": "Espada longa"
+          "name": "Espada Longa"
         }
       },
       "notes": "\n<p><i> Um sentinela equipado com armas e\narmaduras resistentes. </i></p>\n\t\n\t<p><strong>CA</strong> 15 (cota de malha + escudo), <strong>PV</strong> 4, <strong>ATQ</strong> 1 lança (Adjacente/Perto) +1 (1d6) ou 1 espada longa +1 (1d8), <strong>MV</strong> Perto, <strong>F</strong> +1, <strong>D</strong> +0, <strong>C</strong> +0, <strong>I</strong> +0, <strong>S</strong> +1, <strong>Car</strong> +0, <strong>AL</strong> O, <strong>NV</strong> 1</p>\n\t"
@@ -2132,7 +2132,7 @@
           "name": "Garra"
         },
         "Drink Pain": {
-          "name": "Consumir a dor",
+          "name": "Consumir a Dor",
           "description": "<p>Alcance Perto. [[check 12 cha]] para causar [[/r 2d4]] de dano a uma criatura; recupera essa mesma quantidade de PV.</p>"
         },
         "Shapechange": {
@@ -2206,10 +2206,10 @@
       "tokenName": "Hobgoblin",
       "items": {
         "Longsword": {
-          "name": "Espada longa"
+          "name": "Espada Longa"
         },
         "Longbow": {
-          "name": "Arco longo"
+          "name": "Arco Longo"
         },
         "Phalanx": {
           "name": "Falange",
@@ -2248,7 +2248,7 @@
       "tokenName": "Perseguidor Invisível",
       "items": {
         "Pummel": {
-          "name": "Golpe de vento"
+          "name": "Golpe de Vento"
         },
         "Bound": {
           "name": "Vinculado",
@@ -2267,8 +2267,8 @@
       "notes": "\n<p><i> Criaturas inteligentes feitas de ar em movimento. Frequentemente estão presas ao comando de feiticeiros malignos devido à sua incomparável habilidade de rastreamento. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 29, <strong>ATQ</strong> 3 golde de vento +4 (1d6), <strong>MV</strong> Perto (voar), <strong>F</strong> +2, <strong>D</strong> +3, <strong>C</strong> +2, <strong>I</strong> +2, <strong>S</strong> +1, <strong>Car</strong> +0, <strong>AL</strong> N, <strong>NV</strong> 6</p>\n\t<p><strong>Vinculado</strong>. Uma contingência secreta e mundana (como o toque de uma pena) encerra a servidão mágica do perseguidor invisível.</p><p><strong>Invisível</strong>. Naturalmente invisível.</p><p><strong>Perseguidor</strong>. Sempre consegue sentir qual a direção atual do alvo escolhido.</p>"
     },
     "Jellyfish": {
-      "name": "Água-viva",
-      "tokenName": "Água-viva",
+      "name": "Água-Viva",
+      "tokenName": "Água-Viva",
       "items": {
         "Sting": {
           "name": "Queimadura",
@@ -2287,7 +2287,7 @@
       "tokenName": "Cavaleiro",
       "items": {
         "Bastard Sword": {
-          "name": "Espada bastarda"
+          "name": "Espada Bastarda"
         },
         "Oath": {
           "name": "Juramento",
@@ -2412,7 +2412,7 @@
           "special": "Paralisia"
         },
         "Supreme Undead": {
-          "name": "Morto-vivo Superior",
+          "name": "Morto-Vivo Superior",
           "description": "<p>Imune a testes de moral. Só pode ser ferido por fontes de dano mágicas.</p>"
         },
         "Phylactery": {
@@ -2444,7 +2444,7 @@
           "description": "<p>CD 14. [[/r 4d8]] de dano contra inimigos que estejam dentro de um cubo de tamanho Perto centrado no lich.</p>"
         }
       },
-      "notes": "\n<p><i> Um mago que completou um ritual necromântico para se tornar um poderoso feiticeiro morto-vivo. Seu corpo definhado é envolto por trajes de seda desgastados, e seus olhos são ardentes luzes vermelhas. </i></p>\n\t\n\t<p><strong>CA</strong> 16, <strong>PV</strong> 62, <strong>ATQ</strong> 2 toque +6 (2d8 + paralisia) e 2 magia +7, <strong>MV</strong> Perto, <strong>F</strong> +3, <strong>D</strong> +1, <strong>C</strong> +4, <strong>I</strong> +4, <strong>S</strong> +3, <strong>Car</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 13</p>\n\t<p><strong>Morto-vivo Superior</strong>. Imune a testes de moral. Só pode ser ferido por fontes de dano mágicas.</p><p><strong>Filactério</strong>. Não pode ser morto enquanto seu recipiente espiritual (um objeto) estiver intacto.</p><p><strong>Paralisia</strong>. [[check 15 con]] ou paralisia por [[/r 1d4]] rodadas.</p><p><strong>Voo (Magia de INT)</strong>. Pessoal. CD 13. Voa a distância Perto x2 por 5 rodadas.</p><p><strong>Anulação (Magia de INT)</strong>. Pessoal. CD 14. Magias hostis que tenham o lich como alvo são conjuradas com CD 18. Dura [[/r 1d4]] rodadas.</p><p><strong>Salto das Sombras (Magia de INT)</strong>. Pessoal. CD 14. Se teleporta por até 160 km.</p><p><strong>Selo da Perdição (Magia de INT)</strong>. CD 15. Um alvo de NV 9 ou menor e que esteja Perto tem seus PV reduzidos a 0 ([[check 15 con]] para evitar).</p><p><strong>Definhar (Magia de INT)</strong>. CD 14. [[/r 4d8]] de dano contra inimigos que estejam dentro de um cubo de tamanho Perto centrado no lich.</p>"
+      "notes": "\n<p><i> Um mago que completou um ritual necromântico para se tornar um poderoso feiticeiro morto-vivo. Seu corpo definhado é envolto por trajes de seda desgastados, e seus olhos são ardentes luzes vermelhas. </i></p>\n\t\n\t<p><strong>CA</strong> 16, <strong>PV</strong> 62, <strong>ATQ</strong> 2 toque +6 (2d8 + paralisia) e 2 magia +7, <strong>MV</strong> Perto, <strong>F</strong> +3, <strong>D</strong> +1, <strong>C</strong> +4, <strong>I</strong> +4, <strong>S</strong> +3, <strong>Car</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 13</p>\n\t<p><strong>Morto-Vivo Superior</strong>. Imune a testes de moral. Só pode ser ferido por fontes de dano mágicas.</p><p><strong>Filactério</strong>. Não pode ser morto enquanto seu recipiente espiritual (um objeto) estiver intacto.</p><p><strong>Paralisia</strong>. [[check 15 con]] ou paralisia por [[/r 1d4]] rodadas.</p><p><strong>Voo (Magia de INT)</strong>. Pessoal. CD 13. Voa a distância Perto x2 por 5 rodadas.</p><p><strong>Anulação (Magia de INT)</strong>. Pessoal. CD 14. Magias hostis que tenham o lich como alvo são conjuradas com CD 18. Dura [[/r 1d4]] rodadas.</p><p><strong>Salto das Sombras (Magia de INT)</strong>. Pessoal. CD 14. Se teleporta por até 160 km.</p><p><strong>Selo da Perdição (Magia de INT)</strong>. CD 15. Um alvo de NV 9 ou menor e que esteja Perto tem seus PV reduzidos a 0 ([[check 15 con]] para evitar).</p><p><strong>Definhar (Magia de INT)</strong>. CD 14. [[/r 4d8]] de dano contra inimigos que estejam dentro de um cubo de tamanho Perto centrado no lich.</p>"
     },
     "Lion": {
       "name": "Leão",
@@ -2457,8 +2457,8 @@
       "notes": "\n<p><i> Felinos grandes e de cor marrom-alaranjada que caçam em planícies amplas. Os machos possuem jubas. </i></p>\n\t\n\t<p><strong>CA</strong> 12, <strong>PV</strong> 15, <strong>ATQ</strong> 2 despedaçar +4 (1d8), <strong>MV</strong> Perto, <strong>F</strong> +4, <strong>D</strong> +2, <strong>C</strong> +2, <strong>I</strong> -3, <strong>S</strong> +1, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 3</p>"
     },
     "Lizardfolk": {
-      "name": "Homens-lagarto",
-      "tokenName": "Homens-lagarto",
+      "name": "Homens-Lagarto",
+      "tokenName": "Homens-Lagarto",
       "items": {
         "Spear": {
           "name": "Lança"
@@ -2536,7 +2536,7 @@
           "name": "Despedaçar"
         },
         "Tail Spike": {
-          "name": "Cauda espinhosa"
+          "name": "Cauda Espinhosa"
         },
         "Spikes": {
           "name": "Espinhos",
@@ -2600,17 +2600,17 @@
         },
         "Stick": {
           "name": "Aderir",
-          "description": "<p>[[check 15 str]] oou o mímico adere ao alvo; acerto automático com mordida. [[check 15 str]] em seu turno para remover.</p>"
+          "description": "<p>[[check 15 str]] ou o mímico adere ao alvo; acerto automático com mordida. [[check 15 str]] em seu turno para remover.</p>"
         }
       },
-      "notes": "\n<p><i> Feras que se parecem com objetos.</i></p>\n\t\n\t<p><strong>CA</strong> 12, <strong>PV</strong> 23, <strong>ATQ</strong> 2 mordida +5 (1d8 + aderir), <strong>MV</strong> Perto, <strong>F</strong> +2, <strong>D</strong> +0, <strong>C</strong> +1, <strong>I</strong> -2, <strong>S</strong> +0, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 5</p>\n\t<p><strong>Aderir</strong>. [[check 15 str]] oou o mímico adere ao alvo; acerto automático com mordida. [[check 15 str]] em seu turno para remover.</p>"
+      "notes": "\n<p><i> Feras que se parecem com objetos.</i></p>\n\t\n\t<p><strong>CA</strong> 12, <strong>PV</strong> 23, <strong>ATQ</strong> 2 mordida +5 (1d8 + aderir), <strong>MV</strong> Perto, <strong>F</strong> +2, <strong>D</strong> +0, <strong>C</strong> +1, <strong>I</strong> -2, <strong>S</strong> +0, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 5</p>\n\t<p><strong>Aderir</strong>. [[check 15 str]] ou o mímico adere ao alvo; acerto automático com mordida. [[check 15 str]] em seu turno para remover.</p>"
     },
     "Minotaur": {
       "name": "Minotauro",
       "tokenName": "Minotauro",
       "items": {
         "Greataxe": {
-          "name": "Machado grande"
+          "name": "Machado Grande"
         },
         "Horns": {
           "name": "Chifres"
@@ -2620,7 +2620,7 @@
           "description": "<p>Em vez de atacar, move-se a distância Perto x2 em linha reta, e faz 1 ataque de chifre. Se acertar, o dano é dobrado.</p>"
         }
       },
-      "notes": "\n<p><i> Féroces hommes-taureaux pourvus de sabots et de cornes incurvées. Ils vivent dans des dédales de tunnels. </i></p>\n\t\n\t<p><strong>CA</strong> 14 (cota de malha), <strong>PV</strong> 34, <strong>ATQ</strong> 2 machado grande +6 (1d10) e 1 chifres +6 (1d12), <strong>MV</strong> Perto, <strong>F</strong> +4, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> +1, <strong>S</strong> +2, <strong>Car</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 7</p>\n\t<p><strong>Investids</strong>. Em vez de atacar, move-se a distância Perto x2 em linha reta, e faz 1 ataque de chifre. Se acertar, o dano é dobrado.</p>"
+      "notes": "\n<p><i> Féroces hommes-taureaux pourvus de sabots et de cornes incurvées. Ils vivent dans des dédales de tunnels. </i></p>\n\t\n\t<p><strong>CA</strong> 14 (cota de malha), <strong>PV</strong> 34, <strong>ATQ</strong> 2 machado grande +6 (1d10) e 1 chifres +6 (1d12), <strong>MV</strong> Perto, <strong>F</strong> +4, <strong>D</strong> +1, <strong>C</strong> +3, <strong>I</strong> +1, <strong>S</strong> +2, <strong>Car</strong> +1, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 7</p>\n\t<p><strong>Investida</strong>. Em vez de atacar, move-se a distância Perto x2 em linha reta, e faz 1 ataque de chifre. Se acertar, o dano é dobrado.</p>"
     },
     "Moose": {
       "name": "Alce",
@@ -2633,15 +2633,15 @@
       "notes": "\n<p><i> Um imponente herbívoro com pelos castanhos e chifres pesados e achatados. </i></p>\n\t\n\t<p><strong>CA</strong> 11, <strong>PV</strong> 19, <strong>ATQ</strong> 2 chifres +3 (1d6), <strong>MV</strong> Perto x2, <strong>F</strong> +3, <strong>D</strong> +0, <strong>C</strong> +1, <strong>I</strong> -2, <strong>S</strong> +0, <strong>Car</strong> -2, <strong>AL</strong> N, <strong>NV</strong> 4</p>"
     },
     "Mordanticus the Flayed": {
-      "name": "Mordanticus, O Esfolado",
-      "tokenName": "Mordanticus, O Esfolado",
+      "name": "Mordanticus, o Esfolado",
+      "tokenName": "Mordanticus, o Esfolado",
       "items": {
         "Rot Touch": {
           "name": "Toque Pútrido",
           "special": "Necrose"
         },
         "Legendary Undead": {
-          "name": "Morto-vivo Lendário",
+          "name": "Morto-Vivo Lendário",
           "description": "<p>Imune a testes de moral. Só pode ser ferido por fontes de dano mágicas. Magias hostis que tenham Mordanticus como alvo são conjuradas com CD 18.</p>"
         },
         "Crown Of Gehemna": {
@@ -2681,7 +2681,7 @@
           "description": "<p>CD 15. Perto. Aprende o Nome Verdadeiro de um alvo.</p>"
         }
       },
-      "notes": "\n<p><i> Um lich-múmia sem pele, usando uma coroa com nove gemas brilhantes incrustadas. Ele já foi líder da antiga ordem mágica de Gehemna, mas agora vive em segredo no santuário do arquimago governante de Gehemna. Serve como conselheiro e historiador há séculos, mas um encantamento que ainda perdura o impede de falar sobre dois assuntos: sua origem e sobre o Oráculo de Dez Olhos.</i></p>\n\t\n\t<p><strong>CA</strong> 17, <strong>PV</strong> 89, <strong>ATQ</strong> 1 toque pútrido +8 (1d10 + necrose) e 3 magia +8, <strong>MV</strong> Perto, <strong>F</strong> +4, <strong>D</strong> +4, <strong>C</strong> +4, <strong>I</strong> +5, <strong>S</strong> +4, <strong>Car</strong> +5, <strong>AL</strong> N, <strong>NV</strong> 19</p>\n\t<p><strong>Morto-vivo Lendário</strong>. Imune a testes de moral. Só pode ser ferido por fontes de dano mágicas. Magias hostis que tenham Mordanticus como alvo são conjuradas com CD 18.</p><p><strong>Coroa da Gehemna</strong>. 3/dia, uma magia sendo conjurada dentro do alcance Longe falha.</p><p><strong>Necrose</strong>. [[check 15 con]] ou PV cai para 0. Magias curativas têm CD 15 quando são conjuradas em um alvo que esteja com 0 PV por causa desse efeito.</p><p><strong>Filactério</strong>. Não pode ser morto enquanto seu recipiente espiritual (um diamante) estiver intacto.</p><p><strong>Absorver (Magia de INT)</strong>. CD 13. Perto, um alvo. O alvo perde a habilidade de conjurar uma magia aleatória até que complete um descanso, e Mordanticus recupera uma magia perdida de mesmo grau ou inferior.</p><p><strong>Banir (Magia de INT)</strong>. CD 14. Todas as criaturas extradimensionais que estiverem Perto são enviadas de volta ao seu plano de origem ([[check 15 cha]] para evitar).</p><p><strong>Amarrar (Magia de INT)</strong>. CD 12. Um humanoide que esteja Longe é paralisado por [[/r 1d4]] rodadas.</p><p><strong>Explosão (Magia de INT)</strong>. CD 14. Uma criatura que esteja Perto sofre [[/r 5d8]] de dano.</p><p><strong>Transição Planar (Magia de INT)</strong>. CD 13. Pessoal. Se teleporta por até 1,6 km.</p><p><strong>Nome Verdadeiro (Magia de INT)</strong>. CD 15. Perto. Aprende o Nome Verdadeiro de um alvo.</p>"
+      "notes": "\n<p><i> Um lich-múmia sem pele, usando uma coroa com nove gemas brilhantes incrustadas. Ele já foi líder da antiga ordem mágica de Gehemna, mas agora vive em segredo no santuário do arquimago governante de Gehemna. Serve como conselheiro e historiador há séculos, mas um encantamento que ainda perdura o impede de falar sobre dois assuntos: sua origem e sobre o Oráculo de Dez Olhos.</i></p>\n\t\n\t<p><strong>CA</strong> 17, <strong>PV</strong> 89, <strong>ATQ</strong> 1 toque pútrido +8 (1d10 + necrose) e 3 magia +8, <strong>MV</strong> Perto, <strong>F</strong> +4, <strong>D</strong> +4, <strong>C</strong> +4, <strong>I</strong> +5, <strong>S</strong> +4, <strong>Car</strong> +5, <strong>AL</strong> N, <strong>NV</strong> 19</p>\n\t<p><strong>Morto-Vivo Lendário</strong>. Imune a testes de moral. Só pode ser ferido por fontes de dano mágicas. Magias hostis que tenham Mordanticus como alvo são conjuradas com CD 18.</p><p><strong>Coroa da Gehemna</strong>. 3/dia, uma magia sendo conjurada dentro do alcance Longe falha.</p><p><strong>Necrose</strong>. [[check 15 con]] ou PV cai para 0. Magias curativas têm CD 15 quando são conjuradas em um alvo que esteja com 0 PV por causa desse efeito.</p><p><strong>Filactério</strong>. Não pode ser morto enquanto seu recipiente espiritual (um diamante) estiver intacto.</p><p><strong>Absorver (Magia de INT)</strong>. CD 13. Perto, um alvo. O alvo perde a habilidade de conjurar uma magia aleatória até que complete um descanso, e Mordanticus recupera uma magia perdida de mesmo grau ou inferior.</p><p><strong>Banir (Magia de INT)</strong>. CD 14. Todas as criaturas extradimensionais que estiverem Perto são enviadas de volta ao seu plano de origem ([[check 15 cha]] para evitar).</p><p><strong>Amarrar (Magia de INT)</strong>. CD 12. Um humanoide que esteja Longe é paralisado por [[/r 1d4]] rodadas.</p><p><strong>Explosão (Magia de INT)</strong>. CD 14. Uma criatura que esteja Perto sofre [[/r 5d8]] de dano.</p><p><strong>Transição Planar (Magia de INT)</strong>. CD 13. Pessoal. Se teleporta por até 1,6 km.</p><p><strong>Nome Verdadeiro (Magia de INT)</strong>. CD 15. Perto. Aprende o Nome Verdadeiro de um alvo.</p>"
     },
     "Mummy": {
       "name": "Múmia",
@@ -2692,7 +2692,7 @@
           "special": "Necrose"
         },
         "Supreme Undead": {
-          "name": "Morto-vivo Superior",
+          "name": "Morto-Vivo Superior",
           "description": "<p>Imune a testes de moral. Só pode ser ferido por fontes de dano mágicas.</p>"
         },
         "Desiccated": {
@@ -2704,17 +2704,17 @@
           "description": "<p>[[check 15 con]] ou cai para 0 PV. Magias curativas têm CD 15 quando são conjuradas em um alvo que esteja com 0 PV por causa desse efeito.</p>"
         }
       },
-      "notes": "\n<p><i> Um zumbi mumificado e envolto em\ntiras de linho, criado por meio de um\nintricado ritual de embalsamento\nutilizado apenas nos guerreiros ou\ngovernantes mais dignos. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 47, <strong>ATQ</strong> 3 toque pútrido +8 (1d10 + necrose), <strong>MV</strong> Perto, <strong>F</strong> +3, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> +3, <strong>S</strong> +2, <strong>Car</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 10</p>\n\t<p><strong>Morto-vivo Superior</strong>. Imune a testes de moral. Só pode ser ferido por fontes de dano mágicas.</p><p><strong>Ressecado</strong>. Sofre o dobro de dano de fogo.</p><p><strong>Necrose</strong>. [[check 15 con]] ou cai para 0 PV. Magias curativas têm CD 15 quando são conjuradas em um alvo que esteja com 0 PV por causa desse efeito.</p>"
+      "notes": "\n<p><i> Um zumbi mumificado e envolto em\ntiras de linho, criado por meio de um\nintricado ritual de embalsamento\nutilizado apenas nos guerreiros ou\ngovernantes mais dignos. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 47, <strong>ATQ</strong> 3 toque pútrido +8 (1d10 + necrose), <strong>MV</strong> Perto, <strong>F</strong> +3, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> +3, <strong>S</strong> +2, <strong>Car</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 10</p>\n\t<p><strong>Morto-Vivo Superior</strong>. Imune a testes de moral. Só pode ser ferido por fontes de dano mágicas.</p><p><strong>Ressecado</strong>. Sofre o dobro de dano de fogo.</p><p><strong>Necrose</strong>. [[check 15 con]] ou cai para 0 PV. Magias curativas têm CD 15 quando são conjuradas em um alvo que esteja com 0 PV por causa desse efeito.</p>"
     },
     "Mushroomfolk": {
-      "name": "Homem-fungo",
-      "tokenName": "Homem-fungo",
+      "name": "Homem-Fungo",
+      "tokenName": "Homem-Fungo",
       "items": {
         "Slam": {
           "name": "Pancada"
         },
         "Sunblind": {
-          "name": "Cegado Pelo Sol",
+          "name": "Cegado pelo Sol",
           "description": "<p>Cego sob luiz intensa.</p>"
         },
         "Telepathic": {
@@ -2722,7 +2722,7 @@
           "description": "<p>Fala mentalmente com criaturas que estejam a uma distância Perto x2.</p>"
         }
       },
-      "notes": "\n<p><i> Humanoides desajeitados, com corpos esponjosos e alongados, e cogumelos em suas cabeças. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 15, <strong>ATQ</strong> 2 pancada +2 (1d6), <strong>MV</strong> Perto, <strong>F</strong> +2, <strong>D</strong> -1, <strong>C</strong> +2, <strong>I</strong> +0, <strong>S</strong> +1, <strong>Car</strong> +0, <strong>AL</strong> N, <strong>NV</strong> 3</p>\n\t<p><strong>Cegado Pelo Sol</strong>. Cego sob luiz intensa.</p><p><strong>Telepático</strong>. Fala mentalmente com criaturas que estejam a uma distância Perto x2.</p>"
+      "notes": "\n<p><i> Humanoides desajeitados, com corpos esponjosos e alongados, e cogumelos em suas cabeças. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 15, <strong>ATQ</strong> 2 pancada +2 (1d6), <strong>MV</strong> Perto, <strong>F</strong> +2, <strong>D</strong> -1, <strong>C</strong> +2, <strong>I</strong> +0, <strong>S</strong> +1, <strong>Car</strong> +0, <strong>AL</strong> N, <strong>NV</strong> 3</p>\n\t<p><strong>Cegado pelo Sol</strong>. Cego sob luiz intensa.</p><p><strong>Telepático</strong>. Fala mentalmente com criaturas que estejam a uma distância Perto x2.</p>"
     },
     "Naga": {
       "name": "Naga",
@@ -2760,11 +2760,11 @@
           "name": "Mordida"
         },
         "Greater Undead": {
-          "name": "Morto-vivo Maior",
+          "name": "Morto-Vivo Maior",
           "description": "<p>Imune a testes de moral. Só pode ser ferida por prata ou fontes de dano mágicas.</p>"
         }
       },
-      "notes": "\n<p><i> Vestígios mortais esqueléticos de nagas, sem qualquer consciência, reanimadas pelo uso de feitiçaria.</i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 31, <strong>ATQ</strong> 2 mordida +5 (2d6), <strong>MV</strong> Perto (escavar, escalar), <strong>F</strong> +3, <strong>D</strong> +2, <strong>C</strong> +4, <strong>I</strong> -3, <strong>S</strong> +0, <strong>Car</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 6</p>\n\t<p><strong>Morto-vivo Maior</strong>. Imune a testes de moral. Só pode ser ferida por prata ou fontes de dano mágicas.</p>"
+      "notes": "\n<p><i> Vestígios mortais esqueléticos de nagas, sem qualquer consciência, reanimadas pelo uso de feitiçaria.</i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 31, <strong>ATQ</strong> 2 mordida +5 (2d6), <strong>MV</strong> Perto (escavar, escalar), <strong>F</strong> +3, <strong>D</strong> +2, <strong>C</strong> +4, <strong>I</strong> -3, <strong>S</strong> +0, <strong>Car</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 6</p>\n\t<p><strong>Morto-Vivo Maior</strong>. Imune a testes de moral. Só pode ser ferida por prata ou fontes de dano mágicas.</p>"
     },
     "Nightmare": {
       "name": "Pesadelo",
@@ -2782,11 +2782,11 @@
       "notes": "\n<p><i> Cavalos de guerra negros, com crinas, cascos e olhos flamejantes.</i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 29, <strong>ATQ</strong> 2 cascos +5 (1d8), <strong>MV</strong> Perto x2 (voar), <strong>F</strong> +3, <strong>D</strong> +3, <strong>C</strong> +2, <strong>I</strong> -1, <strong>S</strong> +1, <strong>Car</strong> -2, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 6</p>\n\t<p><strong>Invulnerável</strong>. O Pesadelo e seu cavaleiro são imunes ao fogo.</p>"
     },
     "Obe-ixx of Azarumme": {
-      "name": "Obe-ixx de Azarumme",
-      "tokenName": "Obe-ixx de Azarumme",
+      "name": "Obe-Ixx de Azarumme",
+      "tokenName": "Obe-Ixx de Azarumme",
       "items": {
         "Greatsword": {
-          "name": "Espada grande",
+          "name": "Espada Grande",
           "special": "Propriedades da Mordida da Lua"
         },
         "Bite": {
@@ -2798,7 +2798,7 @@
           "description": "<p>Um alvo humanoide que possa vê-la e que esteja Perto de Obe-Ixx fica sob o controle dela por [[/r 1d4]] dias ([[check 15 cha]] para evitar).</p>"
         },
         "Legendary Undead": {
-          "name": "Morto-vivo Lendário",
+          "name": "Morto-Vivo Lendário",
           "description": "<p>Imune a testes de moral. Só pode ser ferida por fontes de dano mágicas. Magias hostis que tenham Obe-Ixx como alvo são conjuradas com CD 18.</p>"
         },
         "Blood Drain": {
@@ -2818,7 +2818,7 @@
           "description": "<p>Deve dormir em um sarcófago pelo menos uma vez a cada ciclo lunar, ou perde [[/r 2d8]] PV por dia, que não podem ser curados até que durma em um sarcófago. Sofre [[/r 3d8]] de dano a cada rodada que estiver sob luz solar direta. Não pode ser morta, a menos que seu coração seja perfurado enquanto estiver com 0 PV, usando uma estaca de madeira esculpida a partir de uma árvore da selva de Tal-Yool.</p>"
         }
       },
-      "notes": "\n<p><i> Uma mulher pálida e angular, vestida com uma armadura translúcida feitade quitina de escorpião gigante. Obe-Ixx, filha de Azarumme, ascendeudas tribos bárbaras pré-históricas de Tal-Yool para conquistar tudo emseu caminho. Um dia, ela se viu diante de uma escada que conduzia a umzigurate de obsidiana, no coração de uma selva impenetrável. Quarentanoites depois, Obe-Ixx emergiu como a ur-vampira, a própria personificaçãoda sede de sangue. Sua dinastia se ergueu e caiu repetidamente ao longodos milênios que sucederam. </i></p>\n\t\n\t<p><strong>CA</strong> 18 (placas +3), <strong>PV</strong> 76, <strong>ATQ</strong> 4 espada grande (Perto) +11 (1d12 + 2 + propriedades da Mordida da Lua) e 1 mordida +9 (1d8 + drenar sangue) e 1 encantar, <strong>MV</strong> Perto (escalar, voar), <strong>F</strong> +5, <strong>D</strong> +3, <strong>C</strong> +4, <strong>I</strong> +3, <strong>S</strong> +4, <strong>Car</strong> +5, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 16</p>\n\t<p><strong>Morto-vivo Lendário</strong>. Imune a testes de moral. Só pode ser ferida por fontes de dano mágicas. Magias hostis que tenham Obe-Ixx como alvo são conjuradas com CD 18.</p><p><strong>Drenar Sangue</strong>. Obe-Ixx se cura em [[/r 2d8]] PV, e o alvo perde [[/r 1d6]] de CON de forma permanente. Ao chegar a 0 CON, o alvo morre e retorna como um vampiro leal ou uma cria vampírica (ao critério de Obe-Ixx).</p><p><strong>Encantar</strong>. Um alvo humanoide que possa vê-la e que esteja Perto de Obe-Ixx fica sob o controle dela por [[/r 1d4]] dias ([[check 15 cha]] para evitar).</p><p><strong>Mudar de Forma Terrível</strong>. Em vez de atacar, se transforma em um morcego gigante, um lobo-terrível, ou de volta à sua forma original.</p><p><strong>Propriedades da Mordida da Lua</strong>. Espada grande +2, arma de arremesso, retorna depois de ser arremessada. Magias conjuradas para curar o dano que ela infligiu têm CD 15.</p><p><strong>Ur-Vampira</strong>. Deve dormir em um sarcófago pelo menos uma vez a cada ciclo lunar, ou perde [[/r 2d8]] PV por dia, que não podem ser curados até que durma em um sarcófago. Sofre [[/r 3d8]] de dano a cada rodada que estiver sob luz solar direta. Não pode ser morta, a menos que seu coração seja perfurado enquanto estiver com 0 PV, usando uma estaca de madeira esculpida a partir de uma árvore da selva de Tal-Yool.</p>"
+      "notes": "\n<p><i> Uma mulher pálida e angular, vestida com uma armadura translúcida feitade quitina de escorpião gigante. Obe-Ixx, filha de Azarumme, ascendeudas tribos bárbaras pré-históricas de Tal-Yool para conquistar tudo emseu caminho. Um dia, ela se viu diante de uma escada que conduzia a umzigurate de obsidiana, no coração de uma selva impenetrável. Quarentanoites depois, Obe-Ixx emergiu como a ur-vampira, a própria personificaçãoda sede de sangue. Sua dinastia se ergueu e caiu repetidamente ao longodos milênios que sucederam. </i></p>\n\t\n\t<p><strong>CA</strong> 18 (placas +3), <strong>PV</strong> 76, <strong>ATQ</strong> 4 espada grande (Perto) +11 (1d12 + 2 + propriedades da Mordida da Lua) e 1 mordida +9 (1d8 + drenar sangue) e 1 encantar, <strong>MV</strong> Perto (escalar, voar), <strong>F</strong> +5, <strong>D</strong> +3, <strong>C</strong> +4, <strong>I</strong> +3, <strong>S</strong> +4, <strong>Car</strong> +5, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 16</p>\n\t<p><strong>Morto-Vivo Lendário</strong>. Imune a testes de moral. Só pode ser ferida por fontes de dano mágicas. Magias hostis que tenham Obe-Ixx como alvo são conjuradas com CD 18.</p><p><strong>Drenar Sangue</strong>. Obe-Ixx se cura em [[/r 2d8]] PV, e o alvo perde [[/r 1d6]] de CON de forma permanente. Ao chegar a 0 CON, o alvo morre e retorna como um vampiro leal ou uma cria vampírica (ao critério de Obe-Ixx).</p><p><strong>Encantar</strong>. Um alvo humanoide que possa vê-la e que esteja Perto de Obe-Ixx fica sob o controle dela por [[/r 1d4]] dias ([[check 15 cha]] para evitar).</p><p><strong>Mudar de Forma Terrível</strong>. Em vez de atacar, se transforma em um morcego gigante, um lobo-terrível, ou de volta à sua forma original.</p><p><strong>Propriedades da Mordida da Lua</strong>. Espada grande +2, arma de arremesso, retorna depois de ser arremessada. Magias conjuradas para curar o dano que ela infligiu têm CD 15.</p><p><strong>Ur-Vampira</strong>. Deve dormir em um sarcófago pelo menos uma vez a cada ciclo lunar, ou perde [[/r 2d8]] PV por dia, que não podem ser curados até que durma em um sarcófago. Sofre [[/r 3d8]] de dano a cada rodada que estiver sob luz solar direta. Não pode ser morta, a menos que seu coração seja perfurado enquanto estiver com 0 PV, usando uma estaca de madeira esculpida a partir de uma árvore da selva de Tal-Yool.</p>"
     },
     "Ochre Jelly": {
       "name": "Geleia Ocre",
@@ -2860,7 +2860,7 @@
       "tokenName": "Ogro",
       "items": {
         "Greatclub": {
-          "name": "Clava grande"
+          "name": "Clava Grande"
         }
       },
       "notes": "\n<p><i> Um enorme brutamontes de inteligência limitada, presas e um corpo robusto. Frequentemente dominam goblins ou orcs.</i></p>\n\t\n\t<p><strong>CA</strong> 9, <strong>PV</strong> 30, <strong>ATQ</strong> 2 clava grande +6 (2d6), <strong>MV</strong> Perto, <strong>F</strong> +4, <strong>D</strong> -1, <strong>C</strong> +3, <strong>I</strong> -2, <strong>S</strong> -2, <strong>Car</strong> -2, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 6</p>"
@@ -2896,7 +2896,7 @@
       "tokenName": "Orc",
       "items": {
         "Greataxe": {
-          "name": "Machado grande"
+          "name": "Machado Grande"
         },
         "Rage": {
           "name": "Fúria",
@@ -2906,11 +2906,11 @@
       "notes": "\n<p><i> Um humanoide alto com presas, pele acinzentada e orelhas pontudas. </i></p>\n\t\n\t<p><strong>CA</strong> 15 (cota de malha + escudo), <strong>PV</strong> 4, <strong>ATQ</strong> 1machado grande +2 (1d8), <strong>MV</strong> Perto, <strong>F</strong> +2, <strong>D</strong> +0, <strong>C</strong> +0, <strong>I</strong> -1, <strong>S</strong> +0, <strong>Car</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 1</p>\n\t<p><strong> Fúria</strong>. 1/dia, imune a testes de moral, +1d4 de dano (3 rodadas).</p>"
     },
     "Orc, Chieftain": {
-      "name": "Orc-chefe",
-      "tokenName": "Orc-chefe",
+      "name": "Orc-Chefe",
+      "tokenName": "Orc-Chefe",
       "items": {
         "Greataxe": {
-          "name": "Machado grande"
+          "name": "Machado Grande"
         },
         "Rage": {
           "name": "Fúria",
@@ -2938,8 +2938,8 @@
       "notes": "\n<p><i> Feras atarracadas de três pernas, com tentáculos farpados e bocas enormes. São atraídas por podridão e sujeira. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 35, <strong>ATQ</strong> 2 tentáculo +5 (1d8) e 1 mordida +5 (1d10 + doença), <strong>MV</strong> Perto, <strong>F</strong> +4, <strong>D</strong> -1, <strong>C</strong> +4, <strong>I</strong> -2, <strong>S</strong> +0, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 7</p>\n\t<p><strong> Doença</strong>. [[check 15 con]] ou infecção. [[check 15 con]] a cada dia para não perder [[/r 1d6]] PV (não podem ser curados). Sucesso encerra o efeito.</p>"
     },
     "Owlbear": {
-      "name": "Urso-coruja",
-      "tokenName": "Urso-coruja",
+      "name": "Urso-Coruja",
+      "tokenName": "Urso-Coruja",
       "items": {
         "Claw": {
           "name": "Garra"
@@ -3012,7 +3012,7 @@
       "notes": "\n<p><i> Águias enormes e majestosas, feitas de chamas ardentes. São inteligentes e imbuídas de magia imortal. </i></p>\n\t\n\t<p><strong>CA</strong> 16, <strong>PV</strong> 60, <strong>ATQ</strong> 4 despedaçar +8 (2d12), <strong>MV</strong> Perto x2 (voar), <strong>F</strong> +3, <strong>D</strong> +4, <strong>C</strong> +2, <strong>I</strong> +3, <strong>S</strong> +3, <strong>Car</strong> +3, <strong>AL</strong> O, <strong>NV</strong> 13</p>\n\t<p><strong> Invulnerável</strong>. Imune ao fogo. Só pode ser ferida por fontes de dano mágicas.</p><p><strong>Explosão</strong>. No momento de sua morte, todas as criaturas que estejam Perto x2 da fênix sofrem [[/r 10d6]] de dano ([[check 18 dex]] para evitar).</p><p><strong>Aura de Calor</strong>. Criaturas que estejam Perto da fênix, no começo de seus turnos, sofrem [[/r 2d6]] de dano ([[check 15 con]] para evitar).</p><p><strong>Renascimento</strong>. Um ovo incandescente é deixado para trás no momento de sua morte. A fênix nasce novamente a partir dele em [[/r 1d4]] dias.</p>"
     },
     "Piranha, Swarm": {
-      "name": "Piranhas, Cardume de",
+      "name": "Cardume de Piranhas",
       "tokenName": "Cardume de Piranhas",
       "items": {
         "Bite": {
@@ -3174,8 +3174,8 @@
       "notes": "\n<p><i> Roedores esguios e transmissores de doenças que infestam lugares subterrâneos. </i></p>\n\t\n\t<p><strong>CA</strong> 10, <strong>PV</strong> 1, <strong>ATQ</strong> 1 mordida +0 (1 + doença), <strong>MV</strong> Perto, <strong>F</strong> -3, <strong>D</strong> +0, <strong>C</strong> +1, <strong>I</strong> -3, <strong>S</strong> +1, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 0</p>\n\t<p><strong> Doença</strong>. [[check 9 con]] ou [[/r 1d4]] de dano de CON (não pode receber cura enquanto estiver doente). Repita o teste uma vez por dia; o efeito se\nencerra com um sucesso. O alvo morre ao chegar a 0 CON.</p>"
     },
     "Rat, Dire": {
-      "name": "Rato-terrível",
-      "tokenName": "Rato-terrível",
+      "name": "Rato-Terrível",
+      "tokenName": "Rato-Terrível",
       "items": {
         "Bite": {
           "name": "Mordida",
@@ -3189,8 +3189,8 @@
       "notes": "\n<p><i> Ratos ferozes do tamanho de crianças, com pelos eriçados, focinhos ossudos e cristas na espinha.</i></p>\n\t\n\t<p><strong>CA</strong> 12, <strong>PV</strong> 10, <strong>ATQ</strong> 1 mordida +2 (1d6 + doença), <strong>MV</strong> Perto, <strong>F</strong> +1, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> -2, <strong>S</strong> +1, <strong>Car</strong> -2, <strong>AL</strong> N, <strong>NV</strong> 2</p>\n\t<p><strong> Doença</strong>. [[check 12 con]] ou [[/r 1d4]] de dano de CON (não pode receber cura enquanto estiver doente). Repita o teste uma vez por dia; o efeito se\nencerra com um sucesso. O alvo morre ao chegar a 0 CON.</p>"
     },
     "Rat, Giant": {
-      "name": "Rato gigante",
-      "tokenName": "Rato gigante",
+      "name": "Rato Gigante",
+      "tokenName": "Rato Gigante",
       "items": {
         "Bite": {
           "name": "Mordida",
@@ -3204,7 +3204,7 @@
       "notes": "\n<p><i> Ratos inteligentes e tão grandes quanto gatos, com pelagem sarnenta e cauda semelhante a um verme. </i></p>\n\t\n\t<p><strong>CA</strong> 11, <strong>PV</strong> 5, <strong>ATQ</strong> 1 mordida +1 (1d4 + doença), <strong>MV</strong> Perto, <strong>F</strong> -2, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> -2, <strong>S</strong> +1, <strong>Car</strong> -2, <strong>AL</strong> N, <strong>NV</strong> 1</p>\n\t<p><strong> Doença</strong>. [[check 12 con]] ou [[/r 1d4]] de dano de CON (não pode receber cura enquanto estiver doente). Repita o teste uma vez por dia; o efeito se\nencerra com um sucesso. O alvo morre ao chegar a 0 CON.</p>"
     },
     "Rat, Swarm": {
-      "name": "Ratos, Bando de",
+      "name": "Bando de Ratos",
       "tokenName": "Bando de Ratos",
       "items": {
         "Bite": {
@@ -3266,7 +3266,7 @@
       "tokenName": "Saqueador",
       "items": {
         "Bastard Sword": {
-          "name": "Espada bastarda"
+          "name": "Espada Bastarda"
         },
         "Bloodlust": {
           "name": "Sede de Sangue",
@@ -3417,12 +3417,12 @@
           "name": "Tridente"
         },
         "Half-amphibious": {
-          "name": "Meio-anfíbio",
-          "description": "<p>recisa submergir na água a cada 4 horas para não sufocar.</p>"
+          "name": "Meio-Anfíbio",
+          "description": "<p>Precisa submergir na água a cada 4 horas para não sufocar.</p>"
         }
       },
       "moveNote": "nadar",
-      "notes": "\n<p><i> Humanoides com pele verde-mar, mãos e pés com membranas e dentes de tubarão. São caçadores ferozes. </i></p>\n\t\n\t<p><strong>CA</strong> 14 (couro + escudo), <strong>PV</strong> 9, <strong>ATQ</strong> 2 tridente (Perto) +1 (1d6), <strong>MV</strong> Perto (nadar), <strong>F</strong> +1, <strong>D</strong> +1, <strong>C</strong> +0, <strong>I</strong> -1, <strong>S</strong> +0, <strong>Car</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 2</p>\n\t<p><strong>Meio-anfíbio</strong>. recisa submergir na água a cada 4 horas para não sufocar.</p>"
+      "notes": "\n<p><i> Humanoides com pele verde-mar, mãos e pés com membranas e dentes de tubarão. São caçadores ferozes. </i></p>\n\t\n\t<p><strong>CA</strong> 14 (couro + escudo), <strong>PV</strong> 9, <strong>ATQ</strong> 2 tridente (Perto) +1 (1d6), <strong>MV</strong> Perto (nadar), <strong>F</strong> +1, <strong>D</strong> +1, <strong>C</strong> +0, <strong>I</strong> -1, <strong>S</strong> +0, <strong>Car</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 2</p>\n\t<p><strong>Meio-Anfíbio</strong>. Precisa submergir na água a cada 4 horas para não sufocar.</p>"
     },
     "Salamander": {
       "name": "Salamandra",
@@ -3432,7 +3432,7 @@
           "name": "Lança Flamejante"
         },
         "Iron Longbow": {
-          "name": "Arco longo de ferro"
+          "name": "Arco Longo de Ferro"
         },
         "Impervious": {
           "name": "Invulnerável",
@@ -3446,7 +3446,7 @@
       "notes": "\n<p><i> Povo lagarto cor de fogo com longas caudas. Ondulações em forma de chamas percorrem suas costas. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 24, <strong>ATQ</strong> 2 lança flamejante (Adjacente/Perto) +4 (1d6, omcemdoar) ou 1 arco longo de ferro (Longe) +2 (1d8), <strong>MV</strong> Perto, <strong>F</strong> +2, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> -1, <strong>S</strong> +1, <strong>Car</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 5</p>\n\t<p><strong>Invulnerável</strong>. Imune ao fogo.</p><p><strong>Aura de Calor</strong>. Criaturas que estiverem Perto sofrem [[/r 1d8]] de dano ([[check 12 con]] em seu turno para evitar).</p>"
     },
     "Scarab, Swarm": {
-      "name": "Escaravelhos, Enxame de",
+      "name": "Enxame de Escaravelhos",
       "tokenName": "Enxame de Escaravelhos",
       "items": {
         "Bite": {
@@ -3454,7 +3454,7 @@
         }
       },
       "moveNote": "voar",
-      "notes": "\n\t<p><i>  Uma nuvem estridente de besouros ovais iridescentes. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 14, <strong>ATQ</strong> 2 mordida +3 (1d6), <strong>MV</strong> Perto (voar), <strong>F</strong> -1, <strong>D</strong> +3, <strong>C</strong> +1, <strong>I</strong> -3, <strong>S</strong> +0, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 3</p>\n\t"
+      "notes": "\n\t<p><i> Uma nuvem estridente de besouros ovais iridescentes. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 14, <strong>ATQ</strong> 2 mordida +3 (1d6), <strong>MV</strong> Perto (voar), <strong>F</strong> -1, <strong>D</strong> +3, <strong>C</strong> +1, <strong>I</strong> -3, <strong>S</strong> +0, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 3</p>\n\t"
     },
     "Scarecrow": {
       "name": "Espantalho",
@@ -3508,7 +3508,7 @@
         }
       },
       "moveNote": "escalar",
-      "notes": "\n<p><i> Escorpiões revestidos de quitina, tão grandes quanto camelos. </i></p>\n\t\n\t<p><strong>CA</strong> 14, <strong>PV</strong> 13, <strong>ATQ</strong> 1 garra +2 (1d6 + agarrar) e 1 ferrão +2 (1d4 + veneno), <strong>MV</strong> Perto (escalar), <strong>F</strong> +2, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> -4, <strong>S</strong> +0, <strong>Car</strong> -4, <strong>AL</strong> N, <strong>NV</strong> 3</p>\n\t<p><strong><strong>Agrrar</strong></strong>. [[check 12 str]] ou o alvo é\nagarrado. [[check 12 str]] em seu turno\npara se libertar.</p><p><strong>Veneno</strong>. [[check 12 con]] ou cai para 0 PV.</p>"
+      "notes": "\n<p><i> Escorpiões revestidos de quitina, tão grandes quanto camelos. </i></p>\n\t\n\t<p><strong>CA</strong> 14, <strong>PV</strong> 13, <strong>ATQ</strong> 1 garra +2 (1d6 + agarrar) e 1 ferrão +2 (1d4 + veneno), <strong>MV</strong> Perto (escalar), <strong>F</strong> +2, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> -4, <strong>S</strong> +0, <strong>Car</strong> -4, <strong>AL</strong> N, <strong>NV</strong> 3</p>\n\t<p><strong><strong>Agarrar</strong></strong>. [[check 12 str]] ou o alvo é\nagarrado. [[check 12 str]] em seu turno\npara se libertar.</p><p><strong>Veneno</strong>. [[check 12 con]] ou cai para 0 PV.</p>"
     },
     "Shadow": {
       "name": "Sombra",
@@ -3558,7 +3558,7 @@
     },
     "Shark, Megalodon": {
       "name": "Tubarão Megalodonte",
-      "tokenName": "Megalodonte",
+      "tokenName": "Tubarão Megalodonte",
       "items": {
         "Bite": {
           "name": "Mordida"
@@ -3591,17 +3591,17 @@
       "tokenName": "Esqueleto",
       "items": {
         "Shortsword": {
-          "name": "Espada curta"
+          "name": "Espada Curta"
         },
         "Shortbow": {
-          "name": "Arco curto"
+          "name": "Arco Curto"
         },
         "Undead": {
-          "name": "Morto-vivo",
+          "name": "Morto-Vivo",
           "description": "<p>Imune a testes de moral.</p>"
         }
       },
-      "notes": "\n<p><i> Um esqueleto de ossos descorados, com pontos vermelhos de luz nos seus olhos. </i></p>\n\t\n\t<p><strong>CA</strong> 13 (cota de malha), <strong>PV</strong> 11, <strong>ATQ</strong> 1 espada curta +1 (1d6) ou 1 arco curto (Longe) +0 (1d4), <strong>MV</strong> Perto, <strong>F</strong> +1, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> -2, <strong>S</strong> +0, <strong>Car</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 2</p>\n\t<p><strong>Morto-vivo</strong>. Imune a testes de moral.</p>"
+      "notes": "\n<p><i> Um esqueleto de ossos descorados, com pontos vermelhos de luz nos seus olhos. </i></p>\n\t\n\t<p><strong>CA</strong> 13 (cota de malha), <strong>PV</strong> 11, <strong>ATQ</strong> 1 espada curta +1 (1d6) ou 1 arco curto (Longe) +0 (1d4), <strong>MV</strong> Perto, <strong>F</strong> +1, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> -2, <strong>S</strong> +0, <strong>Car</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 2</p>\n\t<p><strong>Morto-Vivo</strong>. Imune a testes de moral.</p>"
     },
     "Smilodon": {
       "name": "Esmilodonte",
@@ -3630,7 +3630,7 @@
     },
     "Snake, Giant": {
       "name": "Cobra Gigante",
-      "tokenName": "Gobra Gigante",
+      "tokenName": "Cobra Gigante",
       "items": {
         "Bite": {
           "name": "Mordida"
@@ -3641,11 +3641,11 @@
         }
       },
       "moveNote": "escalar",
-      "notes": "\n<p><i>Uma enorme serpente de pele manchada que pode engolir uma vaca por inteiro.</i></p>\n\n<p><strong>CA</strong> 12,<strong> PV</strong> 23, ATQ</strong> 2 mordida +4 (1d6) e 1 constrição (Perto), <strong>MV</strong> Perto (escalar), <strong>F</strong> +3, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> -2, <strong>S</strong> +0, <strong>Car</strong> -2, <strong>AL</strong> N, <strong>NV</strong> 5</p>\n\n<p><strong>Constrição.</strong>FOR disputada para manter o alvo imóvel por uma rodada.</p>"
+      "notes": "\n<p><i>Uma enorme serpente de pele manchada que pode engolir uma vaca por inteiro.</i></p>\n\n<p><strong>CA</strong> 12,<strong> PV</strong> 23, ATQ</strong> 2 mordida +4 (1d6) e 1 constrição (Perto), <strong>MV</strong> Perto (escalar), <strong>F</strong> +3, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> -2, <strong>S</strong> +0, <strong>Car</strong> -2, <strong>AL</strong> N, <strong>NV</strong> 5</p>\n\n<p><strong>Constrição.</strong> FOR disputada para manter o alvo imóvel por uma rodada.</p>"
     },
     "Snake, Swarm": {
-      "name": "Cobras, Grupo de",
-      "tokenName": "Cobras, Grupo De",
+      "name": "Grupo de Cobras",
+      "tokenName": "Grupo de Cobras",
       "items": {
         "Bite": {
           "name": "Mordida",
@@ -3653,10 +3653,10 @@
         },
         "Poison": {
           "name": "Veneno",
-          "description": "<p>[[check 12 CON]] ou cai para 0 PV em 1d4 rodadas.</p>"
+          "description": "<p>[[check 12 con]] ou cai para 0 PV em 1d4 rodadas.</p>"
         }
       },
-      "notes": "\n<p><i> Uma onda turbulenta de cobras deslizando e fluindo pelo chão. </i></p> \t \t<p><strong>CA</strong> 12, <strong>PV</strong> 19, <strong>ATQ</strong> 3 mordida +2 (1d4 + veneno), <strong>MV</strong> Perto, <strong>F</strong> -3, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> -3, <strong>S</strong> +0, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 4</p> \t<p><strong> Veneno</strong>. [[check 12 CON]] ou cai para 0 PV em 1d4 rodadas.</p>"
+      "notes": "\n<p><i> Uma onda turbulenta de cobras deslizando e fluindo pelo chão. </i></p> \t \t<p><strong>CA</strong> 12, <strong>PV</strong> 19, <strong>ATQ</strong> 3 mordida +2 (1d4 + veneno), <strong>MV</strong> Perto, <strong>F</strong> -3, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> -3, <strong>S</strong> +0, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 4</p> \t<p><strong> Veneno</strong>. [[check 12 con]] ou cai para 0 PV em 1d4 rodadas.</p>"
     },
     "Soldier": {
       "name": "Soldado",
@@ -3736,10 +3736,10 @@
         }
       },
       "moveNote": "escalar",
-      "notes": "\n\t<p><i> AAbdômen bulboso e oito pernas finas e compridas. Vivem no alto de árvores ou em cavernas emboscando suas presas, capturando-as para devorá-las depois. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 13, <strong>ATQ</strong> 1 mordida +3 (1d4 + veneno), <strong>MV</strong> Perto (escalar), <strong>F</strong> +2, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> -2, <strong>S</strong> +1, <strong>Car</strong> -2, <strong>AL</strong> N, <strong>NV</strong> 3</p>\n\t<p><strong> Veneno</strong>. [[check 12 con]] ou paralisia por [[/r 1d4]] horas.</p>"
+      "notes": "\n\t<p><i> Abdômen bulboso e oito pernas finas e compridas. Vivem no alto de árvores ou em cavernas emboscando suas presas, capturando-as para devorá-las depois. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 13, <strong>ATQ</strong> 1 mordida +3 (1d4 + veneno), <strong>MV</strong> Perto (escalar), <strong>F</strong> +2, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> -2, <strong>S</strong> +1, <strong>Car</strong> -2, <strong>AL</strong> N, <strong>NV</strong> 3</p>\n\t<p><strong> Veneno</strong>. [[check 12 con]] ou paralisia por [[/r 1d4]] horas.</p>"
     },
     "Spider, Swarm": {
-      "name": "Aranhas, Grupo de",
+      "name": "Grupo de Aranhas",
       "tokenName": "Grupo de Aranhas",
       "items": {
         "Bite": {
@@ -3752,7 +3752,7 @@
         }
       },
       "moveNote": "escalar",
-      "notes": "\n<p><i> Véritable tapis d’araignées furieuses. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 9, <strong>ATQ</strong> 1 mordida +3 (1d4 + veneno), <strong>MV</strong> Perto (escalar), <strong>F</strong> -1, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> -3, <strong>S</strong> +1, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 2</p>\n\t<p><strong> Veneno</strong>. [[check 12 con]] ou paralisia por [[/r 1d4]] horas.</p>"
+      "notes": "\n<p><i> Verdadeiro tapete de aranhas furiosas. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 9, <strong>ATQ</strong> 1 mordida +3 (1d4 + veneno), <strong>MV</strong> Perto (escalar), <strong>F</strong> -1, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> -3, <strong>S</strong> +1, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 2</p>\n\t<p><strong> Veneno</strong>. [[check 12 con]] ou paralisia por [[/r 1d4]] horas.</p>"
     },
     "Stingbat": {
       "name": "Morcego-Ferrão",
@@ -3835,7 +3835,7 @@
         }
       },
       "moveNote": "escavar, nadar",
-      "notes": "\n<p><i> Um réptil colossal e quadrúpede, com mandíbula de crocodilo, escamas de âmbar e uma carapaça pontiaguda, dura como diamante. Ele se ergue como uma montanha, e é capaz de engolir vilarejos inteiros de uma só vez. O Tarrasque hiberna nas profundezas da terra ou no fundo do mar durante séculos a fio, despertando apenas por tempo suficiente para encher sua enorme barriga em uma grande onda de terror e destruição indiscriminada. Só existe um Tarrasque, e ele é a criatura mais temida que já caminhou sobre a terra. </i></p>\n\t\n\t<p><strong>CA</strong> 22, <strong>PV</strong> 140, <strong>ATQ</strong> 4 golpe devastador (Perto) +13 (3d10 + decepar) e 1 mordida (Perto) +13 (5d10 + decepar + engolir), <strong>MV</strong> Perto x3 (escavar, nadar), <strong>F</strong> +7, <strong>D</strong> +2, <strong>C</strong> +5, <strong>I</strong> -3, <strong>S</strong> +1, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 30</p>\n\t<p><strong> Lendário</strong>. . Só pode ser ferido por fontes de dano mágicas. Magias hostis que tenham o Tarrasque como alvo são conjuradas com CD 18.</p><p><strong>Habitante das Profundezas</strong>.  Imune a dano de fogo e frio. Anfíbio.</p><p><strong>Morte Definitiva</strong>. Não pode ser morto permanentemente, a menos que uma magia desejo seja conjurada sobre ele quando estiver com 0 PV.</p><p><strong>Destruição</strong>. Em vez de atacar, move-se a distância Longe em linha reta, e faz 1 ataque de mordida. Se acertar, o dano é triplicado.</p><p><strong>Carapaça Reflexiva</strong>. Imune a raios, explosões ou projéteis de energia. Chance de 1:6 de que sejam refletidos de volta à sua origem.</p><p><strong>Regeneração</strong>. Recupera [[/r 4d10]] PV perdidos no início do seu turno.</p><p><strong>Decepar</strong>. Em uma jogada de ataque natural de 18+, o ataque também decepa um membro aleatório. 1d6: 1. Cabeça, 2–4. Braço, 5–6. Perna.</p><p><strong>Engolir</strong>. [[check 18 str]] ou o alvo é engolido por inteiro. Escuridão total dentro da criatura e [[/r 4d10]] de dano por rodada. O Tarrasque regurgita tudo que engoliu se sofrer pelo menos 30 de dano em uma única rodada na parte interna de sua garganta.</p>"
+      "notes": "\n<p><i> Um réptil colossal e quadrúpede, com mandíbula de crocodilo, escamas de âmbar e uma carapaça pontiaguda, dura como diamante. Ele se ergue como uma montanha, e é capaz de engolir vilarejos inteiros de uma só vez. O Tarrasque hiberna nas profundezas da terra ou no fundo do mar durante séculos a fio, despertando apenas por tempo suficiente para encher sua enorme barriga em uma grande onda de terror e destruição indiscriminada. Só existe um Tarrasque, e ele é a criatura mais temida que já caminhou sobre a terra. </i></p>\n\t\n\t<p><strong>CA</strong> 22, <strong>PV</strong> 140, <strong>ATQ</strong> 4 golpe devastador (Perto) +13 (3d10 + decepar) e 1 mordida (Perto) +13 (5d10 + decepar + engolir), <strong>MV</strong> Perto x3 (escavar, nadar), <strong>F</strong> +7, <strong>D</strong> +2, <strong>C</strong> +5, <strong>I</strong> -3, <strong>S</strong> +1, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 30</p>\n\t<p><strong> Lendário</strong>. Só pode ser ferido por fontes de dano mágicas. Magias hostis que tenham o Tarrasque como alvo são conjuradas com CD 18.</p><p><strong>Habitante das Profundezas</strong>.  Imune a dano de fogo e frio. Anfíbio.</p><p><strong>Morte Definitiva</strong>. Não pode ser morto permanentemente, a menos que uma magia desejo seja conjurada sobre ele quando estiver com 0 PV.</p><p><strong>Destruição</strong>. Em vez de atacar, move-se a distância Longe em linha reta, e faz 1 ataque de mordida. Se acertar, o dano é triplicado.</p><p><strong>Carapaça Reflexiva</strong>. Imune a raios, explosões ou projéteis de energia. Chance de 1:6 de que sejam refletidos de volta à sua origem.</p><p><strong>Regeneração</strong>. Recupera [[/r 4d10]] PV perdidos no início do seu turno.</p><p><strong>Decepar</strong>. Em uma jogada de ataque natural de 18+, o ataque também decepa um membro aleatório. 1d6: 1. Cabeça, 2–4. Braço, 5–6. Perna.</p><p><strong>Engolir</strong>. [[check 18 str]] ou o alvo é engolido por inteiro. Escuridão total dentro da criatura e [[/r 4d10]] de dano por rodada. O Tarrasque regurgita tudo que engoliu se sofrer pelo menos 30 de dano em uma única rodada na parte interna de sua garganta.</p>"
     },
     "The Ten-eyed Oracle": {
       "name": "O Oráculo de Dez Olhos",
@@ -3898,7 +3898,7 @@
       "tokenName": "O Mercador Errante",
       "items": {
         "+3 Vorpal Bastard Sword": {
-          "name": "Espada bastarda vorpal +3",
+          "name": "Espada Bastarda Vorpal +3",
           "special": "Decapitar"
         },
         "Legendary": {
@@ -3930,7 +3930,7 @@
           "description": "<p>O Mercador Errante não sofre os efeitos negativos dos ambientes naturais, se assim ele desejar.</p>"
         }
       },
-      "notes": "\n<p><i>Um mercador animado que aparenta ser um homem saudável de meia-idade com um bigode estilo guidão. Ele veste uma camisa branca, calças curtas e um avental de couro, além de carregar uma mochila imensa, com as costuras quase rompendo de tão cheia. Poucos conhecem a verdadeira natureza e origem do mercador, mas alguns teorizam que ele é um ser imortal ou um deus (e eles não estão totalmente errados). O Mercador Errante sempre tem algo útil, exótico ou incrível para vender a um preço razoável, e nunca se sabe quando ou onde ele irá surgir novamente...</i></p>\n\t\n\t<p><strong>CA</strong> 16 (cota de malha de mitral), <strong>PV</strong> 71, <strong>ATQ</strong> 4 espada bastarda vorpal +3 +9 (1d10 + decapitar), <strong>MV</strong> Perto, <strong>F</strong> +3, <strong>D</strong> +3, <strong>C</strong> +4, <strong>I</strong> +3, <strong>S</strong> +4, <strong>Car</strong> +5, <strong>AL</strong> O, <strong>NV</strong> 15</p>\n\t<p><strong>Lendário</strong>. Só pode ser ferido por fontes de dano mágicas. Magias hostis que tenham o Mercador Errante como alvo são conjuradas com CD 18.</p><p><strong>Amuleto de Rahm-Hotep</strong>. Em vez de atacar, se teleporta para um local aleatório no multiverso</p><p><strong>SBolsa sem Fundo</strong>. Contém 200 espaços de equipamentos em pequenos bolsos menores e mágicos. Pesa o mesmo que uma mochila comum. O Mercador Errante pode invocá-la a partir de qualquer lugar somente estalando seus dedos.</p><p><strong>Dados da Verdade</strong>.Um conjunto de três dados de seis faces, cujos resultados não podem ser alterados de nenhuma maneira, seja magicamente ou de forma mundana.</p><p><strong>Decapitar</strong>. Em uma jogada de ataque natural de 18–20, decapita o alvo.</p><p><strong>Acerto de Contas</strong>.  Qualquer criatura que roubar do Mercador Errante contrai uma maldição. Nos próximos [[/r 2d8]] dias, essa criatura se transforma em uma cocatriz. Essa maldição só pode ser dissipada com uma magia desejo ou ao devolver os itens roubados.</p><p><strong>Terras Estranhas</strong>. O Mercador Errante não sofre os efeitos negativos dos ambientes naturais, se assim ele desejar.</p>"
+      "notes": "\n<p><i>Um mercador animado que aparenta ser um homem saudável de meia-idade com um bigode estilo guidão. Ele veste uma camisa branca, calças curtas e um avental de couro, além de carregar uma mochila imensa, com as costuras quase rompendo de tão cheia. Poucos conhecem a verdadeira natureza e origem do mercador, mas alguns teorizam que ele é um ser imortal ou um deus (e eles não estão totalmente errados). O Mercador Errante sempre tem algo útil, exótico ou incrível para vender a um preço razoável, e nunca se sabe quando ou onde ele irá surgir novamente...</i></p>\n\t\n\t<p><strong>CA</strong> 16 (cota de malha de mitral), <strong>PV</strong> 71, <strong>ATQ</strong> 4 espada bastarda vorpal +3 +9 (1d10 + decapitar), <strong>MV</strong> Perto, <strong>F</strong> +3, <strong>D</strong> +3, <strong>C</strong> +4, <strong>I</strong> +3, <strong>S</strong> +4, <strong>Car</strong> +5, <strong>AL</strong> O, <strong>NV</strong> 15</p>\n\t<p><strong>Lendário</strong>. Só pode ser ferido por fontes de dano mágicas. Magias hostis que tenham o Mercador Errante como alvo são conjuradas com CD 18.</p><p><strong>Amuleto de Rahm-Hotep</strong>. Em vez de atacar, se teleporta para um local aleatório no multiverso</p><p><strong>Bolsa sem Fundo</strong>. Contém 200 espaços de equipamentos em pequenos bolsos menores e mágicos. Pesa o mesmo que uma mochila comum. O Mercador Errante pode invocá-la a partir de qualquer lugar somente estalando seus dedos.</p><p><strong>Dados da Verdade</strong>. Um conjunto de três dados de seis faces, cujos resultados não podem ser alterados de nenhuma maneira, seja magicamente ou de forma mundana.</p><p><strong>Decapitar</strong>. Em uma jogada de ataque natural de 18–20, decapita o alvo.</p><p><strong>Acerto de Contas</strong>. Qualquer criatura que roubar do Mercador Errante contrai uma maldição. Nos próximos [[/r 2d8]] dias, essa criatura se transforma em uma cocatriz. Essa maldição só pode ser dissipada com uma magia desejo ou ao devolver os itens roubados.</p><p><strong>Terras Estranhas</strong>. O Mercador Errante não sofre os efeitos negativos dos ambientes naturais, se assim ele desejar.</p>"
     },
     "Thief": {
       "name": "Ladrão",
@@ -3940,25 +3940,25 @@
           "name": "Adaga"
         },
         "Shortsword": {
-          "name": "Espada curta"
+          "name": "Espada Curta"
         },
         "Stealthy": {
           "name": "Furtivo",
           "description": "<p>VANT em testes de DES para se esgueirar e se esconder.</p>"
         },
         "Backstab": {
-          "name": "Apunhalada Pelas Costas",
+          "name": "Apunhalada pelas Costas",
           "description": "<p>Causa dano dobrado em alvos surpresos.</p>"
         }
       },
-      "notes": "\n<p><i> Um ladrão astuto em um manto preto.</i></p>\n\t\n\t<p><strong>CA</strong> 13 (couro), <strong>PV</strong> 13, <strong>ATQ</strong> 1 adaga (Adjacente/Perto) +2 (1d4) ou 1 espada curta +0 (1d6), <strong>MV</strong> Perto, <strong>F</strong> +0, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> +0, <strong>S</strong> +0, <strong>Car</strong> +1, <strong>AL</strong> N, <strong>NV</strong> 3</p>\n\t<p><strong> Furtivo</strong>. VANT em testes de DES para se esgueirar e se esconder.</p><p><strong> Apunhalada Pelas Costas</strong>. Causa dano dobrado em alvos surpresos.</p>"
+      "notes": "\n<p><i> Um ladrão astuto em um manto preto.</i></p>\n\t\n\t<p><strong>CA</strong> 13 (couro), <strong>PV</strong> 13, <strong>ATQ</strong> 1 adaga (Adjacente/Perto) +2 (1d4) ou 1 espada curta +0 (1d6), <strong>MV</strong> Perto, <strong>F</strong> +0, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> +0, <strong>S</strong> +0, <strong>Car</strong> +1, <strong>AL</strong> N, <strong>NV</strong> 3</p>\n\t<p><strong> Furtivo</strong>. VANT em testes de DES para se esgueirar e se esconder.</p><p><strong> Apunhalada pelas Costas</strong>. Causa dano dobrado em alvos surpresos.</p>"
     },
     "Thug": {
       "name": "Criminoso",
       "tokenName": "Criminoso",
       "items": {
         "Shortsword": {
-          "name": "Espada curta"
+          "name": "Espada Curta"
         }
       },
       "notes": "\n\t<p><i> Um brutamontes rude e coberto de cicatrizes </i></p>\n\t\n\t<p><strong>CA</strong> 13 (couro + escudo), <strong>PV</strong> 4, <strong>ATQ</strong> 1 espada curta +1 (1d6), <strong>MV</strong> Perto, <strong>F</strong> +1, <strong>D</strong> +0, <strong>C</strong> +0, <strong>I</strong> -1, <strong>S</strong> +1, <strong>Car</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 1</p>\n\t"
@@ -4069,7 +4069,7 @@
           "description": "<p>Um alvo humanoide que possa vê-lo, e que esteja Perto dele, fica sob o controle do vampiro por [[/r 1d4]] dias ([[check 15 cha]] para evitar).</p>"
         },
         "Supreme Undead": {
-          "name": "Morto-vivo Superior",
+          "name": "Morto-Vivo Superior",
           "description": "<p>Imune a testes de moral. Só pode ser ferido por fontes de dano mágicas.</p>"
         },
         "Blood Drain": {
@@ -4086,7 +4086,7 @@
         }
       },
       "moveNote": "escalar",
-      "notes": "\n\t<p><i> Mortos-vivos pálidos, poderosos e maléficos que se alimentam de sangue. Eles detestam a luz do sol e protegem seus caixões a todo custo. </i></p>\n\t\n\t<p><strong>CA</strong> 15, <strong>PV</strong> 52, <strong>ATQ</strong>3 mordida +7 (1d8 + drenar sangue) ou 1 encantar,<strong>MV</strong> Perto (escalar), <strong>F</strong> +4, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +1, <strong>S</strong> +3, <strong>Car</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 11</p>\n\t<p><strong> Morto-vivo Superior.</strong>. Imune a testes de moral. Só pode ser ferido por fontes de dano mágicas.</p><p><strong>Drenar Sangue. </strong>.O vampiro se cura em [[/r 2d6]] PV, e o alvo perde [[/r 1d4]] de CON de forma permanente. Ao chegar a 0 CON, o alvo morre e retorna como um vampiro ou uma cria vampírica (ao critério do vampiro).</p><p><strong>Encantar.</strong>. Um alvo humanoide que possa vê-lo, e que esteja Perto dele, fica sob o controle do vampiro por [[/r 1d4]] dias ([[check 15 cha]] para evitar).</p><p><strong>Mudar de Forma.</strong> Em vez de atacar, se transforma em um morcego, um lobo, ou de volta à sua forma original.</p><p><strong>Vampiro.</strong> Deve dormir em um caixão diariamente, ou perde [[/r 2d6]] PV por dia, que não podem ser curados até que descanse em um caixão. Sofre [[/r 3d8]] de dano a cada rodada que estiver sob luz solar direta. Não pode ser morto, a menos que seu coração seja perfurado com uma estaca de madeira enquanto estiver com 0 PV.</p>"
+      "notes": "\n\t<p><i> Mortos-vivos pálidos, poderosos e maléficos que se alimentam de sangue. Eles detestam a luz do sol e protegem seus caixões a todo custo. </i></p>\n\t\n\t<p><strong>CA</strong> 15, <strong>PV</strong> 52, <strong>ATQ</strong>3 mordida +7 (1d8 + drenar sangue) ou 1 encantar,<strong>MV</strong> Perto (escalar), <strong>F</strong> +4, <strong>D</strong> +3, <strong>C</strong> +3, <strong>I</strong> +1, <strong>S</strong> +3, <strong>Car</strong> +4, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 11</p>\n\t<p><strong> Morto-Vivo Superior.</strong>. Imune a testes de moral. Só pode ser ferido por fontes de dano mágicas.</p><p><strong>Drenar Sangue. </strong>.O vampiro se cura em [[/r 2d6]] PV, e o alvo perde [[/r 1d4]] de CON de forma permanente. Ao chegar a 0 CON, o alvo morre e retorna como um vampiro ou uma cria vampírica (ao critério do vampiro).</p><p><strong>Encantar.</strong>. Um alvo humanoide que possa vê-lo, e que esteja Perto dele, fica sob o controle do vampiro por [[/r 1d4]] dias ([[check 15 cha]] para evitar).</p><p><strong>Mudar de Forma.</strong> Em vez de atacar, se transforma em um morcego, um lobo, ou de volta à sua forma original.</p><p><strong>Vampiro.</strong> Deve dormir em um caixão diariamente, ou perde [[/r 2d6]] PV por dia, que não podem ser curados até que descanse em um caixão. Sofre [[/r 3d8]] de dano a cada rodada que estiver sob luz solar direta. Não pode ser morto, a menos que seu coração seja perfurado com uma estaca de madeira enquanto estiver com 0 PV.</p>"
     },
     "Vampire Spawn": {
       "name": "Cria Vampírica",
@@ -4097,27 +4097,27 @@
           "special": "Drenar Sangue"
         },
         "Greater Undead": {
-          "name": "Morto-vivo Superior.",
+          "name": "Morto-Vivo Superior",
           "description": "<p>Imune a testes de moral. Só pode ser ferido por prata ou fontes de dano mágicas.</p>"
         },
         "Blood Drain": {
-          "name": "Drenar Sangue.",
+          "name": "Drenar Sangue",
           "description": "<p>O vampiro se cura em [[/r 2d6]] PV, e o alvo perde [[/r 1d4]] de CON de forma permanente. Ao chegar a 0 CON, o alvo morre e retorna como uma cria vampírica.</p>"
         },
         "Vampire": {
-          "name": "Vampiro.",
+          "name": "Vampiro",
           "description": "<p>Deve dormir em um caixão diariamente, ou perde [[/r 2d6]] PV por dia, que não podem ser curados até que descanse em um caixão. Sofre [[/r 3d8]] de dano a cada rodada que estiver sob luz solar direta. Não pode ser morto, a menos que seu coração seja perfurado com uma estaca de madeira enquanto estiver com 0 PV.</p>"
         }
       },
       "moveNote": "escalar",
-      "notes": "\n\t<p><i> Vampiros inferiores e selvagens, nascidos de uma mordida de seus mestres vampíricos. Sedentos por sangue e cruéis, raramente deixam uma vítima viva.</i></p>\n\t\n\t<p><strong>CA</strong> 13 (couro), <strong>PV</strong> 25, <strong>ATQ</strong> 2 mordida +4 (1d8 + drenar sangue), <strong>MV</strong> Perto\n(escalar), <strong>F</strong> +3, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> -1, <strong>S</strong> +1, <strong>Car</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 5</p>\n\t<p><strong>Morto-vivo Superior.</strong>. Imune a testes de moral. Só pode ser ferido por prata ou fontes de dano mágicas.</p><p><strong>Drenar Sangue.</strong>. O vampiro se cura em [[/r 2d6]] PV, e o alvo perde [[/r 1d4]] de CON de forma permanente. Ao chegar a 0 CON, o alvo morre e retorna como uma cria vampírica.</p><p><strong>Vampiro.</strong>. Deve dormir em um caixão diariamente, ou perde [[/r 2d6]] PV por dia, que não podem ser curados até que descanse em um caixão. Sofre [[/r 3d8]] de dano a cada rodada que estiver sob luz solar direta. Não pode ser morto, a menos que seu coração seja perfurado com uma estaca de madeira enquanto estiver com 0 PV.</p>"
+      "notes": "\n\t<p><i> Vampiros inferiores e selvagens, nascidos de uma mordida de seus mestres vampíricos. Sedentos por sangue e cruéis, raramente deixam uma vítima viva.</i></p>\n\t\n\t<p><strong>CA</strong> 13 (couro), <strong>PV</strong> 25, <strong>ATQ</strong> 2 mordida +4 (1d8 + drenar sangue), <strong>MV</strong> Perto\n(escalar), <strong>F</strong> +3, <strong>D</strong> +2, <strong>C</strong> +3, <strong>I</strong> -1, <strong>S</strong> +1, <strong>Car</strong> +2, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 5</p>\n\t<p><strong>Morto-Vivo Superior.</strong>. Imune a testes de moral. Só pode ser ferido por prata ou fontes de dano mágicas.</p><p><strong>Drenar Sangue.</strong>. O vampiro se cura em [[/r 2d6]] PV, e o alvo perde [[/r 1d4]] de CON de forma permanente. Ao chegar a 0 CON, o alvo morre e retorna como uma cria vampírica.</p><p><strong>Vampiro.</strong>. Deve dormir em um caixão diariamente, ou perde [[/r 2d6]] PV por dia, que não podem ser curados até que descanse em um caixão. Sofre [[/r 3d8]] de dano a cada rodada que estiver sob luz solar direta. Não pode ser morto, a menos que seu coração seja perfurado com uma estaca de madeira enquanto estiver com 0 PV.</p>"
     },
     "Velociraptor": {
       "name": "Velociraptor",
       "tokenName": "Velociraptor",
       "items": {
         "Claw": {
-          "name": "garra"
+          "name": "Garra"
         },
         "Clever": {
           "name": "Esperto",
@@ -4127,8 +4127,8 @@
       "notes": "\n\t<p><i> Répteis velozes, do tamanho de perus, com garras afiadas em seus dedos. Caçam em bandos. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 10, <strong>ATQ</strong> 1 garra +3 (1d6),<strong>MV</strong> Perto x2, <strong>F</strong> -1, <strong>D</strong> +3, <strong>C</strong> +1, <strong>I</strong> -2, <strong>S</strong> +1, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 2</p>\n\t<p><strong> Esperto. </strong> +1d4 de dano quando está atacando com surpresa.</p>"
     },
     "Violet Fungus": {
-      "name": "Fungo violeta",
-      "tokenName": "Fungo violeta",
+      "name": "Fungo Violeta",
+      "tokenName": "Fungo Violeta",
       "items": {
         "Tendril": {
           "name": "Tentáculo"
@@ -4157,7 +4157,7 @@
           "name": "Falcione"
         },
         "Longbow": {
-          "name": "Arco longo"
+          "name": "Arco Longo"
         },
         "Impervious": {
           "name": "Invulnerável",
@@ -4247,7 +4247,7 @@
           "name": "Rasgar"
         },
         "Carrion Tracker": {
-          "name": "Rastreado de carniça",
+          "name": "Rastreador de Carniça",
           "description": "<p>Pode localizar carne em decomposição com precisão dentro de um raio de 1,6 km.</p>"
         }
       },
@@ -4319,11 +4319,11 @@
           "description": "<p>1d4 de dano de CON. Morre se reduzido a 0 CON.</p>"
         },
         "Greater Undead": {
-          "name": "Morto-vivo Maior",
+          "name": "Morto-Vivo Maior",
           "description": "<p>Imune a testes de moral. Só pode ser ferido por prata ou fontes de dano mágicas.</p>"
         }
       },
-      "notes": " \n   <p><i>Um guerreiro pálido e morto-vivo usando armadura, com uma sinistra inteligência. </i></p> \t\n\n   <p><strong>CA</strong> 14 (cota de malha), <strong>PV</strong> 15, <strong>ATQ</strong> 1 espada bastarda +3 (1d10) e 1 drenar vida +3, <strong>MV</strong> Perto, <strong>F</strong> +3, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> +1, <strong>S</strong> +0, <strong>Car</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 3</p> \t<p><strong> Morto-vivo Maior</strong>. Imune a testes de moral. Só pode ser ferido por prata ou fontes de dano mágicas.</p><p><strong>Drenar Vida</strong>. 1d4 de dano de CON. Morre se reduzido a 0 CON.</p>"
+      "notes": " \n   <p><i>Um guerreiro pálido e morto-vivo usando armadura, com uma sinistra inteligência. </i></p> \t\n\n   <p><strong>CA</strong> 14 (cota de malha), <strong>PV</strong> 15, <strong>ATQ</strong> 1 espada bastarda +3 (1d10) e 1 drenar vida +3, <strong>MV</strong> Perto, <strong>F</strong> +3, <strong>D</strong> +1, <strong>C</strong> +2, <strong>I</strong> +1, <strong>S</strong> +0, <strong>Car</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 3</p> \t<p><strong> Morto-Vivo Maior</strong>. Imune a testes de moral. Só pode ser ferido por prata ou fontes de dano mágicas.</p><p><strong>Drenar Vida</strong>. 1d4 de dano de CON. Morre se reduzido a 0 CON.</p>"
     },
     "Will-o'-Wisp": {
       "name": "Fogo-Fátuo",
@@ -4377,7 +4377,7 @@
           "description": "<p>Preenche um cubo de tamanho Perto que se estende a partir do lobo do inverno. [[check 15 dex]] ou 3d8 de dano. Não pode usar a habilidade novamente por 1d4 rodadas.</p>"
         },
         "Impervious": {
-          "name": "Invunerável",
+          "name": "Invulnerável",
           "description": "<p>Imune ao frio.</p>"
         }
       },
@@ -4402,7 +4402,7 @@
           "special": "Drenar Vida"
         },
         "Greater Undead": {
-          "name": "Morto-vivo Maior",
+          "name": "Morto-Vivo Maior",
           "description": "<p>Imune a testes de moral. Só pode ser ferido por prata ou fontes de dano mágicas.</p>"
         },
         "Incorporeal": {
@@ -4415,7 +4415,7 @@
         }
       },
       "moveNote": "voar",
-      "notes": "\n\t<p><i> Um espírito sombrio fervendo de ira e malícia. Sua presença deixa os animais inquietos. </i></p> \n\n\t<p><strong>CA</strong> 14, <strong>PV</strong> 36, <strong>ATQ</strong> 3 toque da morte +6 (1d10 + drenar vida), <strong>MV</strong> Perto (voar), <strong>F</strong> -4, <strong>D</strong> +4, <strong>C</strong> +0, <strong>I</strong> +0, <strong>S</strong> +0, <strong>Car</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 8</p> \t<p><strong> Morto-vivo Maior</strong>. Imune a testes de moral. Só pode ser ferido por prata ou fontes de dano mágicas.</p><p><strong>Incorpóreo</strong>. Em vez de atacar, pode se tornar corpóreo ou incorpóreo.</p><p><strong>Drenar Vida</strong>. [[/r 1d4]] de dano de CON. Morre se reduzido a 0 CON.</p>"
+      "notes": "\n\t<p><i> Um espírito sombrio fervendo de ira e malícia. Sua presença deixa os animais inquietos. </i></p> \n\n\t<p><strong>CA</strong> 14, <strong>PV</strong> 36, <strong>ATQ</strong> 3 toque da morte +6 (1d10 + drenar vida), <strong>MV</strong> Perto (voar), <strong>F</strong> -4, <strong>D</strong> +4, <strong>C</strong> +0, <strong>I</strong> +0, <strong>S</strong> +0, <strong>Car</strong> +3, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 8</p> \t<p><strong> Morto-Vivo Maior</strong>. Imune a testes de moral. Só pode ser ferido por prata ou fontes de dano mágicas.</p><p><strong>Incorpóreo</strong>. Em vez de atacar, pode se tornar corpóreo ou incorpóreo.</p><p><strong>Drenar Vida</strong>. [[/r 1d4]] de dano de CON. Morre se reduzido a 0 CON.</p>"
     },
     "Wyvern": {
       "name": "Serpe",
@@ -4444,7 +4444,7 @@
           "name": "Pancada"
         },
         "Undead": {
-          "name": "Morto-vivo",
+          "name": "Morto-Vivo",
           "description": "<p>Imune a testes de moral.</p>"
         },
         "Relentless": {
@@ -4452,7 +4452,7 @@
           "description": "<p>Se o zumbi for reduzido a 0 PV por uma fonte de dano não mágica, [[check 15 con]] para ficar com 1 PV em vez disso.</p>"
         }
       },
-      "notes": "\n\t<p><i> Mortos-vivos cambaleantes e em\ndecomposição que caçam em grupos. </i></p>\n\t\n\t<p><strong>CA</strong> 8, <strong>PV</strong> 11, <strong>ATQ</strong> 1 pancada +2 (1d6), <strong>MV</strong> Perto, <strong>F</strong> +2, <strong>D</strong> -2, <strong>C</strong> +2, <strong>I</strong> -2, <strong>S</strong> -2, <strong>Car</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 2</p>\n\t<p><strong> Morto-vivo.</strong>Imune a testes de moral.</p><p><strong>Implacável.</strong>Se o zumbi for reduzido a 0 PV por uma fonte de dano não mágica, [[check 15 con]] para ficar com 1 PV em vez disso.</p>"
+      "notes": "\n\t<p><i> Mortos-vivos cambaleantes e em\ndecomposição que caçam em grupos. </i></p>\n\t\n\t<p><strong>CA</strong> 8, <strong>PV</strong> 11, <strong>ATQ</strong> 1 pancada +2 (1d6), <strong>MV</strong> Perto, <strong>F</strong> +2, <strong>D</strong> -2, <strong>C</strong> +2, <strong>I</strong> -2, <strong>S</strong> -2, <strong>Car</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 2</p>\n\t<p><strong> Morto-Vivo.</strong>Imune a testes de moral.</p><p><strong>Implacável.</strong>Se o zumbi for reduzido a 0 PV por uma fonte de dano não mágica, [[check 15 con]] para ficar com 1 PV em vez disso.</p>"
     }
   }
 }
