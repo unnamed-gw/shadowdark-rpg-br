@@ -437,6 +437,21 @@
               }
             }
           }
+        },
+        "Weapon Attack Damage Bonus": {
+          "name": "Bônus de Dano da Arma",
+          "description": "Bônus de Dano da Arma",
+          "changes": {
+            "system": {
+              "roll": {
+                "attack": {
+                  "damage": {
+                    "this": "1"
+                  }
+                }
+              }
+            }
+          }
         }
       }
     },
