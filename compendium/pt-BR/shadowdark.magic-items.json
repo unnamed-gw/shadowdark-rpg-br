@@ -457,7 +457,7 @@
     },
     "Staff of The Cobra": {
       "name": "Cajado da Cobra",
-      "description": "<p><em>Um cetro curvado com a ponta em forma de cabeça de cobra naja e olhos de rubi.</em></p><p><strong>Bônus.</strong> Cajado +1.</p><p><strong>Benefício.</strong> Todas as cobras têm um comportamento amigável em relação a você, a menos que você faça algo para irritá-las. Uma vez por dia, você pode jogar o cajado no chão. Ele se transforma em uma cobra gigante por 5 rodadas, obedendo aos seus comandos mentais. Se a cobra gigante chegar a 0 PV, ela retorna à forma de cajado.</p><p><strong>Maldição.</strong> Você tem Desvantagem em ataques e conjurações hostis que tenham cobras como alvo.</p>",
+      "description": "<p><em>Um cetro curvado com a ponta em forma de cabeça de cobra naja e olhos de rubi.</em></p><p><strong>Bônus.</strong> Cajado +1.</p><p><strong>Benefício.</strong> Todas as cobras têm um comportamento amigável em relação a você, a menos que você faça algo para irritá-las. Uma vez por dia, você pode jogar o cajado no chão. Ele se transforma em uma cobra gigante por 5 rodadas, obedecendo aos seus comandos mentais. Se a cobra gigante chegar a 0 PV, ela retorna à forma de cajado.</p><p><strong>Maldição.</strong> Você tem Desvantagem em ataques e conjurações hostis que tenham cobras como alvo.</p>",
       "effects": {
         "Weapon Attack Damage Bonus": {
           "name": "Bônus de Dano da Arma",
