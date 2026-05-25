@@ -357,7 +357,7 @@
       "notes": "\n<p><i> Mamífero com uma pele coriácea, do tamanho de uma águia, e que se alimenta de carne. </i></p>\n\t\n\t<p><strong>CA</strong> 12, <strong>PV</strong> 9, <strong>ATQ</strong> 1 mordida +2 (1d6), <strong>MV</strong> Perto (voar), <strong>F</strong> -1, <strong>D</strong> +2, <strong>C</strong> +0, <strong>I</strong> -3, <strong>S</strong> +1, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 2</p>\n\t"
     },
     "Bat, Swarm": {
-      "name": "Nuvem de Morcegos",
+      "name": "Morcegos, Nuvem de",
       "tokenName": "Nuvem de Morcegos",
       "items": {
         "Bite": {
@@ -611,7 +611,7 @@
       "notes": "\n<p><i> Centopeias vermelhas como sangue, cheias de penugens e do tamanho de um braço humano. Sua mordida injeta um veneno ardente que provoca cãibras musculares. </i></p>\n\t\n\t<p><strong>CA</strong> 11, <strong>PV</strong> 4, <strong>ATQ</strong> 1 mordida +1 (1d4 + veneno), <strong>MV</strong> Perto (escalar), <strong>F</strong> -3, <strong>D</strong> +1, <strong>C</strong> +0, <strong>I</strong> -4, <strong>S</strong> -3, <strong>Car</strong> -4, <strong>AL</strong> N, <strong>NV</strong> 1</p>\n\t<p><strong>Veneno</strong>. [[check 12 con]] ou paralisia por [[/r 1d4]] rodadas.</p>"
     },
     "Centipede, Swarm": {
-      "name": "Enxame de Centopeias",
+      "name": "Centopeias, Enxame de",
       "tokenName": "Enxame de Centopeias",
       "items": {
         "Bite": {
@@ -888,7 +888,7 @@
           "description": "<p>Todos os inimigos que estiverem a até Perto x2 têm DESV em testes e ataques por [[/r 1d4]] rodadas ([[check 12 wis]] para evitar).</p>"
         },
         "Carrion Mist": {
-          "name": "Névoa Pútrida",
+          "name": "Névoa Fétida",
           "description": "<p>Toda vez que o vrock é atingido, há uma chance de 3:6 de que ele emita uma névoa fétida em um cubo de tamanho Perto, centrada no vrock. Todos os inimigos sofrem de vômitos violentos por [[/r 1d4]] rodadas ([[check 15 con]] para evitar).</p>"
         }
       },
@@ -1357,7 +1357,7 @@
         }
       },
       "moveNote": "voar",
-      "notes": "<p><i> Um tornado de vento uivante. </i></p>\n\t\n\t<p><strong>CA</strong> 16, <strong>PV</strong> 42, <strong>ATQ</strong> 3 pancada +7 (3d6) ou 1 tornado, <strong>MV</strong> Perto x2 (voar), <strong>F</strong> +3, <strong>D</strong> +5, <strong>C</strong> +2, <strong>I</strong> -2, <strong>S</strong> +1, <strong>Car</strong> -2, <strong>AL</strong> N, <strong>NV</strong> 9</p>\n\t<p><strong> Invulnerável</strong>.  Só pode ser ferido por fontes de dano mágicas.</p><p><strong>Redemoinho</strong>. \nTodos que estiverem Adjacente são arremessados por [[/r 1d12]] metros em uma direção aleatória ([[check 15 dex]] para evitar).</p>"
+      "notes": "<p><i> Um tornado de vento uivante. </i></p>\n\t\n\t<p><strong>CA</strong> 16, <strong>PV</strong> 42, <strong>ATQ</strong> 3 pancada +7 (3d6) ou 1 tornado, <strong>MV</strong> Perto x2 (voar), <strong>F</strong> +3, <strong>D</strong> +5, <strong>C</strong> +2, <strong>I</strong> -2, <strong>S</strong> +1, <strong>Car</strong> -2, <strong>AL</strong> N, <strong>NV</strong> 9</p>\n\t<p><strong> Invulnerável</strong>.  Só pode ser ferido por fontes de dano mágicas.</p><p><strong>Tornado</strong>. \nTodos que estiverem Adjacente são arremessados por [[/r 1d12]] metros em uma direção aleatória ([[check 15 dex]] para evitar).</p>"
     },
     "Elemental, Air (Lesser)": {
       "name": "Elemental de Ar (Menor)",
@@ -1987,14 +1987,14 @@
         },
         "Charge": {
           "name": "Investida",
-          "description": "<p>Move-se a distância Perto x2 em linha reta, e faz 1 ataque de chifre. Se acertar, o dano é triplicado.</p>"
+          "description": "<p>Move-se a distância Perto x2 em linha reta, e faz 1 ataque de chifres. Se acertar, o dano é triplicado.</p>"
         },
         "Petrifying Breath": {
           "name": "Sopro Petrificante",
           "description": "<p>Preenche um cubo de tamanho Perto que se estende a partir do górgon. [[check 15 con]] ou petrificação (o górgon é imune).</p>"
         }
       },
-      "notes": "\n<p><i> Um touro bufando, feito inteiramente de placas de ferro. Suas narinas emitem uma nuvem de névoa verde. </i></p>\n\t\n\t<p><strong>CA</strong> 18, <strong>PV</strong> 33, <strong>ATQ</strong> 2 chifres +6 (2d8) ou 1 investida ou 1 sopro petrificante, <strong>MV</strong> Perto x2, <strong>F</strong> +4, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> -3, <strong>S</strong> +1, <strong>Car</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 7</p>\n\t<p><strong> Investida</strong>. Move-se a distância Perto x2 em linha reta, e faz 1 ataque de chifre. Se acertar, o dano é triplicado.</p><p><strong>Sopro Petrificante</strong>. Preenche um cubo de tamanho Perto que se estende a partir do górgon. [[check 15 con]] ou petrificação (o górgon é imune).</p>"
+      "notes": "\n<p><i> Um touro bufando, feito inteiramente de placas de ferro. Suas narinas emitem uma nuvem de névoa verde. </i></p>\n\t\n\t<p><strong>CA</strong> 18, <strong>PV</strong> 33, <strong>ATQ</strong> 2 chifres +6 (2d8) ou 1 investida ou 1 sopro petrificante, <strong>MV</strong> Perto x2, <strong>F</strong> +4, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> -3, <strong>S</strong> +1, <strong>Car</strong> -3, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 7</p>\n\t<p><strong> Investida</strong>. Move-se a distância Perto x2 em linha reta, e faz 1 ataque de chifres. Se acertar, o dano é triplicado.</p><p><strong>Sopro Petrificante</strong>. Preenche um cubo de tamanho Perto que se estende a partir do górgon. [[check 15 con]] ou petrificação (o górgon é imune).</p>"
     },
     "Gorilla": {
       "name": "Gorila",
@@ -3012,7 +3012,7 @@
       "notes": "\n<p><i> Águias enormes e majestosas, feitas de chamas ardentes. São inteligentes e imbuídas de magia imortal. </i></p>\n\t\n\t<p><strong>CA</strong> 16, <strong>PV</strong> 60, <strong>ATQ</strong> 4 despedaçar +8 (2d12), <strong>MV</strong> Perto x2 (voar), <strong>F</strong> +3, <strong>D</strong> +4, <strong>C</strong> +2, <strong>I</strong> +3, <strong>S</strong> +3, <strong>Car</strong> +3, <strong>AL</strong> O, <strong>NV</strong> 13</p>\n\t<p><strong> Invulnerável</strong>. Imune ao fogo. Só pode ser ferida por fontes de dano mágicas.</p><p><strong>Explosão</strong>. No momento de sua morte, todas as criaturas que estejam Perto x2 da fênix sofrem [[/r 10d6]] de dano ([[check 18 dex]] para evitar).</p><p><strong>Aura de Calor</strong>. Criaturas que estejam Perto da fênix, no começo de seus turnos, sofrem [[/r 2d6]] de dano ([[check 15 con]] para evitar).</p><p><strong>Renascimento</strong>. Um ovo incandescente é deixado para trás no momento de sua morte. A fênix nasce novamente a partir dele em [[/r 1d4]] dias.</p>"
     },
     "Piranha, Swarm": {
-      "name": "Cardume de Piranhas",
+      "name": "Piranhas, Cardume de",
       "tokenName": "Cardume de Piranhas",
       "items": {
         "Bite": {
@@ -3204,7 +3204,7 @@
       "notes": "\n<p><i> Ratos inteligentes e tão grandes quanto gatos, com pelagem sarnenta e cauda semelhante a um verme. </i></p>\n\t\n\t<p><strong>CA</strong> 11, <strong>PV</strong> 5, <strong>ATQ</strong> 1 mordida +1 (1d4 + doença), <strong>MV</strong> Perto, <strong>F</strong> -2, <strong>D</strong> +1, <strong>C</strong> +1, <strong>I</strong> -2, <strong>S</strong> +1, <strong>Car</strong> -2, <strong>AL</strong> N, <strong>NV</strong> 1</p>\n\t<p><strong> Doença</strong>. [[check 12 con]] ou [[/r 1d4]] de dano de CON (não pode receber cura enquanto estiver doente). Repita o teste uma vez por dia; o efeito se\nencerra com um sucesso. O alvo morre ao chegar a 0 CON.</p>"
     },
     "Rat, Swarm": {
-      "name": "Bando de Ratos",
+      "name": "Ratos, Bando de",
       "tokenName": "Bando de Ratos",
       "items": {
         "Bite": {
@@ -3446,7 +3446,7 @@
       "notes": "\n<p><i> Povo lagarto cor de fogo com longas caudas. Ondulações em forma de chamas percorrem suas costas. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 24, <strong>ATQ</strong> 2 lança flamejante (Adjacente/Perto) +4 (1d6, omcemdoar) ou 1 arco longo de ferro (Longe) +2 (1d8), <strong>MV</strong> Perto, <strong>F</strong> +2, <strong>D</strong> +0, <strong>C</strong> +2, <strong>I</strong> -1, <strong>S</strong> +1, <strong>Car</strong> -1, <strong>AL</strong> <strong>C</strong>, <strong>NV</strong> 5</p>\n\t<p><strong>Invulnerável</strong>. Imune ao fogo.</p><p><strong>Aura de Calor</strong>. Criaturas que estiverem Perto sofrem [[/r 1d8]] de dano ([[check 12 con]] em seu turno para evitar).</p>"
     },
     "Scarab, Swarm": {
-      "name": "Enxame de Escaravelhos",
+      "name": "Escaravelhos, Enxame de",
       "tokenName": "Enxame de Escaravelhos",
       "items": {
         "Bite": {
@@ -3644,7 +3644,7 @@
       "notes": "\n<p><i>Uma enorme serpente de pele manchada que pode engolir uma vaca por inteiro.</i></p>\n\n<p><strong>CA</strong> 12,<strong> PV</strong> 23, ATQ</strong> 2 mordida +4 (1d6) e 1 constrição (Perto), <strong>MV</strong> Perto (escalar), <strong>F</strong> +3, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> -2, <strong>S</strong> +0, <strong>Car</strong> -2, <strong>AL</strong> N, <strong>NV</strong> 5</p>\n\n<p><strong>Constrição.</strong> FOR disputada para manter o alvo imóvel por uma rodada.</p>"
     },
     "Snake, Swarm": {
-      "name": "Grupo de Cobras",
+      "name": "Cobras, Grupo de",
       "tokenName": "Grupo de Cobras",
       "items": {
         "Bite": {
@@ -3653,7 +3653,7 @@
         },
         "Poison": {
           "name": "Veneno",
-          "description": "<p>[[check 12 con]] ou cai para 0 PV em 1d4 rodadas.</p>"
+          "description": "<p>[[check 12 CON]] ou cai para 0 PV em 1d4 rodadas.</p>"
         }
       },
       "notes": "\n<p><i> Uma onda turbulenta de cobras deslizando e fluindo pelo chão. </i></p> \t \t<p><strong>CA</strong> 12, <strong>PV</strong> 19, <strong>ATQ</strong> 3 mordida +2 (1d4 + veneno), <strong>MV</strong> Perto, <strong>F</strong> -3, <strong>D</strong> +2, <strong>C</strong> +1, <strong>I</strong> -3, <strong>S</strong> +0, <strong>Car</strong> -3, <strong>AL</strong> N, <strong>NV</strong> 4</p> \t<p><strong> Veneno</strong>. [[check 12 con]] ou cai para 0 PV em 1d4 rodadas.</p>"
@@ -3739,7 +3739,7 @@
       "notes": "\n\t<p><i> Abdômen bulboso e oito pernas finas e compridas. Vivem no alto de árvores ou em cavernas emboscando suas presas, capturando-as para devorá-las depois. </i></p>\n\t\n\t<p><strong>CA</strong> 13, <strong>PV</strong> 13, <strong>ATQ</strong> 1 mordida +3 (1d4 + veneno), <strong>MV</strong> Perto (escalar), <strong>F</strong> +2, <strong>D</strong> +3, <strong>C</strong> +0, <strong>I</strong> -2, <strong>S</strong> +1, <strong>Car</strong> -2, <strong>AL</strong> N, <strong>NV</strong> 3</p>\n\t<p><strong> Veneno</strong>. [[check 12 con]] ou paralisia por [[/r 1d4]] horas.</p>"
     },
     "Spider, Swarm": {
-      "name": "Grupo de Aranhas",
+      "name": "Aranhas, Grupo de",
       "tokenName": "Grupo de Aranhas",
       "items": {
         "Bite": {
