@@ -4,6 +4,19 @@ Módulo de tradução para ShadowDark RPG no FoundryVTT.
 Uma tradução usando os termos oficiais, de acordo com a LaserHead Press.
 Based on Rabbit Hole French Translation.
 
+[![GitHub version](https://img.shields.io/github/v/release/luizrcb/shadowdark-rpg-br?style=flat&label=module%20version&logo=sellfy&logoColor=white)](https://github.com/luizrcb/shadowdark-rpg-br/releases/latest)
+[![Foundry Version Compatibility](https://img.shields.io/endpoint?url=https%3A%2F%2Ffoundryshields.com%2Fversion%3Furl%3Dhttps%253A%252F%252Fraw.githubusercontent.com%252Fluizrcb%252Fshadowdark-rpg-br%252Fmain%252Fmodule.json&style=flat&logo=foundryvirtualtabletop&logoColor=white)](https://foundryvtt.com/)
+[![GitHub Release Date](https://img.shields.io/github/release-date/luizrcb/shadowdark-rpg-br?style=flat&logo=github&logoColor=white)](https://github.com/luizrcb/shadowdark-rpg-br/releases)
+[![GitHub commits since latest release](https://img.shields.io/github/commits-since/luizrcb/shadowdark-rpg-br/latest?style=flat&logo=github&logoColor=white)](https://github.com/luizrcb/shadowdark-rpg-br/commits/main/)
+[![GitHub contributors](https://img.shields.io/github/contributors/luizrcb/shadowdark-rpg-br?style=flat&logo=github&logoColor=white)](https://github.com/luizrcb/shadowdark-rpg-br/graphs/contributors)
+[![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&logo=github&logoColor=white)](https://github.com/luizrcb/shadowdark-rpg-br/issues)
+[![GitHub issues](https://img.shields.io/github/issues/luizrcb/shadowdark-rpg-br?style=flat&logo=github&logoColor=white)](https://github.com/luizrcb/shadowdark-rpg-br/issues)
+[![GitHub license](https://img.shields.io/github/license/luizrcb/shadowdark-rpg-br?style=flat&logo=github&logoColor=white)](https://github.com/luizrcb/shadowdark-rpg-br/blob/main/LICENSE)
+
+![GitHub downloads](https://img.shields.io/github/downloads/luizrcb/shadowdark-rpg-br/total?label=Downloads&logo=github&logoColor=white)
+![GitHub downloads Latest](https://img.shields.io/github/downloads/luizrcb/shadowdark-rpg-br/latest/total?label=Downloads%20Latest%20Release&logo=github&logoColor=white)
+[![Report Bugs](https://img.shields.io/badge/Report%20Bugs%20on%20GitHub-2dba4e?logo=GitHub&logoColor=white)](https://github.com/luizrcb/shadowdark-rpg-br/issues)
+
 ## Como Usar
 
 - Instale o módulo babele e esse módulo.
