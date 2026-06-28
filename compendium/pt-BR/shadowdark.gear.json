@@ -49,7 +49,7 @@
     },
     "Chainmail": {
       "name": "Cota de Malha",
-      "description": "DESV em furtividade e natação"
+      "description": "DESV em furtividade e natação."
     },
     "Club": {
       "name": "Clava",
@@ -185,7 +185,7 @@
     },
     "Plate Mail": {
       "name": "Armadura de Placas",
-      "description": "DESV em furtividade, não pode nadar"
+      "description": "DESV em furtividade, não pode nadar."
     },
     "Pole": {
       "name": "Vara",
@@ -209,7 +209,7 @@
     },
     "Round Shield": {
       "name": "Escudo Redondo",
-      "description": "Ocupa uma mão, ruptura"
+      "description": "Ocupa uma mão, ruptura."
     },
     "Salve": {
       "name": "Bálsamo",
